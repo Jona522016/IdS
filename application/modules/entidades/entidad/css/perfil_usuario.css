@@ -1,0 +1,48 @@
+	.kv-avatar .krajee-default.file-preview-frame,.kv-avatar .krajee-default.file-preview-frame:hover {
+	   margin: 0;
+	   padding: 0;
+	   border: none;
+	   box-shadow: none;
+	   text-align: center;
+	}
+	.kv-avatar {
+	   display: inline-block;
+	}
+	.kv-avatar .file-input {
+	   display: table-cell;
+	   width: 213px;
+	}
+	.kv-reqd {
+	   color: red;
+	   font-family: monospace;
+	   font-weight: normal;
+	}
+
+	.poor {
+		font-weight:bold;
+		color:#FF0000;
+		font-size:larger;
+	}
+	.weak{
+		font-weight:bold;
+		color:orange;
+		font-size:larger;
+	}
+	.good{
+		font-weight:bold;
+		color:#2D98F3;
+		font-size:larger;
+	}
+	.strong{
+		font-weight:bold;
+		color: limegreen;
+		font-size:larger;
+	}
+	.excellent{
+		font-weight:bold;
+		color: green;
+		font-size:larger;
+	}
+	.progress-bar-excellent {
+	   background-color: green;
+	}

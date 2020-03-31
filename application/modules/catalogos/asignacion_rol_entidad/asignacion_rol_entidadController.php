@@ -1,0 +1,114 @@
+<?php
+class asignacion_rol_entidadController extends Controller{
+
+	public function __construct(){
+		parent::__construct();
+		$this->modelo=$this->loadModel('asignacion_rol_entidad','catalogos');
+		$this->modeloRol=$this->loadModel('rol_entidad','catalogos');
+		$this->modeloEntidad=$this->loadModel('entidad','entidades');
+		
+	}
+	
+	public function index(){
+		$this->view->setMainJs(array(
+			'JQGRID'
+			,'JQGRID_ES'
+			,'JQUERY_INPUTMASK'
+			,'JQUERY_ALERTS'
+			,'BOOTSTRAP_DUAL_LISTBOX'
+		));			
+		$this->view->setMainCss(array(
+			'BOOTSTRAP_DUAL_LISTBOX'
+			,'JQUERY_ALERTS'
+		));
+		$combo=$this->generarCombo($this->modeloRol,array('id'=>'rol_entidad'));	
+		$this->view->rol_entidad = $combo['combo'];	
+		$combo=$this->generarCombo($this->modeloEntidad,array('id'=>'entidades','class'=>'bdual-list','multiple'=>'multiple','no_elegir'=>true));	
+		$this->view->entidades = $combo['combo'];	
+		
+		$this->view->setJs(array('asignacion_rol_entidad'));		
+		$this->view->rendering('asignacion_rol_entidad');		
+	}
+	
+	public function DataTable($id=false,$idrow=false){
+		$get=$_REQUEST;
+		$get['id']=$id;
+		$search = filter_var($get['_search'], FILTER_VALIDATE_BOOLEAN);
+		
+		if ($search){
+			$filtros = json_decode($_REQUEST['filters'],true);
+			$filtros['rules'][]=array('field'=>'id_rol_entidad','op'=>'eq','data'=>$idrow);
+			$filter=json_encode($filtros);
+		}else{
+			$filtros=array('groupOp'=>'AND','rules'=>array(array('field'=>'id_rol_entidad','op'=>'eq','data'=>$idrow)));
+			$filter=json_encode($filtros);
+			$get['_search']=true;
+			$get['filters']=$filter;
+		}				
+		
+		$getdata = $this->DataTableView($get,$this->modelo);
+		echo json_encode($getdata);
+	}
+
+	public function DataTableEdit($id=false,$id_rol=false){
+		$datos = $_POST;
+		if (array_key_exists('id',$datos)){
+			if ($datos['id']=="_empty"){
+				$id="0";
+			}else{
+				$id = $datos['id'];	
+			}
+		}else{
+			$id = $datos[$id];
+		}
+		$datos['id_rol_entidad']=$id_rol;
+		$params=array('id'=>$id,'operacion'=>$datos['oper'],'datos'=>$datos);
+		$resultado = $this->modelo->crudData($params);
+		echo $resultado;
+	}	
+	
+	public function grabar_datos($id=false){
+		$datos = $_POST;
+		$params=array('prepare'=>true,'operacion'=>'delreg','datos'=>array('id_rol_entidad'=>$id));
+		$resultado = $this->modelo->ejecutarQuery($params);
+		foreach($datos as $dato){
+			$params=array('operacion'=>'add','datos'=>$dato);
+			$resultado = $this->modelo->cudData($params);
+		}
+		echo json_encode($resultado);
+	}	
+
+
+	public function obtener_datos($id=false){
+		$datos = $_POST;
+		$params=array('prepare'=>true,'operacion'=>'obtener_datos','datos'=>array('id_rol_entidad'=>$id));
+		$resultado = $this->modelo->ejecutarQuery($params);
+		echo json_encode($resultado);
+	}		
+
+
+	
+	public function ObtenerDatosComboRol($clave){
+		$params=array('operacion'=>'combo_rol','clave'=>$clave);
+		$resultado = $this->modelo->crudData($params);
+		echo $resultado;
+	}	
+	
+	public function ObtenerComboRol($clave){
+		$params=array('operacion'=>'combo_rol','clave'=>$clave);
+		$data = $this->modelo->crudData($params);
+		$data = json_decode($data,true);
+		$combo  = "<select id='$id' name='$id' class='form-control' >";
+		$combo .= "<option value = '0' selected='selected' class='elegir' >Elija una opción</option>";
+		foreach($data as $registro){
+			$combo .= "<option value = '".$registro['id']."' >".$registro['descripcion']."</option>";
+		}
+		$combo .= "</select>";
+		return $combo;		
+	}			
+
+	
+	
+	
+}
+?>

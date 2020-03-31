@@ -1,0 +1,423 @@
+/*	
+*	#######################################################
+*	
+*	Estilos Personalizados para KIngAdmin 
+*	-------------------------------------------------------
+*	Version		1.0
+*	Author		Angel Torres - Ideas y Sistemas
+*	
+*	#######################################################
+*/
+
+imagen-responsive{
+	
+}
+
+.toggle-sidebar-collapse {
+ 	padding-top: 7px;
+}
+
+
+/*	
+*	################################################################################
+*	
+*	JqGrid
+*	---------------------------------------------------------------------
+*	Version		1.0
+*	Author		Angel Torres
+*	
+*	################################################################################
+*/
+.ui-jqgrid .ui-jqgrid-hbox, .ui-jqgrid thead {
+    background-color: #3874FF;
+    color: #FFF;
+}
+
+/*	
+*	################################################################################
+*	
+*	Centrar Panel del pager de JqGrid
+*	
+*	################################################################################
+*/
+
+.ui-jqgrid .ui-jqgrid-pager .ui-pager-table, .ui-jqgrid .ui-jqgrid-toppager .ui-pager-table {
+    width: 98%;
+    table-layout: fixed;
+    height: 100%;
+}
+
+/*	
+*	################################################################################
+*	
+*	Acepta mas de una linea en el encabezado de JqGrid
+*	
+*	################################################################################
+*/
+
+
+th.ui-th-column div {
+	white-space: normal !important;
+	height: auto !important;
+	padding: 2px;
+}
+
+
+/*	
+*	################################################################################
+*	
+*	
+*	
+*	################################################################################
+*/
+.ui-state-error, .ui-widget-content .ui-state-error {border: 1px solid #cd0a0a; background: #b81900 50% 50% repeat; color: #ffffff; }
+.ui-state-error a, .ui-widget-content .ui-state-error a { color: #ffffff; }
+.ui-state-error-text, .ui-widget-content .ui-state-error-text { color: #ffffff; }
+
+
+/*	
+*	################################################################################
+*	
+*	Iconos que se usan en botones del JqGrid
+*	
+*	################################################################################
+*/
+
+/* line 455, ../../sass/partials/_tables.scss */
+.ui-jqgrid .ui-jqgrid-pager .ui-pg-div span.ui-icon.ui-icon-mail-close:before,
+.ui-jqgrid .ui-jqgrid-pager .ui-icon.ui-icon-mail-close:before {
+  content: '\f003';
+}
+
+/* line 458, ../../sass/partials/_tables.scss */
+.ui-jqgrid .ui-jqgrid-pager .ui-pg-div span.ui-icon.ui-icon-mail-close:hover,
+.ui-jqgrid .ui-jqgrid-pager .ui-icon.ui-icon-mail-close:hover {
+  color: #2bc64e;
+}
+
+/* line 455, ../../sass/partials/_tables.scss */
+.ui-jqgrid .ui-jqgrid-pager .ui-pg-div span.ui-icon.ui-icon-print:before,
+.ui-jqgrid .ui-jqgrid-pager .ui-icon.ui-icon-print:before {
+  content: '\f02f';
+}
+
+/* line 458, ../../sass/partials/_tables.scss */
+.ui-jqgrid .ui-jqgrid-pager .ui-pg-div span.ui-icon.ui-icon-print:hover,
+.ui-jqgrid .ui-jqgrid-pager .ui-icon.ui-icon-print:hover {
+  color: #45ab5f;
+} 
+
+/* line 455, ../../sass/partials/_tables.scss */
+.ui-jqgrid .ui-jqgrid-pager .ui-pg-div span.ui-icon.ui-icon-cogs:before,
+.ui-jqgrid .ui-jqgrid-pager .ui-icon.ui-icon-cogs:before {
+  content: '\f085';
+}
+
+/* line 458, ../../sass/partials/_tables.scss */
+.ui-jqgrid .ui-jqgrid-pager .ui-pg-div span.ui-icon.ui-icon-cogs:hover,
+.ui-jqgrid .ui-jqgrid-pager .ui-icon.ui-icon-cogs:hover {
+  color: #2d38c4;
+} 
+
+/* line 455, ../../sass/partials/_tables.scss */
+.ui-jqgrid .ui-jqgrid-pager .ui-pg-div span.ui-icon.ui-icon-disk:before,
+.ui-jqgrid .ui-jqgrid-pager .ui-icon.ui-icon-disk:before {
+  content: '\f0c7';
+}
+
+/* line 458, ../../sass/partials/_tables.scss */
+.ui-jqgrid .ui-jqgrid-pager .ui-pg-div span.ui-icon.ui-icon-disk:hover,
+.ui-jqgrid .ui-jqgrid-pager .ui-icon.ui-icon-disk:hover {
+  color: #45ab5f;
+} 
+
+/* line 455, ../../sass/partials/_tables.scss */
+.ui-jqgrid .ui-jqgrid-pager .ui-pg-div span.ui-icon.ui-icon-cancel:before,
+.ui-jqgrid .ui-jqgrid-pager .ui-icon.ui-icon-disk:before {
+  content: '\f05e';
+}
+
+/* line 458, ../../sass/partials/_tables.scss */
+.ui-jqgrid .ui-jqgrid-pager .ui-pg-div span.ui-icon.ui-icon-cancel:hover,
+.ui-jqgrid .ui-jqgrid-pager .ui-icon.ui-icon-disk:hover {
+  color: #e33d0d;
+} 
+
+/* line 426, ../../sass/partials/_tables.scss */
+.ui-jqgrid .ui-sgcollapsed .sgcollapsed span.ui-icon.ui-icon-plus:before,
+.ui-jqgrid .ui-sgcollapsed .ui-icon.ui-icon-plus:before {
+  content: '\f067';
+  width: 30px;
+}
+/* line 430, ../../sass/partials/_tables.scss */
+.ui-jqgrid .ui-sgcollapsed .sgcollapsed span.ui-icon.ui-icon-plus:hover,
+.ui-jqgrid .ui-sgcollapsed .ui-icon.ui-icon-plus:hover {
+  color: #54c21f;
+}
+
+/* line 426, ../../sass/partials/_tables.scss */
+.ui-jqgrid .ui-sgcollapsed .sgexpanded span.ui-icon.ui-icon-minus:before,
+.ui-jqgrid .ui-sgcollapsed .ui-icon.ui-icon-minus:before {
+  content: '\f068';
+  
+}
+.ui-jqgrid .ui-sgcollapsed .sgexpanded span.ui-icon.ui-icon-minus:before,
+.ui-jqgrid .ui-sgcollapsed .ui-icon.ui-icon-minus:before {
+  color: #da1707;
+}
+
+/* line 426, ../../sass/partials/_tables.scss */
+.ui-jqgrid .ui-sgcollapsed .sgexpanded span.ui-icon.ui-icon-list-alt:before,
+.ui-jqgrid .ui-sgcollapsed .ui-icon.ui-icon-list-alt:before {
+  content: '\f022';
+  
+}
+.ui-jqgrid .ui-sgcollapsed .sgexpanded span.ui-icon.ui-icon-list-alt:before,
+.ui-jqgrid .ui-sgcollapsed .ui-icon.ui-icon-list-alt:before {
+  color: #da1707;
+}
+
+/* line 455, ../../sass/partials/_tables.scss */
+.ui-jqgrid .ui-jqgrid-pager .ui-pg-div span.ui-icon.ui-icon-list-alt:before,
+.ui-jqgrid .ui-jqgrid-pager .ui-icon.ui-icon-list-alt:before {
+  content: '\f022';
+}
+
+/* line 458, ../../sass/partials/_tables.scss */
+.ui-jqgrid .ui-jqgrid-pager .ui-pg-div span.ui-icon.ui-icon-list-alt:hover,
+.ui-jqgrid .ui-jqgrid-pager .ui-icon.ui-icon-list-alt:hover {
+  color: #11df5f;
+} 
+
+
+/*Agranda el largo del jqgrid-pager que cambio de la version 4 a la 5  
+.ui-jqgrid .ui-jqgrid-pager .ui-pager-table {
+	width:100%;
+	table-layout:fixed;
+	height:100%;
+}
+*/
+.ui-jqgrid .ui-jqgrid-hbox {
+  float: left;
+  padding-right: 1px;
+}
+
+.ui-jqgrid .ui-jqgrid-pager{
+	height: 45px;
+}
+
+.ui-jqgrid .ui-jqgrid-pager .ui-pager-control {
+    padding-top: 15px;
+}
+/*
+.ui-jqgrid .ui-jqgrid-hbox, .ui-jqgrid thead {
+    background-color: #593fc2;
+    color: #FFF;
+}
+*/
+
+.top-bar .logged-user .btn img {
+    border: none; 
+}
+
+/* Si el contenido de un div es de mayor tamaño que el div */
+.widget-content{
+	overflow-x: auto;
+}
+
+
+
+
+
+/*Responsive JQgrid
+.ui-jqgrid .ui-jqgrid-toppager .ui-pager-control, .ui-jqgrid .ui-jqgrid-pager .ui-pager-control {
+  height: auto;
+}
+.ui-jqgrid .ui-pager-control td[id$="_toppager_center"], .ui-jqgrid .ui-pager-control td[id$="pager_center"] {
+  width: auto !important;
+  white-space: normal !important;
+    height: auto;
+}
+.ui-jqgrid .ui-pager-control td[id$="_toppager_left"], .ui-jqgrid .ui-pager-control td[id$="pager_left"] {
+  width: auto !important;
+  white-space: normal !important;
+    height: auto;
+
+}
+.ui-jqgrid .ui-pager-control td[id$="_toppager_right"], .ui-jqgrid .ui-pager-control td[id$="pager_right"] {
+  width: auto !important;
+  white-space: normal !important;
+    height: auto;
+}
+.ui-jqgrid .ui-jqgrid-bdiv, .ui-jqgrid .ui-jqgrid-view.table-responsive, .ui-jqgrid, .ui-jqgrid-pager,
+.ui-jqgrid-toppager, .ui-jqgrid-hdiv {
+    width: auto !important;
+}
+.ui-jqgrid .ui-pager-control td[id$="_toppager_left"], .ui-jqgrid .ui-pager-control td[id$="pager_left"],
+.ui-jqgrid .ui-pager-control td[id$="_toppager_center"], .ui-jqgrid .ui-pager-control td[id$="pager_center"] {
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+*/
+
+
+/*	
+*	################################################################################
+*	
+*	Bootstrap Modal
+*	---------------------------------------------------------------------
+*	Version		1.0
+*	Author		Angel Torres
+*	
+*	################################################################################
+*/
+
+.modal-dialog {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    padding: 10px;
+    z-index: 1050;
+	}
+
+#myModal .modal-body {
+	overflow-y: auto;
+	max-height: 900px;
+	width:whatever;
+	overflow: visible;
+}  
+
+
+
+/*	
+*	################################################################################
+*	
+*	ComboBox
+*	---------------------------------------------------------------------
+*	Version		1.0
+*	Author		Angel Torres
+*	
+*	################################################################################
+*/
+
+
+/*Opciones de ComboBox*/
+.elegir
+{
+	color:white;
+	font-size:0px;
+	display:none;
+}
+
+
+/*	
+*	################################################################################
+*	
+*	 Vertical Divider
+*	---------------------------------------------------------------------
+*	Version		1.0
+*	Author		Angel Torres
+*	
+*	################################################################################
+*/
+
+.row.vertical-divider {
+  overflow: hidden;
+}
+.row.vertical-divider > div[class^="col-"] {
+  text-align: left;
+  padding-bottom: 100px;
+  margin-bottom: -100px;
+  border-left: 1px solid #d2d5d5;
+  border-right: 1px solid #d2d5d5;
+}
+.row.vertical-divider div[class^="col-"]:first-child {
+  border-left: none;
+}
+.row.vertical-divider div[class^="col-"]:last-child {
+  border-right: none;
+}
+
+/*	
+*	################################################################################
+*	
+*	 Validate Plugin
+*	---------------------------------------------------------------------
+*	Version		1.0
+*	Author		Angel Torres
+*	
+*	################################################################################
+*/
+
+.error-block {
+    display: block;
+    margin-top: 4px;
+    margin-bottom: 10px;
+    color: #e61700;
+    font-size: 0.9em;
+}
+
+
+
+/*Estados de Validate Plugin*/
+/*
+ * error state
+ */
+.state-error input,
+.state-error select,
+.state-error textarea,
+.radio.state-error i,
+.checkbox.state-error i,
+.toggle.state-error i {
+  background: #fff0f0;
+  border-color: #A90329;
+}
+.toggle.state-error input:checked + i {
+  background: #fff0f0;
+}
+.state-error + em {
+  display: block;
+  margin-top: 6px;
+  padding: 0 1px;
+  font-style: normal;
+  font-size: 11px;
+  line-height: 15px;
+  color: #D56161;
+}
+.rating.state-error + em {
+  margin-top: -4px;
+  margin-bottom: 4px;
+}
+.state-error select + i {
+  background: #FFF0F0;
+  box-shadow: 0 0 0 9px #FFF0F0;
+}
+.state-error .icon-append,
+.state-error .icon-prepend {
+  color: #ed1c24;
+}
+/*
+ * success state
+ */
+.state-success input,
+.state-success select,
+.state-success textarea,
+.radio.state-success i,
+.checkbox.state-success i,
+.toggle.state-success i {
+  background: #f0fff0;
+  border-color: #7DC27D;
+}
+.toggle.state-success input:checked + i {
+  background: #f0fff0;
+}
+.note-success {
+  color: #6fb679;
+}
+.state-success select + i {
+  background: honeyDew;
+  box-shadow: 0 0 0 9px honeyDew;
+}
+
+
+/*

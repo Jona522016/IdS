@@ -1,0 +1,35 @@
+<form class="form-horizontal" role="form">
+	<p class="title">Recuperar Clave de Acceso de Usuario</p>
+	<div class="form-group">
+		<label for="usuario" class="control-label sr-only">Usuario</label>
+		<div class="col-sm-12">
+			<div class="input-group">
+				<input type="text" placeholder="Usuario" id="usuario" autocomplete="username" class="form-control">
+				<span class="input-group-addon"><i class="fa fa-user"></i></span>
+			</div>
+		</div>
+	</div>
+	<label for="clave_acceso1" class="control-label sr-only">Nueva Clave de Acceso</label>
+	<div class="form-group">
+		<div class="col-sm-12">
+			<div class="input-group">
+				<input type="password" placeholder="Nueva Clave de Acceso" id="clave_acceso1" autocomplete="current-password" class="form-control">
+				<span class="input-group-addon"><i class="fa fa-lock"></i></span>
+			</div>
+		</div>
+	</div>
+	<label for="clave_acceso" class="control-label sr-only">Confirmar Clave de Acceso</label>
+	<div class="form-group">
+		<div class="col-sm-12">
+			<div class="input-group">
+				<input type="password" placeholder="Confirmar Clave de Acceso" id="clave_acceso2" autocomplete="current-password" class="form-control">
+				<span class="input-group-addon"><i class="fa fa-lock"></i></span>
+			</div>
+		</div>
+	</div>	
+	<button id="ingresar" class="btn btn-custom-primary btn-lg btn-block btn-auth"><i class="fa fa-arrow-circle-o-right"></i> Ingresar</button>
+</form>
+<div class="links">
+	<p><a href="<?php echo BASE_URL;?>entidades/entidad/restablecerClave">¿Olvido su Contraseña?</a></p>
+</div>
+		

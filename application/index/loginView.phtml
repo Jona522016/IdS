@@ -1,0 +1,40 @@
+<form id="frmLogin" class="form-horizontal" role="form">
+	<input type="hidden" id="id_empresa" value="<?php echo $this->id_empresa ?>">
+	<input type="hidden" id="nombre_empresa" value="<?php echo $this->nombre_empresa ?>">
+	<input type="hidden" id="logo" value="<?php echo $this->logo ?>">
+	<input type="hidden" id="registros" value="<?php echo $this->reg ?>">
+	
+	<p class="title">Empresa</p>
+	<?php 
+		if($this->reg>1){
+			echo $this->empresas;
+		}else{
+			echo '<h1 style="text-align: center; text-shadow: 2px 2px #9f9ca5;font-weight: bolder; ">'.$this->nombre_empresa.'</h1>';
+		}
+	?>
+
+	<p class="title">Autenticación de Usuarios</p>
+	<div class="form-group">
+		<label for="usuario" class="control-label sr-only">Usuario</label>
+		<div class="col-sm-12">
+			<div class="input-group">
+				<input type="text" placeholder="Usuario" id="usuario" name="usuario" autocomplete="username" class="form-control" autofocus="true"  >
+				<span class="input-group-addon"><i class="fa fa-user"></i></span>
+			</div>
+		</div>
+	</div>
+	<div class="form-group">
+		<label for="clave_acceso" class="control-label sr-only">Clave de Acceso</label>
+		<div class="col-sm-12">
+			<div class="input-group">
+				<input type="password" placeholder="Clave de Acceso" id="clave_acceso" name="clave_acceso" autocomplete="current-password" class="form-control">
+				<span class="input-group-addon"><i class="fa fa-lock"></i></span>
+			</div>
+		</div>
+	</div>
+	<button type="button" id="ingresar" class="btn btn-custom-primary btn-lg btn-block btn-auth"><i class="fa fa-arrow-circle-o-right"></i> Ingresar</button>
+</form>
+<div class="links">
+	<p><a href="<?php echo BASE_URL;?>entidades/entidad/restablecerClave">¿Olvido su Contraseña?</a></p>
+</div>
+		

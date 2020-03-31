@@ -1,0 +1,17 @@
+.ui-widget-content, 
+.jqgrow,
+.ui-row-ltr,
+.ui-row-ltr:hover,
+.ui-state-highlight,
+.ui-state-default, 
+.ui-th-column,
+.ui-th-ltr,
+.ui-widget-content .ui-state-default, 
+.ui-widget-header .ui-state-default,
+#grid,
+#grid tr:hover{
+  
+    background:none;
+    border:none;
+    border-color:white;
+}

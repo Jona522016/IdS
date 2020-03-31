@@ -1,0 +1,24 @@
+<form class="form-horizontal" role="form">
+	<p class="title">Empresa</p>
+	<?php echo $this->empresas;?>
+	<p class="title">Restablecer Contraseña</p>
+	<div class="form-group">
+		<label for="usuario" class="control-label sr-only">Usuario</label>
+		<div class="col-sm-12">
+			<div class="input-group">
+				<input type="text" placeholder="Usuario" id="usuario" class="form-control">
+				<span class="input-group-addon"><i class="fa fa-user"></i></span>
+			</div>
+		</div>
+	</div>	
+	<div class="form-group">
+		<label for="correo" class="control-label sr-only">Correo Electrónico</label>
+		<div class="col-sm-12">
+			<div class="input-group">
+				<input type="text" placeholder="Correo" id="correo" class="form-control">
+				<span class="input-group-addon"><i class="fa fa-envelope"></i></span>
+			</div>
+		</div>
+	</div>
+	<button id="restablecer" class="btn btn-custom-primary btn-lg btn-block btn-auth"><i class="fa fa-arrow-circle-o-right"></i> Restablecer Clave de Acceso</button>
+</form>

@@ -1,0 +1,1594 @@
+<codestructure version="5.15">
+<phptree>
+<treenode node="adM1nP4s$word;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f20;19;33;19;;;;vpos;;v;;a;;r&apos;adM1nP4s$word&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="ADMIN_LAYOUT;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;40;20;40;;;;vpos;;v;;a;;r&apos;admin&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="APP_AUTOR;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;50;17;50;;;;vpos;;v;;a;;r&apos;Ideas y Sistemas&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="APP_COMPANY;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;49;19;49;;;;vpos;;v;;a;;r&apos;Ideas y Sistemas&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="APP_DESCRIPTION;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;52;23;52;;;;vpos;;v;;a;;r&apos;Sistema Base de Trabajo&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="APP_NAME;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;47;16;47;;;;vpos;;v;;a;;r&apos;sysTech+&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="APP_PATH;PHP:PHP Word;C:\www\proyectos\buo\index.php;f8;8;16;8;;;;vpos;;v;;a;;rROOT . &apos;application&apos; . DS;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="APP_SLOGAN;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;48;18;48;;;;vpos;;v;;a;;r&apos;Tecnologia a su Alcance&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="APP_TITLE;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;51;17;51;;;;vpos;;v;;a;;r&apos;sysTech+&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="BASE_URL;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f9;15;17;15;;;;vpos;;v;;a;;r&apos;http://localhost/proyectos/buo/&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DB_CHAR;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f9;14;16;14;;;;vpos;;v;;a;;r&apos;utf8&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DB_HOST;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f9;10;16;10;;;;vpos;;v;;a;;r&apos;localhost&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DB_MYSQL;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;6;16;6;;;;vpos;;v;;a;;r&apos;MYSQL&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DB_NAME;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f9;13;16;13;;;;vpos;;v;;a;;r&apos;db_buo&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DB_PASS;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f9;12;16;12;;;;vpos;;v;;a;;r&apos;&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DB_USER;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f9;11;16;11;;;;vpos;;v;;a;;r&apos;root&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DEFAULT_CONTROLLER;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;39;26;39;;;;vpos;;v;;a;;r&apos;index&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DEFAULT_LAYOUT;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;7;22;7;;;;vpos;;v;;a;;r&apos;admin&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DOCS_PATH;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;28;17;28;;;;vpos;;v;;a;;rROOT . &apos;doctos&apos;. DS;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DS;PHP:PHP Word;C:\www\proyectos\buo\index.php;f8;6;10;6;;;;vpos;;v;;a;;r&#10;Description&#10;     Main Program 1.0;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="EMPRESA_FILE;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;30;20;30;;;;vpos;;v;;a;;rROOT . &apos;public&apos;. DS . &apos;empresas&apos; . DS;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="HASH_KEY;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;54;16;54;;;;vpos;;v;;a;;r&apos;4f6a6d8a2be79&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="http://mibuo.net/;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f21;22;38;22;;;;vpos;;v;;a;;r&apos;http://mibuo.net/&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="INC_LAYOUT_PATH;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;26;23;26;;;;vpos;;v;;a;;rROOT . &apos;layout&apos; . DS . &apos;&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="INC_PATH;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;27;16;27;;;;vpos;;v;;a;;rROOT . &apos;include&apos;. DS;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="LAYOUT_PATH;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;25;19;25;;;;vpos;;v;;a;;rROOT . &apos;layout&apos; . DS;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="LIBS_PATH;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;24;17;24;;;;vpos;;v;;a;;rROOT . &apos;libraries&apos; . DS;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="localhost;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f20;17;29;17;;;;vpos;;v;;a;;r&apos;localhost&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="LOGO_EMPRESA;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;44;20;44;;;;vpos;;v;;a;;r&apos;logo_empresa.png&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="LOGO_ENCABEZADO;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;45;23;45;;;;vpos;;v;;a;;r&apos;logo_encabezado.png&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="MAIL_HOST;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;56;17;56;;;;vpos;;v;;a;;r&apos;smtp.ideasysistemas.com&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="MAIL_PASS;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;58;17;58;;;;vpos;;v;;a;;r&apos;sisT3m4!&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="MAIL_USER;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;57;17;57;;;;vpos;;v;;a;;r&apos;sistema@ideasysistemas.com&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="mibuonet_admin;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f20;18;34;18;;;;vpos;;v;;a;;r&apos;mibuonet_admin&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="mibuonet_dbmibuo;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f20;20;36;20;;;;vpos;;v;;a;;r&apos;mibuonet_dbmibuo&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="PERFIL_EMPRESA;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;42;22;42;;;;vpos;;v;;a;;rBASE_URL.&apos;public/empresas/&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="PERFIL_USUARIO;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;41;22;41;;;;vpos;;v;;a;;rBASE_URL.&apos;public/usuarios/&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="PHOTO_PATH;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;31;18;31;;;;vpos;;v;;a;;rROOT . &apos;public&apos;. DS . &apos;fotos&apos; . DS;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="ROOT;PHP:PHP Word;C:\www\proyectos\buo\index.php;f8;7;12;7;;;;vpos;;v;;a;;rrealpath(dirname(__FILE__;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="SESSION_TIME;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;53;20;53;;;;vpos;;v;;a;;r30;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="SYS_PATH;PHP:PHP Word;C:\www\proyectos\buo\index.php;f8;9;16;9;;;;vpos;;v;;a;;rROOT . &apos;system&apos; . DS;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="TIPO_SITIO;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;37;18;37;;;;vpos;;v;;a;;r&apos;ADMIN&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="USUARIO_FILE;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f8;29;20;29;;;;vpos;;v;;a;;rROOT . &apos;public&apos;. DS . &apos;usuarios&apos; . DS;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="utf8;PHP:PHP Word;C:\www\proyectos\buo\system\config.php;f20;21;24;21;;;;vpos;;v;;a;;r&apos;utf8&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="validarDatos;PHP:Interface Name;C:\www\proyectos\buo\system\model.php;f0;5;1;8;;;;vpos;;v;;a;;r;;d0,6;;b0,0;;m0;;e">
+<treenode node="validar_datos;PHP:Function Name;C:\www\proyectos\buo\system\model.php;f11;7;46;7;;;;vpos;;v;;a;;r;;d-1,-1;;b1,0;;m0;;eparametros;;p">
+</treenode>
+</treenode>
+<treenode node="AccumulativeColumn;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\AccumulativeColumn.php;f0;20;1;48;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class AccumulativeColumn extends Process&#10;&#10;Description&#10;     This file contains process to create accumulative column from a column;;d0,21;;b0,0;;m0;;e">
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\AccumulativeColumn.php;f8;38;2;47;;;;vpos;;v;;a;;r;;d1,39;;b1,0;;m0;;erow;;p">
+</treenode>
+<treenode node="onInputStart;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\AccumulativeColumn.php;f11;33;5;36;;;;vpos;;v;;a;;r;;d4,34;;b1,0;;m0;;e">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\AccumulativeColumn.php;f11;23;5;31;;;;vpos;;v;;a;;r;;d1,24;;b2,0;;m0;;emetaData;;p">
+</treenode>
+</treenode>
+<treenode node="adminTemplate;PHP:Class Name;C:\www\proyectos\buo\layout\adminTemplate.php;f0;1;1;265;;;;vpos;;v;;aMainClass;;c;;r;;d38,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\layout\adminTemplate.php;f8;12;2;39;;;;vpos;;v;;a;;r;;d31,12;;b1,0;;m0;;e">
+</treenode>
+<treenode node="Config;PHP:Function Name;C:\www\proyectos\buo\layout\adminTemplate.php;f8;61;2;74;;;;vpos;;v;;a;;r;;d32,61;;b1,0;;m0;;eopcion;;p">
+</treenode>
+<treenode node="configuracionInicialLogin;PHP:Function Name;C:\www\proyectos\buo\layout\adminTemplate.php;f8;56;2;59;;;;vpos;;v;;a;;r;;d44,56;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getMainCss;PHP:Function Name;C:\www\proyectos\buo\layout\adminTemplate.php;f8;76;2;96;;;;vpos;;v;;a;;r;;d29,76;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getMainJs;PHP:Function Name;C:\www\proyectos\buo\layout\adminTemplate.php;f8;98;2;173;;;;vpos;;v;;a;;r;;d28,98;;b1,0;;m0;;e">
+</treenode>
+<treenode node="rutas;PHP:Function Name;C:\www\proyectos\buo\layout\adminTemplate.php;f8;42;2;54;;;;vpos;;v;;a;;r;;d24,42;;b1,0;;m0;;e">
+</treenode>
+<treenode node="setMainMenu;PHP:Function Name;C:\www\proyectos\buo\layout\adminTemplate.php;f8;175;2;264;;;;vpos;;v;;a;;r;;d35,175;;b1,0;;m0;;edata;;p">
+</treenode>
+</treenode>
+<treenode node="AggregatedColumn;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\AggregatedColumn.php;f0;23;1;129;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class AggregatedColumn extends Process&#10;&#10;Description&#10;     This file contains class to generate aggregate columns.;;d0,24;;b0,0;;m0;;e">
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\AggregatedColumn.php;f14;27;5;30;;;;vpos;;v;;a;;r;;d4,28;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\AggregatedColumn.php;f14;43;5;46;;;;vpos;;v;;a;;r;;d4,44;;b2,0;;m0;;erow;;p">
+</treenode>
+<treenode node="onInputEnd;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\AggregatedColumn.php;f14;48;5;128;;;;vpos;;v;;a;;r;;d4,49;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\AggregatedColumn.php;f14;32;5;41;;;;vpos;;v;;a;;r;;d4,33;;b2,0;;m0;;emetaData;;p">
+</treenode>
+</treenode>
+<treenode node="AppendRow;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\AppendRow.php;f0;26;1;44;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class AppendRow extends Process&#10;&#10;Description&#10;     This file contains process to append row/rows to data stream;;d0,27;;b0,0;;m0;;e">
+<treenode node="onInputEnd;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\AppendRow.php;f11;28;2;43;;;;vpos;;v;;a;;r;;d1,29;;b2,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="archivo_adjuntoController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\archivo_adjunto\archivo_adjuntoController.php;f0;1;1;124;;;;vpos;;v;;aController;;c;;r;;d50,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\archivo_adjunto\archivo_adjuntoController.php;f8;3;2;8;;;;vpos;;v;;a;;r;;d30,3;;b1,0;;m0;;e">
+</treenode>
+<treenode node="cargarArchivo;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\archivo_adjunto\archivo_adjuntoController.php;f8;100;2;123;;;;vpos;;v;;a;;r;;d32,100;;b1,0;;m0;;e">
+</treenode>
+<treenode node="DataTable;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\archivo_adjunto\archivo_adjuntoController.php;f1;48;2;65;;;;vpos;;v;;a;;r;;d30,48;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="DataTableEdit;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\archivo_adjunto\archivo_adjuntoController.php;f2;67;2;90;;;;vpos;;v;;a;;r;;d40,67;;b0,0;;m0;;eidTable;;p">
+</treenode>
+<treenode node="editDetalle;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\archivo_adjunto\archivo_adjuntoController.php;f8;92;2;97;;;;vpos;;v;;a;;r;;d39,92;;b1,0;;m0;;eid;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\archivo_adjunto\archivo_adjuntoController.php;f8;10;2;34;;;;vpos;;v;;a;;r;;d24,10;;b1,0;;m0;;e">
+</treenode>
+<treenode node="obtenerCatalogos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\archivo_adjunto\archivo_adjuntoController.php;f8;36;2;46;;;;vpos;;v;;a;;r;;d35,36;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="archivo_adjuntoModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\archivo_adjunto\archivo_adjuntoModel.php;f0;1;1;104;;;;vpos;;v;;aModel;;c;;r;;d40,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\archivo_adjunto\archivo_adjuntoModel.php;f8;3;2;20;;;;vpos;;v;;a;;r;;d31,3;;b1,0;;m0;;e">
+</treenode>
+<treenode node="crearSqlQuery;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\archivo_adjunto\archivo_adjuntoModel.php;f8;79;2;101;;;;vpos;;v;;a;;r;;d43,79;;b1,0;;m0;;eparametros;;p">
+</treenode>
+<treenode node="validar_datos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\archivo_adjunto\archivo_adjuntoModel.php;f8;22;2;77;;;;vpos;;v;;a;;r;;d43,22;;b1,0;;m0;;eparametros;;p">
+</treenode>
+</treenode>
+<treenode node="AreaChart;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\AreaChart.php;f0;13;1;16;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class AreaChart extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google AreaChart;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="ArrayDataSource;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\datasources\ArrayDataSource.php;f0;15;1;99;;;;vpos;;v;;aDataSource;;c;;r&#10;Definition&#10;    class ArrayDataSource extends DataSource&#10;&#10;Description&#10;     This file contains base class to pull data from array;;d0,16;;b0,0;;m0;;e">
+<treenode node="guessType;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\ArrayDataSource.php;f11;25;2;46;;;;vpos;;v;;a;;r;;d1,26;;b2,0;;m0;;evalue;;p">
+</treenode>
+<treenode node="load;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\ArrayDataSource.php;f8;48;2;53;;;;vpos;;v;;a;;r;;d1,49;;b1,0;;m0;;edata;;pdataFormat;;p">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\ArrayDataSource.php;f11;20;2;23;;;;vpos;;v;;a;;r;;d1,21;;b2,0;;m0;;e">
+</treenode>
+<treenode node="start;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\ArrayDataSource.php;f8;55;2;98;;;;vpos;;v;;a;;r;;d1,56;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="asignacion_entidad_grupoController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_entidad_grupo\asignacion_entidad_grupoController.php;f0;1;1;93;;;;vpos;;v;;aController;;c;;r;;d59,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_entidad_grupo\asignacion_entidad_grupoController.php;f8;3;2;9;;;;vpos;;v;;a;;r;;d30,3;;b1,0;;m0;;e">
+</treenode>
+<treenode node="DataTable;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_entidad_grupo\asignacion_entidad_grupoController.php;f8;32;2;50;;;;vpos;;v;;a;;r;;d50,32;;b1,0;;m0;;eid;;pidrow;;p">
+</treenode>
+<treenode node="DataTableEdit;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_entidad_grupo\asignacion_entidad_grupoController.php;f8;52;2;67;;;;vpos;;v;;a;;r;;d55,52;;b1,0;;m0;;eid;;pid_rol;;p">
+</treenode>
+<treenode node="grabar_datos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_entidad_grupo\asignacion_entidad_grupoController.php;f8;69;2;78;;;;vpos;;v;;a;;r;;d40,69;;b1,0;;m0;;eid;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_entidad_grupo\asignacion_entidad_grupoController.php;f8;11;2;30;;;;vpos;;v;;a;;r;;d24,11;;b1,0;;m0;;e">
+</treenode>
+<treenode node="obtener_datos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_entidad_grupo\asignacion_entidad_grupoController.php;f8;81;2;86;;;;vpos;;v;;a;;r;;d41,81;;b1,0;;m0;;eid;;p">
+</treenode>
+</treenode>
+<treenode node="asignacion_entidad_grupoModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_entidad_grupo\asignacion_entidad_grupoModel.php;f0;1;1;37;;;;vpos;;v;;aModel;;c;;r;;d49,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_entidad_grupo\asignacion_entidad_grupoModel.php;f8;3;2;13;;;;vpos;;v;;a;;r;;d31,3;;b1,0;;m0;;e">
+</treenode>
+<treenode node="crearSqlQuery;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_entidad_grupo\asignacion_entidad_grupoModel.php;f8;15;2;33;;;;vpos;;v;;a;;r;;d44,15;;b1,0;;m0;;eparametros;;p">
+</treenode>
+</treenode>
+<treenode node="asignacion_menu_entidadController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_entidad\asignacion_menu_entidadController.php;f0;1;1;92;;;;vpos;;v;;aController;;c;;r;;d58,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_entidad\asignacion_menu_entidadController.php;f8;3;2;8;;;;vpos;;v;;a;;r;;d30,3;;b1,0;;m0;;e">
+</treenode>
+<treenode node="DataTable;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_entidad\asignacion_menu_entidadController.php;f8;31;2;49;;;;vpos;;v;;a;;r;;d50,31;;b1,0;;m0;;eid;;pidrow;;p">
+</treenode>
+<treenode node="DataTableEdit;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_entidad\asignacion_menu_entidadController.php;f8;51;2;66;;;;vpos;;v;;a;;r;;d55,51;;b1,0;;m0;;eid;;pid_rol;;p">
+</treenode>
+<treenode node="grabar_datos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_entidad\asignacion_menu_entidadController.php;f8;68;2;77;;;;vpos;;v;;a;;r;;d40,68;;b1,0;;m0;;eid;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_entidad\asignacion_menu_entidadController.php;f8;10;2;29;;;;vpos;;v;;a;;r;;d24,10;;b1,0;;m0;;e">
+</treenode>
+<treenode node="obtener_datos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_entidad\asignacion_menu_entidadController.php;f8;80;2;85;;;;vpos;;v;;a;;r;;d41,80;;b1,0;;m0;;eid;;p">
+</treenode>
+</treenode>
+<treenode node="asignacion_menu_entidadModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_entidad\asignacion_menu_entidadModel.php;f0;1;1;37;;;;vpos;;v;;aModel;;c;;r;;d48,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_entidad\asignacion_menu_entidadModel.php;f8;3;2;13;;;;vpos;;v;;a;;r;;d31,3;;b1,0;;m0;;e">
+</treenode>
+<treenode node="crearSqlQuery;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_entidad\asignacion_menu_entidadModel.php;f8;15;2;33;;;;vpos;;v;;a;;r;;d44,15;;b1,0;;m0;;eparametros;;p">
+</treenode>
+</treenode>
+<treenode node="asignacion_menu_grupoController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_grupo\asignacion_menu_grupoController.php;f0;1;1;93;;;;vpos;;v;;aController;;c;;r;;d56,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_grupo\asignacion_menu_grupoController.php;f8;3;2;9;;;;vpos;;v;;a;;r;;d30,3;;b1,0;;m0;;e">
+</treenode>
+<treenode node="DataTable;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_grupo\asignacion_menu_grupoController.php;f8;32;2;50;;;;vpos;;v;;a;;r;;d50,32;;b1,0;;m0;;eid;;pidrow;;p">
+</treenode>
+<treenode node="DataTableEdit;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_grupo\asignacion_menu_grupoController.php;f8;52;2;67;;;;vpos;;v;;a;;r;;d55,52;;b1,0;;m0;;eid;;pid_rol;;p">
+</treenode>
+<treenode node="grabar_datos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_grupo\asignacion_menu_grupoController.php;f8;69;2;78;;;;vpos;;v;;a;;r;;d40,69;;b1,0;;m0;;eid;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_grupo\asignacion_menu_grupoController.php;f8;11;2;30;;;;vpos;;v;;a;;r;;d24,11;;b1,0;;m0;;e">
+</treenode>
+<treenode node="obtener_datos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_grupo\asignacion_menu_grupoController.php;f8;81;2;86;;;;vpos;;v;;a;;r;;d41,81;;b1,0;;m0;;eid;;p">
+</treenode>
+</treenode>
+<treenode node="asignacion_menu_grupoModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_grupo\asignacion_menu_grupoModel.php;f0;1;1;37;;;;vpos;;v;;aModel;;c;;r;;d46,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_grupo\asignacion_menu_grupoModel.php;f8;3;2;13;;;;vpos;;v;;a;;r;;d31,3;;b1,0;;m0;;e">
+</treenode>
+<treenode node="crearSqlQuery;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_menu_grupo\asignacion_menu_grupoModel.php;f8;15;2;33;;;;vpos;;v;;a;;r;;d44,15;;b1,0;;m0;;eparametros;;p">
+</treenode>
+</treenode>
+<treenode node="asignacion_rol_entidadController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_rol_entidad\asignacion_rol_entidadController.php;f0;1;1;112;;;;vpos;;v;;aController;;c;;r;;d57,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_rol_entidad\asignacion_rol_entidadController.php;f8;3;2;9;;;;vpos;;v;;a;;r;;d30,3;;b1,0;;m0;;e">
+</treenode>
+<treenode node="DataTable;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_rol_entidad\asignacion_rol_entidadController.php;f8;32;2;50;;;;vpos;;v;;a;;r;;d50,32;;b1,0;;m0;;eid;;pidrow;;p">
+</treenode>
+<treenode node="DataTableEdit;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_rol_entidad\asignacion_rol_entidadController.php;f8;52;2;67;;;;vpos;;v;;a;;r;;d55,52;;b1,0;;m0;;eid;;pid_rol;;p">
+</treenode>
+<treenode node="grabar_datos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_rol_entidad\asignacion_rol_entidadController.php;f8;69;2;78;;;;vpos;;v;;a;;r;;d40,69;;b1,0;;m0;;eid;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_rol_entidad\asignacion_rol_entidadController.php;f8;11;2;30;;;;vpos;;v;;a;;r;;d24,11;;b1,0;;m0;;e">
+</treenode>
+<treenode node="obtener_datos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_rol_entidad\asignacion_rol_entidadController.php;f8;81;2;86;;;;vpos;;v;;a;;r;;d41,81;;b1,0;;m0;;eid;;p">
+</treenode>
+<treenode node="ObtenerComboRol;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_rol_entidad\asignacion_rol_entidadController.php;f8;96;2;107;;;;vpos;;v;;a;;r;;d40,96;;b1,0;;m0;;eclave;;p">
+</treenode>
+<treenode node="ObtenerDatosComboRol;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_rol_entidad\asignacion_rol_entidadController.php;f8;90;2;94;;;;vpos;;v;;a;;r;;d45,90;;b1,0;;m0;;eclave;;p">
+</treenode>
+</treenode>
+<treenode node="asignacion_rol_entidadModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_rol_entidad\asignacion_rol_entidadModel.php;f0;1;1;36;;;;vpos;;v;;aModel;;c;;r;;d47,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_rol_entidad\asignacion_rol_entidadModel.php;f8;3;2;12;;;;vpos;;v;;a;;r;;d31,3;;b1,0;;m0;;e">
+</treenode>
+<treenode node="crearSqlQuery;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\asignacion_rol_entidad\asignacion_rol_entidadModel.php;f8;14;2;32;;;;vpos;;v;;a;;r;;d44,14;;b1,0;;m0;;eparametros;;p">
+</treenode>
+</treenode>
+<treenode node="AssetManager;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\core\AssetManager.php;f0;24;1;56;;;;vpos;;v;;aBase;;c;;r&#10;Definition&#10;    class AssetManager extends Base&#10;&#10;Description&#10;     This file contains class to manage the js,css resources of widget;;d0,25;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\AssetManager.php;f8;29;2;32;;;;vpos;;v;;a;;r;;d1,30;;b1,0;;m0;;ewidget;;p">
+</treenode>
+<treenode node="getAssetUrl;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\AssetManager.php;f8;34;2;44;;;;vpos;;v;;a;;r;;d1,35;;b1,0;;m0;;efilepath;;p">
+</treenode>
+<treenode node="publish;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\AssetManager.php;f8;46;2;55;;;;vpos;;v;;a;;r;;d1,47;;b1,0;;m0;;eassetFolder;;p">
+</treenode>
+</treenode>
+<treenode node="BarChart;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\BarChart.php;f0;13;1;16;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class BarChart extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google BarChart;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Base;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\core\Base.php;f0;12;1;15;;;;vpos;;v;;a;;r&#10;Definition&#10;    class Base&#10;&#10;Description&#10;     This file is the base class for all KoolReport classes;;d0,13;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Base.php;f8;14;32;14;;;;vpos;;v;;a;;r;;d30,14;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="bodegaController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\bodega\bodegaController.php;f0;1;1;22;;;;vpos;;v;;aController;;c;;r;;d42,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\bodega\bodegaController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\bodega\bodegaController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="bodegaModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\bodega\bodegaModel.php;f0;1;1;14;;;;vpos;;v;;aModel;;c;;r;;d32,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\bodega\bodegaModel.php;f8;2;2;12;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Bootstrap;PHP:Class Name;C:\www\proyectos\buo\system\bootstrap.php;f0;5;1;57;;;;vpos;;v;;a;;r;;d15,5;;b0,0;;m0;;e">
+<treenode node="run;PHP:Function Name;C:\www\proyectos\buo\system\bootstrap.php;f15;6;2;56;;;;vpos;;v;;a;;r;;d46,6;;b1,5;;m0;;epeticion;;p">
+</treenode>
+</treenode>
+<treenode node="Bootstrap;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\clients\Bootstrap.php;f0;13;1;26;;;;vpos;;v;;a;;r&#10;Definition&#10;    trait Bootstrap&#10;&#10;Description&#10;     This file when used in KoolReport will add Bootstrap (jQuery + Bootstrap JS + Bootstrap CSS) to view.;;d0,14;;b0,0;;m0;;e">
+<treenode node="__constructBootstrap;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\clients\Bootstrap.php;f11;15;5;25;;;;vpos;;v;;a;;r;;d4,16;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="BootstrapCSS;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\clients\BootstrapCSS.php;f0;13;1;23;;;;vpos;;v;;a;;r&#10;Definition&#10;    trait BootstrapCSS&#10;&#10;Description&#10;     This file when used in KoolReport will add Bootstrap CSS to view.;;d0,14;;b0,0;;m0;;e">
+<treenode node="__constructBootstrapCSS;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\clients\BootstrapCSS.php;f11;15;5;22;;;;vpos;;v;;a;;r;;d4,16;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="BubbleChart;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\BubbleChart.php;f0;13;1;16;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class BubbleChart extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google BubbleChart;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="CalculatedColumn;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\CalculatedColumn.php;f0;39;1;113;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class CalculatedColumn extends Process&#10;&#10;Description&#10;     This file contains class to generate new column from expression.;;d0,40;;b0,0;;m0;;e">
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\CalculatedColumn.php;f11;43;2;72;;;;vpos;;v;;a;;r;;d1,44;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\CalculatedColumn.php;f11;84;2;112;;;;vpos;;v;;a;;r;;d1,85;;b2,0;;m0;;edata;;p">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\CalculatedColumn.php;f11;74;2;82;;;;vpos;;v;;a;;r;;d1,75;;b2,0;;m0;;emetaData;;p">
+</treenode>
+</treenode>
+<treenode node="CandlestickChart;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\CandlestickChart.php;f0;13;1;16;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class CandlestickChart extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google CandlestickChart;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="categoria_operacionController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\categoria_operacion\categoria_operacionController.php;f0;1;1;22;;;;vpos;;v;;aController;;c;;r;;d55,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\categoria_operacion\categoria_operacionController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\categoria_operacion\categoria_operacionController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="categoria_operacionModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\categoria_operacion\categoria_operacionModel.php;f0;1;1;14;;;;vpos;;v;;aModel;;c;;r;;d45,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\categoria_operacion\categoria_operacionModel.php;f8;2;2;12;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="categoriaController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\categoria\categoriaController.php;f0;1;1;22;;;;vpos;;v;;aController;;c;;r;;d45,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\categoria\categoriaController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\categoria\categoriaController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="categoriaModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\categoria\categoriaModel.php;f0;1;1;14;;;;vpos;;v;;aModel;;c;;r;;d35,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\categoria\categoriaModel.php;f8;2;2;12;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="causa_titularidadController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\causa_titularidad\causa_titularidadController.php;f0;1;1;28;;;;vpos;;v;;aController;;c;;r;;d53,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\causa_titularidad\causa_titularidadController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\causa_titularidad\causa_titularidadController.php;f8;8;2;27;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="causa_titularidadModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\causa_titularidad\causa_titularidadModel.php;f0;1;1;15;;;;vpos;;v;;aModel;;c;;r;;d43,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\causa_titularidad\causa_titularidadModel.php;f8;2;2;13;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Chart;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Chart.php;f0;16;1;283;;;;vpos;;v;;aWidget;;c;;r&#10;Definition&#10;    class Chart extends Widget&#10;&#10;Description&#10;     This file is wrapper class for Google Chart;;d0,17;;b0,0;;m0;;e">
+<treenode node="formatValue;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Chart.php;f11;236;2;253;;;;vpos;;v;;a;;r;;d1,237;;b2,0;;m0;;evalue;;pformat;;prow;;p">
+</treenode>
+<treenode node="getColumnSettings;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Chart.php;f14;140;5;172;;;;vpos;;v;;a;;r;;d4,141;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Chart.php;f14;42;5;126;;;;vpos;;v;;a;;r;;d4,43;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onRender;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Chart.php;f14;256;5;282;;;;vpos;;v;;a;;r;;d4,257;;b2,0;;m0;;e">
+</treenode>
+<treenode node="prepareData;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Chart.php;f14;174;5;234;;;;vpos;;v;;a;;r;;d4,175;;b2,0;;m0;;e">
+</treenode>
+<treenode node="resourceSettings;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Chart.php;f14;33;5;40;;;;vpos;;v;;a;;r;;d4,34;;b2,0;;m0;;e">
+</treenode>
+<treenode node="typeConvert;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Chart.php;f14;129;5;138;;;;vpos;;v;;a;;r;;d4,130;;b2,0;;m0;;etype;;p">
+</treenode>
+</treenode>
+<treenode node="claseController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\clase\claseController.php;f0;1;1;22;;;;vpos;;v;;aController;;c;;r;;d41,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\clase\claseController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\clase\claseController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="claseModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\clase\claseModel.php;f0;1;1;14;;;;vpos;;v;;aModel;;c;;r;;d31,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\clase\claseModel.php;f8;2;2;12;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="clienteController;PHP:Class Name;C:\www\proyectos\buo\application\modules\clientes\cliente\clienteController.php;f0;1;1;28;;;;vpos;;v;;aController;;c;;r;;d43,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\clientes\cliente\clienteController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\clientes\cliente\clienteController.php;f8;8;2;27;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="clienteModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\clientes\cliente\clienteModel.php;f0;1;1;17;;;;vpos;;v;;aModel;;c;;r;;d33,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\clientes\cliente\clienteModel.php;f8;2;2;15;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ColumnChart;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\ColumnChart.php;f0;13;1;16;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class ColumnChart extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google ColumnChart;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="ColumnMeta;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\ColumnMeta.php;f0;29;1;110;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class ColumnMeta extends Process&#10;&#10;Description&#10;     This file contain process to set meta data for column.;;d0,30;;b0,0;;m0;;e">
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\ColumnMeta.php;f11;35;2;39;;;;vpos;;v;;a;;r;;d1,36;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\ColumnMeta.php;f11;89;2;109;;;;vpos;;v;;a;;r;;d1,90;;b2,0;;m0;;edata;;p">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\ColumnMeta.php;f11;41;2;87;;;;vpos;;v;;a;;r;;d1,42;;b2,0;;m0;;emetaData;;p">
+</treenode>
+</treenode>
+<treenode node="ColumnRename;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\ColumnRename.php;f0;21;1;52;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class ColumnRename extends Process&#10;&#10;Description&#10;     This file contains process to rename a column including data and meta data.;;d0,22;;b0,0;;m0;;e">
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\ColumnRename.php;f8;39;5;51;;;;vpos;;v;;a;;r;;d1,40;;b1,0;;m0;;erow;;p">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\ColumnRename.php;f11;23;2;37;;;;vpos;;v;;a;;r;;d1,24;;b2,0;;m0;;emetaData;;p">
+</treenode>
+</treenode>
+<treenode node="ColumnsSort;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\ColumnsSort.php;f0;22;1;105;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class ColumnsSort extends Process&#10;&#10;Description&#10;     This file contains class to handle data sorting;;d0,23;;b0,0;;m0;;e">
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\ColumnsSort.php;f2;30;3;35;;;;vpos;;v;;a;;r;;d2,31;;b0,0;;m0;;e">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\ColumnsSort.php;f11;43;2;104;;;;vpos;;v;;a;;r;;d1,44;;b2,0;;m0;;erow;;p">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\ColumnsSort.php;f12;37;2;41;;;;vpos;;v;;a;;r;;d1,38;;b2,0;;m0;;emetaData;;p">
+</treenode>
+</treenode>
+<treenode node="ComboChart;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\ComboChart.php;f0;13;1;16;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class ComboChart extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google ComboChart;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="comprasController;PHP:Class Name;C:\www\proyectos\buo\application\modules\inventario\compras\comprasController.php;f0;1;1;144;;;;vpos;;v;;aController;;c;;r;;d43,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\compras\comprasController.php;f1;2;2;11;;;;vpos;;v;;a;;r;;d24,2;;b0,0;;m0;;e">
+</treenode>
+<treenode node="generarCombo;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\compras\comprasController.php;f8;86;2;140;;;;vpos;;v;;a;;r;;d66,86;;b1,0;;m0;;emodelo;;pparametros;;pespecial;;p">
+</treenode>
+<treenode node="grabarCompra;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\compras\comprasController.php;f8;69;2;84;;;;vpos;;v;;a;;r;;d31,69;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\compras\comprasController.php;f8;13;2;66;;;;vpos;;v;;a;;r;;d24,13;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Controller;PHP:Class Name;C:\www\proyectos\buo\system\controller.php;f9;7;1;527;;;;vpos;;v;;aMainClass;;cjqgrid;;c;;r;;d43,7;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f8;17;2;34;;;;vpos;;v;;a;;r;;d31,17;;b1,0;;m0;;e">
+</treenode>
+<treenode node="cargarImagen;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f1;448;2;524;;;;vpos;;v;;a;;r;;d75,448;;b0,0;;m0;;efile;;pdirectorio;;pinput;;pnombre;;pmini;;p">
+</treenode>
+<treenode node="filtrarInt;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f11;390;2;397;;;;vpos;;v;;a;;r;;d36,390;;b2,0;;m0;;eint;;p">
+</treenode>
+<treenode node="formatPermiso;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f11;311;2;316;;;;vpos;;v;;a;;r;;d41,311;;b2,0;;m0;;eclave;;p">
+</treenode>
+<treenode node="generarCombo;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f8;197;2;251;;;;vpos;;v;;a;;r;;d50,197;;b1,0;;m0;;emodelo;;pparametros;;p">
+</treenode>
+<treenode node="getAlphaNum;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f11;297;2;302;;;;vpos;;v;;a;;r;;d39,297;;b2,0;;m0;;eclave;;p">
+</treenode>
+<treenode node="getInt;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f11;381;2;387;;;;vpos;;v;;a;;r;;d34,381;;b2,0;;m0;;eclave;;p">
+</treenode>
+<treenode node="getLibrary;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f11;182;2;194;;;;vpos;;v;;a;;r;;d57,182;;b2,0;;m0;;elibreria;;pubicar;;p">
+</treenode>
+<treenode node="getSql;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f11;282;2;295;;;;vpos;;v;;a;;r;;d34,282;;b2,0;;m0;;eclave;;p">
+</treenode>
+<treenode node="getTexto;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f11;373;2;379;;;;vpos;;v;;a;;r;;d36,373;;b2,0;;m0;;eclave;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f17;36;33;36;;;;vpos;;v;;a;;r;;d-1,-1;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isotolat;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f15;361;2;364;;;;vpos;;v;;a;;r;;d40,361;;b1,5;;m0;;efecha;;p">
+</treenode>
+<treenode node="lattoiso;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f15;366;2;369;;;;vpos;;v;;a;;r;;d40,366;;b1,5;;m0;;efecha;;p">
+</treenode>
+<treenode node="loadController;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f11;120;2;134;;;;vpos;;v;;a;;r;;d63,120;;b2,0;;m0;;econtrolador;;pmodulo;;p">
+</treenode>
+<treenode node="loadModel;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f11;103;2;118;;;;vpos;;v;;a;;r;;d53,103;;b2,0;;m0;;emodelo;;pmodulo;;p">
+</treenode>
+<treenode node="loadReport;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f11;148;2;162;;;;vpos;;v;;a;;r;;d61,148;;b2,0;;m0;;ereporte1;;pcontroller;;pmodulo;;p">
+</treenode>
+<treenode node="loadView;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f11;136;2;146;;;;vpos;;v;;a;;r;;d45,136;;b2,0;;m0;;evista;;prequest;;p">
+</treenode>
+<treenode node="NombreMes;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f15;318;2;359;;;;vpos;;v;;a;;r;;d39,318;;b1,5;;m0;;emes;;p">
+</treenode>
+<treenode node="ObtenerCombo1;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f11;399;2;407;;;;vpos;;v;;a;;r;;d55,399;;b2,0;;m0;;emodelo;;pwhere;;p">
+</treenode>
+<treenode node="ObtenerCombo2;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f8;410;2;432;;;;vpos;;v;;a;;r;;d82,410;;b1,0;;m0;;emodelo;;pid;;pwhere;;ptipo;;penable;;p">
+</treenode>
+<treenode node="ObtenerDatosCombo;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f11;260;2;267;;;;vpos;;v;;a;;r;;d64,260;;b2,0;;m0;;emodelo;;pparametros;;p">
+</treenode>
+<treenode node="obtenerDatosCombo1;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f8;434;2;439;;;;vpos;;v;;a;;r;;d53,434;;b1,0;;m0;;econdicion;;p">
+</treenode>
+<treenode node="ObtenerDatosComboBox;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f8;255;2;258;;;;vpos;;v;;a;;r;;d56,255;;b1,0;;m0;;eparametros;;p">
+</treenode>
+<treenode node="obtenerDatosIniciales;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f11;38;2;101;;;;vpos;;v;;a;;r;;d43,38;;b2,0;;m0;;e">
+</treenode>
+<treenode node="obtenerMenuPrincipal;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f8;164;2;180;;;;vpos;;v;;a;;r;;d44,164;;b1,0;;m0;;etipo;;p">
+</treenode>
+<treenode node="obtenerUTM;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f8;441;2;446;;;;vpos;;v;;a;;r;;d38,441;;b1,0;;m0;;elat;;plon;;p">
+</treenode>
+<treenode node="Redireccionar;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f11;274;2;280;;;;vpos;;v;;a;;r;;d48,274;;b2,0;;m0;;eruta;;p">
+</treenode>
+<treenode node="validarEmail;PHP:Function Name;C:\www\proyectos\buo\system\controller.php;f8;304;2;309;;;;vpos;;v;;a;;r;;d37,304;;b1,0;;m0;;eemail;;p">
+</treenode>
+</treenode>
+<treenode node="CopyColumn;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\CopyColumn.php;f0;22;1;42;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class CopyColumn extends Process&#10;&#10;Description&#10;     This file contains process to copy a column including data and meta data.;;d0,23;;b0,0;;m0;;e">
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\CopyColumn.php;f8;33;2;41;;;;vpos;;v;;a;;r;;d1,34;;b1,0;;m0;;edata;;p">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\CopyColumn.php;f11;24;2;31;;;;vpos;;v;;a;;r;;d1,25;;b2,0;;m0;;emetaData;;p">
+</treenode>
+</treenode>
+<treenode node="CSVDataSource;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\datasources\CSVDataSource.php;f0;23;1;97;;;;vpos;;v;;aDataSource;;c;;r&#10;Definition&#10;    class CSVDataSource extends DataSource&#10;&#10;Description&#10;     This file contains class to pull data from CSV file;;d0,24;;b0,0;;m0;;e">
+<treenode node="guessType;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\CSVDataSource.php;f12;40;2;61;;;;vpos;;v;;a;;r;;d1,41;;b2,0;;m0;;evalue;;p">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\CSVDataSource.php;f11;31;2;38;;;;vpos;;v;;a;;r;;d1,32;;b2,0;;m0;;e">
+</treenode>
+<treenode node="start;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\CSVDataSource.php;f8;63;2;96;;;;vpos;;v;;a;;r;;d1,64;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Custom;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\Custom.php;f0;13;1;26;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class Custom extends Process&#10;&#10;Description&#10;     This file contain class to add custom modification to data.;;d0,14;;b0,0;;m0;;e">
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Custom.php;f11;16;2;25;;;;vpos;;v;;a;;r;;d1,17;;b2,0;;m0;;edata;;p">
+</treenode>
+</treenode>
+<treenode node="Database;PHP:Class Name;C:\www\proyectos\buo\system\database.php;f0;5;1;17;;;;vpos;;v;;aPDO;;c;;r;;d26,5;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\system\database.php;f8;6;2;16;;;;vpos;;v;;a;;r;;d66,6;;b1,0;;m0;;ehost;;pdbname;;puser;;ppassword;;pchar;;p">
+</treenode>
+</treenode>
+<treenode node="DataSource;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\core\DataSource.php;f0;12;1;41;;;;vpos;;v;;aNode;;c;;r&#10;Definition&#10;    class DataSource extends Node&#10;&#10;Description&#10;     This file contains foundation class for all data sources.;;d0,13;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataSource.php;f8;16;2;22;;;;vpos;;v;;a;;r;;d1,17;;b1,0;;m0;;eparams;;preport;;p">
+</treenode>
+<treenode node="getReport;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataSource.php;f8;32;2;35;;;;vpos;;v;;a;;r;;d1,33;;b1,0;;m0;;e">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataSource.php;f11;23;2;26;;;;vpos;;v;;a;;r;;d1,24;;b2,0;;m0;;e">
+</treenode>
+<treenode node="requestDataSending;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataSource.php;f11;37;2;40;;;;vpos;;v;;a;;r;;d1,38;;b2,0;;m0;;e">
+</treenode>
+<treenode node="start;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataSource.php;f8;27;2;30;;;;vpos;;v;;a;;r;;d1,28;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="DataStore;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f0;12;1;358;;;;vpos;;v;;aNode;;c;;r&#10;Definition&#10;    class DataStore extends Node&#10;&#10;Description&#10;     This file contains foundation class for datastore;;d0,13;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;19;2;26;;;;vpos;;v;;a;;r;;d1,20;;b1,0;;m0;;ereport;;pparams;;p">
+</treenode>
+<treenode node="avg;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;324;2;327;;;;vpos;;v;;a;;r;;d1,325;;b1,0;;m0;;ecolName;;p">
+</treenode>
+<treenode node="bottom;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;248;2;261;;;;vpos;;v;;a;;r;;d1,249;;b1,0;;m0;;enum;;p">
+</treenode>
+<treenode node="bottomByPercent;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;262;2;266;;;;vpos;;v;;a;;r;;d1,263;;b1,0;;m0;;enum;;p">
+</treenode>
+<treenode node="countData;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f11;38;5;41;;;;vpos;;v;;a;;r;;d4,39;;b1,0;;m0;;e">
+</treenode>
+<treenode node="data;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;56;2;67;;;;vpos;;v;;a;;r;;d1,57;;b1,0;;m0;;edataset;;p">
+</treenode>
+<treenode node="filter;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;105;2;223;;;;vpos;;v;;a;;r;;d1,106;;b1,0;;m0;;econdition;;p">
+</treenode>
+<treenode node="get;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;86;2;103;;;;vpos;;v;;a;;r;;d1,87;;b1,0;;m0;;eindex;;pcolName;;p">
+</treenode>
+<treenode node="getPopIndex;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f11;75;5;78;;;;vpos;;v;;a;;r;;d4,76;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getReport;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;354;2;357;;;;vpos;;v;;a;;r;;d1,355;;b1,0;;m0;;e">
+</treenode>
+<treenode node="max;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;311;2;323;;;;vpos;;v;;a;;r;;d1,312;;b1,0;;m0;;ecolName;;p">
+</treenode>
+<treenode node="meta;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;43;2;54;;;;vpos;;v;;a;;r;;d1,44;;b1,0;;m0;;emetaData;;p">
+</treenode>
+<treenode node="min;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;298;2;310;;;;vpos;;v;;a;;r;;d1,299;;b1,0;;m0;;ecolName;;p">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f11;28;2;31;;;;vpos;;v;;a;;r;;d1,29;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f11;33;2;36;;;;vpos;;v;;a;;r;;d1,34;;b2,0;;m0;;edata;;p">
+</treenode>
+<treenode node="paging;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;225;2;228;;;;vpos;;v;;a;;r;;d1,226;;b1,0;;m0;;epageSize;;ppageIndex;;p">
+</treenode>
+<treenode node="pop;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f11;80;2;84;;;;vpos;;v;;a;;r;;d4,81;;b1,0;;m0;;e">
+</treenode>
+<treenode node="popStart;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f11;69;5;74;;;;vpos;;v;;a;;r;;d4,70;;b1,0;;m0;;e">
+</treenode>
+<treenode node="process;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;329;2;347;;;;vpos;;v;;a;;r;;d1,330;;b1,0;;m0;;eprocess;;p">
+</treenode>
+<treenode node="requestDataSending;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;349;2;352;;;;vpos;;v;;a;;r;;d1,350;;b1,0;;m0;;e">
+</treenode>
+<treenode node="sort;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;268;2;285;;;;vpos;;v;;a;;r;;d1,269;;b1,0;;m0;;esorts;;p">
+</treenode>
+<treenode node="sum;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;288;2;297;;;;vpos;;v;;a;;r;;d1,289;;b1,0;;m0;;ecolName;;p">
+</treenode>
+<treenode node="top;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;230;2;242;;;;vpos;;v;;a;;r;;d1,231;;b1,0;;m0;;enum;;poffset;;p">
+</treenode>
+<treenode node="topByPercent;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\DataStore.php;f8;243;2;247;;;;vpos;;v;;a;;r;;d1,244;;b1,0;;m0;;enum;;p">
+</treenode>
+</treenode>
+<treenode node="DateTimeFormat;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\DateTimeFormat.php;f0;24;1;74;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class DateTimeFormat extends Process&#10;&#10;Description&#10;     This file contains class to format the date time column;;d0,25;;b0,0;;m0;;e">
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\DateTimeFormat.php;f11;26;2;37;;;;vpos;;v;;a;;r;;d1,27;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\DateTimeFormat.php;f11;63;2;73;;;;vpos;;v;;a;;r;;d1,64;;b2,0;;m0;;edata;;p">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\DateTimeFormat.php;f11;39;2;60;;;;vpos;;v;;a;;r;;d1,40;;b2,0;;m0;;emetaData;;p">
+</treenode>
+</treenode>
+<treenode node="departamentoController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\departamento\departamentoController.php;f0;1;1;20;;;;vpos;;v;;aController;;c;;r;;d48,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\departamento\departamentoController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\departamento\departamentoController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="departamentoModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\departamento\departamentoModel.php;f0;1;1;14;;;;vpos;;v;;aModel;;c;;r;;d38,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\departamento\departamentoModel.php;f8;2;2;12;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="devolucionesController;PHP:Class Name;C:\www\proyectos\buo\application\modules\inventario\devoluciones\devolucionesController.php;f0;1;1;145;;C:\www\proyectos\buo\application\modules\inventario\ingresos_varios\ingresos_variosController.php;f0;1;1;145;;;;vpos;;v;;aController;;c;;r;;d48,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\devoluciones\devolucionesController.php;f1;2;2;11;;C:\www\proyectos\buo\application\modules\inventario\ingresos_varios\ingresos_variosController.php;f1;2;2;11;;;;vpos;;v;;a;;r;;d24,2;;b0,0;;m0;;e">
+</treenode>
+<treenode node="generarCombo;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\devoluciones\devolucionesController.php;f8;86;2;140;;C:\www\proyectos\buo\application\modules\inventario\ingresos_varios\ingresos_variosController.php;f8;86;2;140;;;;vpos;;v;;a;;r;;d66,86;;b1,0;;m0;;emodelo;;pparametros;;pespecial;;p">
+</treenode>
+<treenode node="grabarDevolucion;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\devoluciones\devolucionesController.php;f8;69;2;84;;C:\www\proyectos\buo\application\modules\inventario\ingresos_varios\ingresos_variosController.php;f8;69;2;84;;;;vpos;;v;;a;;r;;d35,69;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\devoluciones\devolucionesController.php;f8;13;2;66;;C:\www\proyectos\buo\application\modules\inventario\ingresos_varios\ingresos_variosController.php;f8;13;2;66;;;;vpos;;v;;a;;r;;d24,13;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="DifferenceColumn;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\DifferenceColumn.php;f0;20;1;48;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class DifferenceColumn extends Process&#10;&#10;Description&#10;     This file contains process to create difference column from a column;;d0,21;;b0,0;;m0;;e">
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\DifferenceColumn.php;f8;38;2;47;;;;vpos;;v;;a;;r;;d1,39;;b1,0;;m0;;erow;;p">
+</treenode>
+<treenode node="onInputStart;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\DifferenceColumn.php;f11;33;5;36;;;;vpos;;v;;a;;r;;d4,34;;b1,0;;m0;;e">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\DifferenceColumn.php;f11;23;5;31;;;;vpos;;v;;a;;r;;d1,24;;b2,0;;m0;;emetaData;;p">
+</treenode>
+</treenode>
+<treenode node="documento_titularidadController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\documento_titularidad\documento_titularidadController.php;f0;1;1;21;;;;vpos;;v;;aController;;c;;r;;d57,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\documento_titularidad\documento_titularidadController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\documento_titularidad\documento_titularidadController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="documento_titularidadModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\documento_titularidad\documento_titularidadModel.php;f0;1;1;16;;;;vpos;;v;;aModel;;c;;r;;d47,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\documento_titularidad\documento_titularidadModel.php;f8;2;2;13;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="DonutChart;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\DonutChart.php;f0;13;1;26;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class DonutChart extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google DonutChart;;d0,14;;b0,0;;m0;;e">
+<treenode node="OnInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\DonutChart.php;f11;15;2;23;;;;vpos;;v;;a;;r;;d1,16;;b2,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="egresos_variosController;PHP:Class Name;C:\www\proyectos\buo\application\modules\inventario\egresos_varios\egresos_variosController.php;f0;1;1;141;;;;vpos;;v;;aController;;c;;r;;d50,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\egresos_varios\egresos_variosController.php;f1;2;2;11;;;;vpos;;v;;a;;r;;d24,2;;b0,0;;m0;;e">
+</treenode>
+<treenode node="generarCombo;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\egresos_varios\egresos_variosController.php;f8;86;2;140;;;;vpos;;v;;a;;r;;d66,86;;b1,0;;m0;;emodelo;;pparametros;;pespecial;;p">
+</treenode>
+<treenode node="grabarEgreso;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\egresos_varios\egresos_variosController.php;f9;69;2;84;;;;vpos;;v;;a;;r;;d32,69;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\egresos_varios\egresos_variosController.php;f8;13;2;66;;;;vpos;;v;;a;;r;;d24,13;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="empresaController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\empresa\empresaController.php;f0;1;1;45;;;;vpos;;v;;aController;;c;;r;;d43,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\empresa\empresaController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\empresa\empresaController.php;f8;8;2;26;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+<treenode node="obtenerDatosEmpresa;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\empresa\empresaController.php;f8;28;2;43;;;;vpos;;v;;a;;r;;d38,28;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="empresaModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\empresa\empresaModel.php;f0;1;1;62;;;;vpos;;v;;aModel;;c;;r;;d33,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\empresa\empresaModel.php;f8;2;2;13;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="crearSqlQuery;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\empresa\empresaModel.php;f8;17;2;59;;;;vpos;;v;;a;;r;;d43,17;;b1,0;;m0;;eparametros;;p">
+</treenode>
+</treenode>
+<treenode node="entidadController;PHP:Class Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadController.php;f0;1;1;278;;;;vpos;;v;;aController;;c;;r;;d42,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d30,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="autenticarUsuario;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadController.php;f8;132;2;195;;;;vpos;;v;;a;;r;;d36,132;;b1,0;;m0;;e">
+</treenode>
+<treenode node="DataTableEdit;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadController.php;f1;22;2;42;;;;vpos;;v;;a;;r;;d38,22;;b0,0;;m0;;eidFila;;p">
+</treenode>
+<treenode node="datos_perfil_usuario;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadController.php;f8;92;2;105;;;;vpos;;v;;a;;r;;d39,92;;b1,0;;m0;;e">
+</treenode>
+<treenode node="generarClave;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadController.php;f8;237;2;249;;;;vpos;;v;;a;;r;;d44,237;;b1,0;;m0;;eclave_acceso;;p">
+</treenode>
+<treenode node="grabarImagenPerfil;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadController.php;f8;107;2;121;;;;vpos;;v;;a;;r;;d40,107;;b1,0;;m0;;eid;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadController.php;f8;8;2;20;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+<treenode node="logout;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadController.php;f8;124;2;130;;;;vpos;;v;;a;;r;;d25,124;;b1,0;;m0;;e">
+</treenode>
+<treenode node="obtenerDatosUsuario;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadController.php;f8;219;2;235;;;;vpos;;v;;a;;r;;d49,219;;b1,0;;m0;;eid_usuario;;p">
+</treenode>
+<treenode node="perfil_usuario;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadController.php;f8;45;2;90;;;;vpos;;v;;a;;r;;d33,45;;b1,0;;m0;;e">
+</treenode>
+<treenode node="recuperarClave;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadController.php;f8;209;2;217;;;;vpos;;v;;a;;r;;d33,209;;b1,0;;m0;;e">
+</treenode>
+<treenode node="restablecerClave;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadController.php;f8;197;2;207;;;;vpos;;v;;a;;r;;d35,197;;b1,0;;m0;;e">
+</treenode>
+<treenode node="validarClave;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadController.php;f8;251;2;273;;;;vpos;;v;;a;;r;;d31,251;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="entidadModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadModel.php;f0;1;1;97;;;;vpos;;v;;aModel;;c;;r;;d33,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadModel.php;f8;2;2;20;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="crearSqlQuery;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\entidadModel.php;f8;22;2;94;;;;vpos;;v;;a;;r;;d44,22;;b1,0;;m0;;eparametros;;p">
+</treenode>
+</treenode>
+<treenode node="equipoController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\equipo\equipoController.php;f0;1;1;21;;;;vpos;;v;;aController;;c;;r;;d42,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\equipo\equipoController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\equipo\equipoController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="equipoModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\equipo\equipoModel.php;f0;1;1;15;;;;vpos;;v;;aModel;;c;;r;;d32,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\equipo\equipoModel.php;f8;2;2;13;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Filter;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\Filter.php;f0;23;1;152;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class Filter extends Process&#10;&#10;Description&#10;     This file contains process to filter rows based on condition.;;d0,24;;b0,0;;m0;;e">
+<treenode node="isFiltered;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Filter.php;f2;33;3;120;;;;vpos;;v;;a;;r;;d2,34;;b0,0;;m0;;econdition;;pvalue;;ptype;;p">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Filter.php;f2;28;3;31;;;;vpos;;v;;a;;r;;d2,29;;b0,0;;m0;;e">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Filter.php;f11;122;2;151;;;;vpos;;v;;a;;r;;d1,123;;b2,0;;m0;;edata;;p">
+</treenode>
+</treenode>
+<treenode node="FontAwesome;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\clients\FontAwesome.php;f0;13;1;22;;;;vpos;;v;;a;;r&#10;Definition&#10;    trait FontAwesome&#10;&#10;Description&#10;     This file when used in KoolReport will add FontAwesome to the view;;d0,14;;b0,0;;m0;;e">
+<treenode node="__constructFontAwesome;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\clients\FontAwesome.php;f11;15;5;21;;;;vpos;;v;;a;;r;;d4,16;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Gauge;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Gauge.php;f0;13;1;16;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class Gauge extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google Gauge;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="GeoChart;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\GeoChart.php;f0;13;1;17;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class GeoChart extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google GeoChart;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Group;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\Group.php;f0;22;1;168;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class Group extends Process&#10;&#10;Description&#10;     This file cotnains process to group data like GROUP BY in SQL;;d0,23;;b0,0;;m0;;e">
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Group.php;f12;54;2;66;;;;vpos;;v;;a;;r;;d1,55;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Group.php;f11;100;2;155;;;;vpos;;v;;a;;r;;d1,101;;b2,0;;m0;;erow;;p">
+</treenode>
+<treenode node="onInputEnd;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Group.php;f11;157;2;167;;;;vpos;;v;;a;;r;;d1,158;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Group.php;f11;68;2;98;;;;vpos;;v;;a;;r;;d1,69;;b2,0;;m0;;emetaData;;p">
+</treenode>
+<treenode node="parseGroups;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Group.php;f11;36;2;52;;;;vpos;;v;;a;;r;;d1,37;;b2,0;;m0;;eparams;;p">
+</treenode>
+</treenode>
+<treenode node="grupoController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\grupo\grupoController.php;f0;1;1;21;;;;vpos;;v;;aController;;c;;r;;d41,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\grupo\grupoController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\grupo\grupoController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="grupoModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\grupo\grupoModel.php;f0;1;1;15;;;;vpos;;v;;aModel;;c;;r;;d31,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\grupo\grupoModel.php;f8;2;2;13;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Hash;PHP:Class Name;C:\www\proyectos\buo\system\hash.php;f0;5;1;11;;;;vpos;;v;;a;;r;;d10,5;;b0,0;;m0;;e">
+<treenode node="getHash;PHP:Function Name;C:\www\proyectos\buo\system\hash.php;f15;6;2;10;;;;vpos;;v;;a;;r;;d56,6;;b1,5;;m0;;ealgoritmo;;pdata;;pkey;;p">
+</treenode>
+</treenode>
+<treenode node="Histogram;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Histogram.php;f0;13;1;16;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class Histogram extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google Histogram;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="identificador_direccionController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\identificador_direccion\identificador_direccionController.php;f0;1;1;21;;;;vpos;;v;;aController;;c;;r;;d59,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\identificador_direccion\identificador_direccionController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\identificador_direccion\identificador_direccionController.php;f8;8;2;20;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="identificador_direccionModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\identificador_direccion\identificador_direccionModel.php;f0;1;1;16;;;;vpos;;v;;aModel;;c;;r;;d49,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\identificador_direccion\identificador_direccionModel.php;f8;2;2;12;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="indexController;PHP:Class Name;C:\www\proyectos\buo\application\index\indexController.php;f0;1;1;54;;;;vpos;;v;;aController;;c;;r;;d41,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\index\indexController.php;f8;2;2;4;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\index\indexController.php;f8;6;2;53;;;;vpos;;v;;a;;r;;d25,6;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Join;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\Join.php;f0;19;1;104;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class Join extends Process&#10;&#10;Description&#10;     This file contains class to join two data flow on a condition.;;d0,20;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Join.php;f8;23;2;42;;;;vpos;;v;;a;;r;;d1,24;;b1,0;;m0;;esourceOne;;psourceTwo;;plink;;p">
+</treenode>
+<treenode node="input;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Join.php;f8;45;2;68;;;;vpos;;v;;a;;r;;d1,46;;b1,0;;m0;;erow;;psource;;p">
+</treenode>
+<treenode node="onInputEnd;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Join.php;f11;69;2;84;;;;vpos;;v;;a;;r;;d1,70;;b2,0;;m0;;e">
+</treenode>
+<treenode node="receiveMeta;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Join.php;f8;86;2;103;;;;vpos;;v;;a;;r;;d1,87;;b1,0;;m0;;emetaData;;psource;;p">
+</treenode>
+</treenode>
+<treenode node="jqgrid;PHP:Class Name;C:\www\proyectos\buo\include\jqgrid.php;f0;1;1;177;;;;vpos;;v;;a;;r;;d13,1;;b0,0;;m0;;e">
+<treenode node="constructWhere;PHP:Function Name;C:\www\proyectos\buo\include\jqgrid.php;f1;109;2;175;;;;vpos;;v;;a;;r;;d28,109;;b0,0;;m0;;es;;p">
+</treenode>
+<treenode node="DataTable;PHP:Function Name;C:\www\proyectos\buo\include\jqgrid.php;f1;3;2;14;;;;vpos;;v;;a;;r;;d30,3;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="DataTableEdit;PHP:Function Name;C:\www\proyectos\buo\include\jqgrid.php;f2;16;2;36;;;;vpos;;v;;a;;r;;d40,16;;b0,0;;m0;;eidTable;;p">
+</treenode>
+<treenode node="DataTableView;PHP:Function Name;C:\www\proyectos\buo\include\jqgrid.php;f1;38;2;106;;;;vpos;;v;;a;;r;;d50,38;;b0,0;;m0;;eget;;pmodelo;;peditar;;p">
+</treenode>
+</treenode>
+<treenode node="jQuery;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\clients\jQuery.php;f0;13;1;22;;;;vpos;;v;;a;;r&#10;Definition&#10;    trait jQuery&#10;&#10;Description&#10;     This file when used in KoolReport will add jQuery to the view;;d0,14;;b0,0;;m0;;e">
+<treenode node="__constructjQuery;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\clients\jQuery.php;f11;15;5;21;;;;vpos;;v;;a;;r;;d4,16;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="KoolReport;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f0;6;1;341;;;;vpos;;v;;aBase;;c;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f8;21;2;42;;;;vpos;;v;;a;;r;;d1,22;;b1,0;;m0;;eparams;;p">
+</treenode>
+<treenode node="dataStore;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f8;227;2;244;;;;vpos;;v;;a;;r;;d1,228;;b1,0;;m0;;ename;;p">
+</treenode>
+<treenode node="debug;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f8;262;2;266;;;;vpos;;v;;a;;r;;d1,263;;b1,0;;m0;;eparams;;p">
+</treenode>
+<treenode node="fireEvent;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f8;67;2;87;;;;vpos;;v;;a;;r;;d1,68;;b1,0;;m0;;ename;;pparams;;p">
+</treenode>
+<treenode node="getColorScheme;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f8;45;2;52;;;;vpos;;v;;a;;r;;d1,46;;b1,0;;m0;;eindex;;p">
+</treenode>
+<treenode node="getResourceManager;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f8;103;2;110;;;;vpos;;v;;a;;r;;d1,104;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getTraitConstructs;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f9;89;2;101;;;;vpos;;v;;a;;r;;d1,90;;b3,0;;m0;;e">
+</treenode>
+<treenode node="innerView;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f8;268;2;289;;;;vpos;;v;;a;;r;;d1,269;;b1,0;;m0;;eview;;pparams;;preturn;;p">
+</treenode>
+<treenode node="newDataStore;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f11;220;2;225;;;;vpos;;v;;a;;r;;d1,221;;b2,0;;m0;;eparams;;p">
+</treenode>
+<treenode node="publishAssetFolder;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f8;112;2;175;;;;vpos;;v;;a;;r;;d1,113;;b1,0;;m0;;efullLocalPath;;pversion;;p">
+</treenode>
+<treenode node="registerEvent;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f8;54;2;65;;;;vpos;;v;;a;;r;;d1,55;;b1,0;;m0;;ename;;pmethodName;;p">
+</treenode>
+<treenode node="render;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f8;291;2;340;;;;vpos;;v;;a;;r;;d1,292;;b1,0;;m0;;eview;;preturn;;p">
+</treenode>
+<treenode node="run;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f8;246;2;260;;;;vpos;;v;;a;;r;;d1,247;;b1,0;;m0;;e">
+</treenode>
+<treenode node="settings;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f8;184;2;189;;;;vpos;;v;;a;;r;;d1,185;;b1,0;;m0;;e">
+</treenode>
+<treenode node="setup;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f11;178;2;182;;;;vpos;;v;;a;;r;;d1,179;;b2,0;;m0;;e">
+</treenode>
+<treenode node="src;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f11;191;2;217;;;;vpos;;v;;a;;r;;d36,191;;b2,0;;m0;;ename;;p">
+</treenode>
+<treenode node="version;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\KoolReport.php;f8;16;2;19;;;;vpos;;v;;a;;r;;d1,17;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="layoutController;PHP:Class Name;C:\www\proyectos\buo\application\layout\layoutController.php;f0;1;1;8;;;;vpos;;v;;aController;;c;;r;;d42,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\layout\layoutController.php;f8;2;2;4;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\layout\layoutController.php;f8;5;2;7;;;;vpos;;v;;a;;r;;d24,5;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Limit;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\Limit.php;f0;20;1;45;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class Limit extends Process&#10;&#10;Description&#10;     This file contains process to limit the rows return from datasource;;d0,21;;b0,0;;m0;;e">
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Limit.php;f11;26;2;30;;;;vpos;;v;;a;;r;;d1,27;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Limit.php;f11;37;2;44;;;;vpos;;v;;a;;r;;d1,38;;b2,0;;m0;;edata;;p">
+</treenode>
+<treenode node="onStartInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Limit.php;f11;32;2;35;;;;vpos;;v;;a;;r;;d1,33;;b2,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="LineChart;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\LineChart.php;f0;13;1;16;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class LineChart extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google LineChart;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="MainClass;PHP:Class Name;C:\www\proyectos\buo\system\mainclass.php;f9;5;1;22;;;;vpos;;v;;a;;r;;d24,5;;b0,0;;m0;;e">
+<treenode node="manejoErrores;PHP:Function Name;C:\www\proyectos\buo\system\mainclass.php;f8;8;2;21;;;;vpos;;v;;a;;r;;d46,8;;b1,0;;m0;;ee;;pprog;;p">
+</treenode>
+</treenode>
+<treenode node="Map;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Map.php;f0;13;1;17;;C:\www\proyectos\buo\libraries\koolreport\processes\Map.php;f0;46;1;157;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class Map extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google Map;;d0,14;;b0,0;;m0;;e">
+<treenode node="endInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Map.php;f11;142;5;156;;;;vpos;;v;;a;;r;;d4,143;;b1,0;;m0;;esource;;p">
+</treenode>
+<treenode node="guessType;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Map.php;f14;72;5;92;;;;vpos;;v;;a;;r;;d4,73;;b2,0;;m0;;evalue;;p">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Map.php;f11;54;5;60;;;;vpos;;v;;a;;r;;d4,55;;b1,0;;m0;;e">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Map.php;f14;105;5;140;;;;vpos;;v;;a;;r;;d4,106;;b2,0;;m0;;erow;;p">
+</treenode>
+<treenode node="receiveMeta;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Map.php;f11;62;5;70;;;;vpos;;v;;a;;r;;d4,63;;b1,0;;m0;;emetaData;;psource;;p">
+</treenode>
+<treenode node="to2DArray;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Map.php;f14;94;5;103;;;;vpos;;v;;a;;r;;d4,95;;b2,0;;m0;;earr;;p">
+</treenode>
+</treenode>
+<treenode node="marcaController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\marca\marcaController.php;f0;1;1;22;;;;vpos;;v;;aController;;c;;r;;d41,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\marca\marcaController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\marca\marcaController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="marcaModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\marca\marcaModel.php;f0;1;1;14;;;;vpos;;v;;aModel;;c;;r;;d31,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\marca\marcaModel.php;f8;2;2;12;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="medidaController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\medida\medidaController.php;f0;1;1;22;;;;vpos;;v;;aController;;c;;r;;d42,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\medida\medidaController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\medida\medidaController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="medidaModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\medida\medidaModel.php;f0;1;1;14;;;;vpos;;v;;aModel;;c;;r;;d32,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\medida\medidaModel.php;f8;2;2;12;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="menuController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\menu\menuController.php;f0;1;1;26;;;;vpos;;v;;aController;;c;;r;;d40,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\menu\menuController.php;f1;2;2;5;;;;vpos;;v;;a;;r;;d24,2;;b0,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\menu\menuController.php;f8;7;2;25;;;;vpos;;v;;a;;r;;d24,7;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="menuModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\menu\menuModel.php;f0;1;1;109;;;;vpos;;v;;aModel;;c;;r;;d30,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\menu\menuModel.php;f8;5;2;21;;;;vpos;;v;;a;;r;;d31,5;;b1,0;;m0;;e">
+</treenode>
+<treenode node="crearSqlQuery;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\menu\menuModel.php;f8;77;2;106;;;;vpos;;v;;a;;r;;d44,77;;b1,0;;m0;;eparametros;;p">
+</treenode>
+<treenode node="validar_datos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\menu\menuModel.php;f8;23;2;74;;;;vpos;;v;;a;;r;;d43,23;;b1,0;;m0;;eparametros;;p">
+</treenode>
+</treenode>
+<treenode node="Model;PHP:Class Name;C:\www\proyectos\buo\system\model.php;f0;10;1;453;;;;vpos;;v;;aMainClass;;cvalidarDatos;;c;;r;;d53,10;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\system\model.php;f8;19;2;32;;;;vpos;;v;;a;;r;;d31,19;;b1,0;;m0;;e">
+</treenode>
+<treenode node="crearSqlQuery;PHP:Function Name;C:\www\proyectos\buo\system\model.php;f8;86;2;111;;;;vpos;;v;;a;;r;;d43,86;;b1,0;;m0;;eparametros;;p">
+</treenode>
+<treenode node="cudData;PHP:Function Name;C:\www\proyectos\buo\system\model.php;f8;198;2;327;;;;vpos;;v;;a;;r;;d37,198;;b1,0;;m0;;eparametros;;p">
+</treenode>
+<treenode node="datosJQGrid;PHP:Function Name;C:\www\proyectos\buo\system\model.php;f8;329;2;396;;;;vpos;;v;;a;;r;;d36,329;;b1,0;;m0;;eparam;;p">
+</treenode>
+<treenode node="ejecutarQuery;PHP:Function Name;C:\www\proyectos\buo\system\model.php;f8;113;2;196;;;;vpos;;v;;a;;r;;d43,113;;b1,0;;m0;;eparametros;;p">
+</treenode>
+<treenode node="obtenerDatosComboBox;PHP:Function Name;C:\www\proyectos\buo\system\model.php;f8;398;2;440;;;;vpos;;v;;a;;r;;d50,398;;b1,0;;m0;;eparametros;;p">
+</treenode>
+<treenode node="obtenerMetaData;PHP:Function Name;C:\www\proyectos\buo\system\model.php;f8;442;2;451;;;;vpos;;v;;a;;r;;d40,442;;b1,0;;m0;;etabla;;p">
+</treenode>
+<treenode node="validar_datos;PHP:Function Name;C:\www\proyectos\buo\system\model.php;f8;34;2;84;;;;vpos;;v;;a;;r;;d43,34;;b1,0;;m0;;eparametros;;p">
+</treenode>
+</treenode>
+<treenode node="modeloController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\modelo\modeloController.php;f0;1;1;22;;;;vpos;;v;;aController;;c;;r;;d42,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\modelo\modeloController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\modelo\modeloController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="modeloModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\modelo\modeloModel.php;f0;1;1;15;;;;vpos;;v;;aModel;;c;;r;;d32,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\modelo\modeloModel.php;f8;2;2;13;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="municipioController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\municipio\municipioController.php;f0;1;1;30;;;;vpos;;v;;aController;;c;;r;;d45,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\municipio\municipioController.php;f8;2;2;7;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\municipio\municipioController.php;f8;9;2;21;;;;vpos;;v;;a;;r;;d24,9;;b1,0;;m0;;e">
+</treenode>
+<treenode node="obtenerCatalogos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\municipio\municipioController.php;f8;24;2;27;;;;vpos;;v;;a;;r;;d35,24;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="municipioModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\municipio\municipioModel.php;f0;1;1;43;;;;vpos;;v;;aModel;;c;;r;;d35,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\municipio\municipioModel.php;f8;2;2;12;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="crearSqlQuery;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\municipio\municipioModel.php;f8;14;2;41;;;;vpos;;v;;a;;r;;d43,14;;b1,0;;m0;;eparametros;;p">
+</treenode>
+</treenode>
+<treenode node="MySQLDataSource;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\datasources\MySQLDataSource.php;f0;24;1;207;;;;vpos;;v;;aDataSource;;c;;r&#10;Definition&#10;    class MySQLDataSource extends DataSource&#10;&#10;Description&#10;     ;;d0,25;;b0,0;;m0;;e">
+<treenode node="bindParams;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\MySQLDataSource.php;f14;75;2;96;;;;vpos;;v;;a;;r;;d1,76;;b2,0;;m0;;equery;;psqlParams;;p">
+</treenode>
+<treenode node="escape;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\MySQLDataSource.php;f14;98;5;114;;;;vpos;;v;;a;;r;;d4,99;;b2,0;;m0;;estr;;p">
+</treenode>
+<treenode node="escape_str;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\MySQLDataSource.php;f14;116;5;119;;;;vpos;;v;;a;;r;;d4,117;;b2,0;;m0;;estr;;p">
+</treenode>
+<treenode node="map_field_type_to_bind_type;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\MySQLDataSource.php;f4;123;5;162;;;;vpos;;v;;a;;r;;d54,123;;b0,0;;m0;;efield_type;;p">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\MySQLDataSource.php;f11;30;2;59;;;;vpos;;v;;a;;r;;d1,31;;b2,0;;m0;;e">
+</treenode>
+<treenode node="params;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\MySQLDataSource.php;f12;69;2;73;;;;vpos;;v;;a;;r;;d1,70;;b1,0;;m0;;esqlParams;;p">
+</treenode>
+<treenode node="query;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\MySQLDataSource.php;f8;61;2;67;;;;vpos;;v;;a;;r;;d1,62;;b1,0;;m0;;equery;;psqlParams;;p">
+</treenode>
+<treenode node="start;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\MySQLDataSource.php;f8;164;2;206;;;;vpos;;v;;a;;r;;d1,165;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Node;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f0;12;1;164;;;;vpos;;v;;aBase;;c;;r&#10;Definition&#10;    class Node extends Base&#10;&#10;Description&#10;     This file contains foundation class for legos-like structure of KoolReport;;d0,13;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f8;20;2;26;;;;vpos;;v;;a;;r;;d1,21;;b1,0;;m0;;e">
+</treenode>
+<treenode node="endInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f8;98;2;115;;;;vpos;;v;;a;;r;;d1,99;;b1,0;;m0;;esource;;p">
+</treenode>
+<treenode node="getReport;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f8;156;2;163;;;;vpos;;v;;a;;r;;d1,157;;b1,0;;m0;;e">
+</treenode>
+<treenode node="input;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f8;88;2;92;;;;vpos;;v;;a;;r;;d1,89;;b1,0;;m0;;edata;;psource;;p">
+</treenode>
+<treenode node="isEnded;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f8;121;2;124;;;;vpos;;v;;a;;r;;d1,122;;b1,0;;m0;;e">
+</treenode>
+<treenode node="meta;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f8;56;2;59;;;;vpos;;v;;a;;r;;d1,57;;b1,0;;m0;;e">
+</treenode>
+<treenode node="next;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f8;61;2;70;;;;vpos;;v;;a;;r;;d1,62;;b1,0;;m0;;edata;;p">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f11;94;2;97;;;;vpos;;v;;a;;r;;d1,95;;b2,0;;m0;;edata;;p">
+</treenode>
+<treenode node="onInputEnd;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f11;117;2;120;;;;vpos;;v;;a;;r;;d1,118;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onInputStart;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f11;83;2;86;;;;vpos;;v;;a;;r;;d1,84;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f11;140;2;143;;;;vpos;;v;;a;;r;;d1,141;;b2,0;;m0;;emetaData;;p">
+</treenode>
+<treenode node="pipe;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f8;28;2;33;;;;vpos;;v;;a;;r;;d1,29;;b1,0;;m0;;enode;;p">
+</treenode>
+<treenode node="previous;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f8;35;2;42;;;;vpos;;v;;a;;r;;d1,36;;b1,0;;m0;;eindex;;p">
+</treenode>
+<treenode node="receiveMeta;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f8;133;2;139;;;;vpos;;v;;a;;r;;d1,134;;b1,0;;m0;;emetaData;;psource;;p">
+</treenode>
+<treenode node="requestDataSending;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f11;145;2;154;;;;vpos;;v;;a;;r;;d1,146;;b2,0;;m0;;e">
+</treenode>
+<treenode node="saveTo;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f8;44;2;48;;;;vpos;;v;;a;;r;;d1,45;;b1,0;;m0;;eself;;p">
+</treenode>
+<treenode node="sendMeta;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f11;126;2;132;;;;vpos;;v;;a;;r;;d1,127;;b2,0;;m0;;emetaData;;p">
+</treenode>
+<treenode node="source;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f8;50;2;54;;;;vpos;;v;;a;;r;;d1,51;;b1,0;;m0;;esource;;p">
+</treenode>
+<treenode node="startInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Node.php;f8;72;2;81;;;;vpos;;v;;a;;r;;d1,73;;b1,0;;m0;;esource;;p">
+</treenode>
+</treenode>
+<treenode node="NumberBucket;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\NumberBucket.php;f0;28;1;64;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class NumberBucket extends Process&#10;&#10;Description&#10;     This file contains class to turn number data into group;;d0,29;;b0,0;;m0;;e">
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\NumberBucket.php;f11;48;2;63;;;;vpos;;v;;a;;r;;d1,49;;b2,0;;m0;;edata;;p">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\NumberBucket.php;f11;30;2;46;;;;vpos;;v;;a;;r;;d1,31;;b2,0;;m0;;emetaData;;p">
+</treenode>
+</treenode>
+<treenode node="NumberRange;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\NumberRange.php;f0;24;1;56;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class NumberRange extends Process&#10;&#10;Description&#10;     This file contains definition for number range;;d0,25;;b0,0;;m0;;e">
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\NumberRange.php;f11;37;2;55;;;;vpos;;v;;a;;r;;d1,38;;b2,0;;m0;;edata;;p">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\NumberRange.php;f11;26;2;35;;;;vpos;;v;;a;;r;;d1,27;;b2,0;;m0;;emetaData;;p">
+</treenode>
+</treenode>
+<treenode node="OnlyColumn;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\OnlyColumn.php;f0;21;1;50;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class OnlyColumn extends Process&#10;&#10;Description&#10;     This file contain class that allows only some defined columns to go through.;;d0,22;;b0,0;;m0;;e">
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\OnlyColumn.php;f11;37;2;49;;;;vpos;;v;;a;;r;;d1,38;;b2,0;;m0;;edata;;p">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\OnlyColumn.php;f11;23;2;35;;;;vpos;;v;;a;;r;;d1,24;;b2,0;;m0;;emetaData;;p">
+</treenode>
+</treenode>
+<treenode node="operacion_detalleModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\inventario\operacion_detalle\operacion_detalleModel.php;f0;1;1;73;;;;vpos;;v;;aModel;;c;;r;;d43,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\operacion_detalle\operacion_detalleModel.php;f8;2;2;17;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="validar_datos;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\operacion_detalle\operacion_detalleModel.php;f8;19;2;70;;;;vpos;;v;;a;;r;;d43,19;;b1,0;;m0;;eparametros;;p">
+</treenode>
+</treenode>
+<treenode node="operacion_encabezadoModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\inventario\operacion_encabezado\operacion_encabezadoModel.php;f0;1;1;81;;C:\www\proyectos\buo\application\modules\inventario\operacion_detalle\operacion_detalleController.php;f0;1;1;83;;;;vpos;;v;;aModel;;c;;r;;d46,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\operacion_encabezado\operacion_encabezadoModel.php;f8;2;2;18;;C:\www\proyectos\buo\application\modules\inventario\operacion_detalle\operacion_detalleController.php;f8;2;2;18;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="validar_datos;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\operacion_encabezado\operacion_encabezadoModel.php;f8;20;2;75;;C:\www\proyectos\buo\application\modules\inventario\operacion_detalle\operacion_detalleController.php;f8;20;2;77;;;;vpos;;v;;a;;r;;d43,20;;b1,0;;m0;;eparametros;;p">
+</treenode>
+</treenode>
+<treenode node="operacionController;PHP:Class Name;C:\www\proyectos\buo\application\modules\inventario\operacion_encabezado\operacion_encabezadoController.php;f0;1;1;58;;;;vpos;;v;;aController;;c;;r;;d45,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\operacion_encabezado\operacion_encabezadoController.php;f1;2;2;11;;;;vpos;;v;;a;;r;;d24,2;;b0,0;;m0;;e">
+</treenode>
+<treenode node="grabarOperacion;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\operacion_encabezado\operacion_encabezadoController.php;f8;29;2;54;;;;vpos;;v;;a;;r;;d34,29;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\operacion_encabezado\operacion_encabezadoController.php;f8;13;2;27;;;;vpos;;v;;a;;r;;d24,13;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="OracleDataSource;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\datasources\OracleDataSource.php;f0;45;1;207;;;;vpos;;v;;aDataSource;;c;;r&#10;Definition&#10;    class OracleDataSource extends DataSource&#10;&#10;Description&#10;     ;;d0,46;;b0,0;;m0;;e">
+<treenode node="bindParams;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\OracleDataSource.php;f14;91;2;112;;;;vpos;;v;;a;;r;;d1,92;;b2,0;;m0;;equery;;psqlParams;;p">
+</treenode>
+<treenode node="escape;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\OracleDataSource.php;f14;114;5;130;;;;vpos;;v;;a;;r;;d4,115;;b2,0;;m0;;estr;;p">
+</treenode>
+<treenode node="escape_str;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\OracleDataSource.php;f14;132;5;135;;;;vpos;;v;;a;;r;;d4,133;;b2,0;;m0;;estr;;p">
+</treenode>
+<treenode node="map_field_type_to_bind_type;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\OracleDataSource.php;f14;137;2;167;;;;vpos;;v;;a;;r;;d1,138;;b2,0;;m0;;enative_type;;p">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\OracleDataSource.php;f11;51;2;73;;;;vpos;;v;;a;;r;;d1,52;;b2,0;;m0;;e">
+</treenode>
+<treenode node="params;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\OracleDataSource.php;f11;85;2;89;;;;vpos;;v;;a;;r;;d1,86;;b1,0;;m0;;esqlParams;;p">
+</treenode>
+<treenode node="query;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\OracleDataSource.php;f8;75;2;83;;;;vpos;;v;;a;;r;;d1,76;;b1,0;;m0;;equery;;psqlParams;;p">
+</treenode>
+<treenode node="start;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\OracleDataSource.php;f8;169;2;206;;;;vpos;;v;;a;;r;;d1,170;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="OrgChart;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\OrgChart.php;f0;13;1;18;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class OrgChart extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google OrgChart;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="parametroController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\parametro\parametroController.php;f0;1;1;41;;;;vpos;;v;;aController;;c;;r;;d45,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\parametro\parametroController.php;f8;2;2;7;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\parametro\parametroController.php;f8;9;2;33;;;;vpos;;v;;a;;r;;d24,9;;b1,0;;m0;;e">
+</treenode>
+<treenode node="obtenerCatalogos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\parametro\parametroController.php;f8;35;2;38;;;;vpos;;v;;a;;r;;d35,35;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="parametroModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\parametro\parametroModel.php;f0;1;1;17;;;;vpos;;v;;aModel;;c;;r;;d35,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\parametro\parametroModel.php;f8;2;2;15;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="PdoDataSource;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PdoDataSource.php;f0;31;1;275;;;;vpos;;v;;aDataSource;;c;;r&#10;Definition&#10;    class PdoDataSource extends DataSource&#10;&#10;Description&#10;     This file contain class to handle pulling data from MySQL, Oracle, SQL Server and many others.;;d0,32;;b0,0;;m0;;e">
+<treenode node="bindParams;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PdoDataSource.php;f11;113;2;127;;;;vpos;;v;;a;;r;;d49,113;;b2,0;;m0;;estm;;psqlParams;;p">
+</treenode>
+<treenode node="guessType;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PdoDataSource.php;f11;129;2;166;;;;vpos;;v;;a;;r;;d1,130;;b2,0;;m0;;enative_type;;p">
+</treenode>
+<treenode node="guessTypeFromValue;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PdoDataSource.php;f11;168;2;189;;;;vpos;;v;;a;;r;;d1,169;;b2,0;;m0;;evalue;;p">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PdoDataSource.php;f11;37;2;63;;;;vpos;;v;;a;;r;;d1,38;;b2,0;;m0;;e">
+</treenode>
+<treenode node="params;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PdoDataSource.php;f8;75;2;79;;;;vpos;;v;;a;;r;;d1,76;;b1,0;;m0;;esqlParams;;p">
+</treenode>
+<treenode node="prepareParams;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PdoDataSource.php;f11;81;2;94;;;;vpos;;v;;a;;r;;d54,81;;b2,0;;m0;;equery;;psqlParams;;p">
+</treenode>
+<treenode node="query;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PdoDataSource.php;f8;65;2;73;;;;vpos;;v;;a;;r;;d1,66;;b1,0;;m0;;equery;;psqlParams;;p">
+</treenode>
+<treenode node="start;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PdoDataSource.php;f8;191;2;274;;;;vpos;;v;;a;;r;;d1,192;;b1,0;;m0;;e">
+</treenode>
+<treenode node="typeToPDOParamType;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PdoDataSource.php;f11;96;2;111;;;;vpos;;v;;a;;r;;d46,96;;b2,0;;m0;;etype;;p">
+</treenode>
+</treenode>
+<treenode node="PieChart;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\PieChart.php;f0;13;1;16;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class PieChart extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google PieChart;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="PostgreSQLDataSource;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PostgreSQLDataSource.php;f0;23;1;227;;;;vpos;;v;;aDataSource;;c;;r&#10;Definition&#10;    class PostgreSQLDataSource extends DataSource&#10;&#10;Description&#10;     ;;d0,24;;b0,0;;m0;;e">
+<treenode node="bindParams;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PostgreSQLDataSource.php;f14;75;2;96;;;;vpos;;v;;a;;r;;d1,76;;b2,0;;m0;;equery;;psqlParams;;p">
+</treenode>
+<treenode node="escape;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PostgreSQLDataSource.php;f14;98;5;114;;;;vpos;;v;;a;;r;;d4,99;;b2,0;;m0;;estr;;p">
+</treenode>
+<treenode node="escape_str;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PostgreSQLDataSource.php;f14;116;5;119;;;;vpos;;v;;a;;r;;d4,117;;b2,0;;m0;;estr;;p">
+</treenode>
+<treenode node="map_field_type_to_bind_type;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PostgreSQLDataSource.php;f14;121;2;184;;;;vpos;;v;;a;;r;;d1,122;;b2,0;;m0;;enative_type;;p">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PostgreSQLDataSource.php;f11;29;2;57;;;;vpos;;v;;a;;r;;d1,30;;b2,0;;m0;;e">
+</treenode>
+<treenode node="params;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PostgreSQLDataSource.php;f11;69;2;73;;;;vpos;;v;;a;;r;;d1,70;;b1,0;;m0;;esqlParams;;p">
+</treenode>
+<treenode node="query;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PostgreSQLDataSource.php;f8;59;2;67;;;;vpos;;v;;a;;r;;d1,60;;b1,0;;m0;;equery;;psqlParams;;p">
+</treenode>
+<treenode node="start;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\PostgreSQLDataSource.php;f8;186;2;226;;;;vpos;;v;;a;;r;;d1,187;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="presentacionController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\presentacion\presentacionController.php;f0;1;1;22;;;;vpos;;v;;aController;;c;;r;;d48,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\presentacion\presentacionController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\presentacion\presentacionController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="presentacionModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\presentacion\presentacionModel.php;f0;1;1;14;;;;vpos;;v;;aModel;;c;;r;;d38,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\presentacion\presentacionModel.php;f8;2;2;12;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Process;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\core\Process.php;f0;12;1;32;;;;vpos;;v;;aNode;;c;;r&#10;Definition&#10;    class Process extends Node&#10;&#10;Description&#10;     This file contains base class for processes.;;d0,13;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Process.php;f8;16;2;21;;;;vpos;;v;;a;;r;;d1,17;;b1,0;;m0;;eparams;;p">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Process.php;f11;22;2;25;;;;vpos;;v;;a;;r;;d1,23;;b2,0;;m0;;e">
+</treenode>
+<treenode node="process;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Process.php;f8;27;2;31;;;;vpos;;v;;a;;r;;d1,28;;b0,5;;m0;;eparams;;p">
+</treenode>
+</treenode>
+<treenode node="ProcessGroup;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\core\ProcessGroup.php;f0;41;1;98;;;;vpos;;v;;aProcess;;c;;r;;d0,42;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ProcessGroup.php;f8;46;2;52;;;;vpos;;v;;a;;r;;d1,47;;b1,0;;m0;;eparams;;p">
+</treenode>
+<treenode node="incoming;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ProcessGroup.php;f11;59;2;62;;;;vpos;;v;;a;;r;;d1,60;;b2,0;;m0;;e">
+</treenode>
+<treenode node="inputFromEndProcess;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ProcessGroup.php;f8;94;2;97;;;;vpos;;v;;a;;r;;d1,95;;b1,0;;m0;;edata;;p">
+</treenode>
+<treenode node="metaFromEndProcess;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ProcessGroup.php;f8;85;2;88;;;;vpos;;v;;a;;r;;d1,86;;b1,0;;m0;;emetaData;;p">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ProcessGroup.php;f8;90;2;93;;;;vpos;;v;;a;;r;;d1,91;;b1,0;;m0;;edata;;p">
+</treenode>
+<treenode node="onInputEnd;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ProcessGroup.php;f11;80;2;83;;;;vpos;;v;;a;;r;;d1,81;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onInputStart;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ProcessGroup.php;f11;75;2;78;;;;vpos;;v;;a;;r;;d1,76;;b2,0;;m0;;e">
+</treenode>
+<treenode node="outcoming;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ProcessGroup.php;f11;63;2;66;;;;vpos;;v;;a;;r;;d1,64;;b2,0;;m0;;e">
+</treenode>
+<treenode node="receiveMeta;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ProcessGroup.php;f8;68;2;73;;;;vpos;;v;;a;;r;;d1,69;;b1,0;;m0;;emetaData;;psource;;p">
+</treenode>
+<treenode node="setup;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ProcessGroup.php;f8;54;2;57;;;;vpos;;v;;a;;r;;d1,55;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ProcessGroupEnd;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\core\ProcessGroup.php;f0;29;1;39;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class ProcessGroupEnd extends Process&#10;&#10;Description&#10;     This file contains foundation class for grouping processes into one.;;d0,30;;b0,0;;m0;;e">
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ProcessGroup.php;f8;31;2;34;;;;vpos;;v;;a;;r;;d1,32;;b1,0;;m0;;edata;;p">
+</treenode>
+<treenode node="receiveMeta;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ProcessGroup.php;f8;35;2;38;;;;vpos;;v;;a;;r;;d1,36;;b1,0;;m0;;emetaData;;psource;;p">
+</treenode>
+</treenode>
+<treenode node="productoController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\producto\productoController.php;f0;1;1;112;;;;vpos;;v;;aController;;c;;r;;d43,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\producto\productoController.php;f8;3;2;15;;;;vpos;;v;;a;;r;;d30,3;;b1,0;;m0;;e">
+</treenode>
+<treenode node="cargarArchivo;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\producto\productoController.php;f8;62;2;85;;;;vpos;;v;;a;;r;;d32,62;;b1,0;;m0;;e">
+</treenode>
+<treenode node="DataTableEdit;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\producto\productoController.php;f2;87;2;110;;;;vpos;;v;;a;;r;;d40,87;;b0,0;;m0;;eidTable;;p">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\producto\productoController.php;f8;17;2;41;;;;vpos;;v;;a;;r;;d24,17;;b1,0;;m0;;e">
+</treenode>
+<treenode node="obtenerCatalogos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\producto\productoController.php;f8;43;2;60;;;;vpos;;v;;a;;r;;d35,43;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="productoModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\producto\productoModel.php;f0;1;1;130;;;;vpos;;v;;aModel;;c;;r;;d33,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\producto\productoModel.php;f8;3;2;29;;;;vpos;;v;;a;;r;;d31,3;;b1,0;;m0;;e">
+</treenode>
+<treenode node="crearSqlQuery;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\producto\productoModel.php;f8;86;2;127;;;;vpos;;v;;a;;r;;d43,86;;b1,0;;m0;;eparametros;;p">
+</treenode>
+<treenode node="validar_datos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\producto\productoModel.php;f8;31;2;84;;;;vpos;;v;;a;;r;;d43,31;;b1,0;;m0;;eparametros;;p">
+</treenode>
+</treenode>
+<treenode node="proveedorController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\proveedor\proveedorController.php;f0;1;1;22;;;;vpos;;v;;aController;;c;;r;;d45,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\proveedor\proveedorController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\proveedor\proveedorController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="proveedorModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\proveedor\proveedorModel.php;f0;1;1;17;;;;vpos;;v;;aModel;;c;;r;;d35,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\proveedor\proveedorModel.php;f8;2;2;15;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="receta_detalleModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\receta_detalle\receta_detalleModel.php;f0;1;1;70;;;;vpos;;v;;aModel;;c;;r;;d40,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\receta_detalle\receta_detalleModel.php;f8;2;2;13;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="validar_datos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\receta_detalle\receta_detalleModel.php;f8;15;2;64;;;;vpos;;v;;a;;r;;d43,15;;b1,0;;m0;;eparametros;;p">
+</treenode>
+</treenode>
+<treenode node="receta_encabezadoModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\receta_encabezado\receta_encabezadoModel.php;f0;1;1;77;;C:\www\proyectos\buo\application\modules\catalogos\receta_detalle\receta_detalleController.php;f0;1;1;83;;;;vpos;;v;;aModel;;c;;r;;d43,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\receta_encabezado\receta_encabezadoModel.php;f8;2;2;14;;C:\www\proyectos\buo\application\modules\catalogos\receta_detalle\receta_detalleController.php;f8;2;2;18;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="validar_datos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\receta_encabezado\receta_encabezadoModel.php;f8;16;2;71;;C:\www\proyectos\buo\application\modules\catalogos\receta_detalle\receta_detalleController.php;f8;20;2;77;;;;vpos;;v;;a;;r;;d43,16;;b1,0;;m0;;eparametros;;p">
+</treenode>
+</treenode>
+<treenode node="recetaController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\receta_encabezado\receta_encabezadoController.php;f0;1;1;58;;C:\www\proyectos\buo\application\modules\catalogos\receta\recetaController.php;f0;1;1;67;;;;vpos;;v;;aController;;c;;r;;d42,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\receta_encabezado\receta_encabezadoController.php;f1;2;2;11;;C:\www\proyectos\buo\application\modules\catalogos\receta\recetaController.php;f1;2;3;8;;;;vpos;;v;;a;;r;;d24,2;;b0,0;;m0;;e">
+</treenode>
+<treenode node="grabarDetalle;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\receta\recetaController.php;f8;51;2;64;;;;vpos;;v;;a;;r;;d32,51;;b1,0;;m0;;e">
+</treenode>
+<treenode node="grabarEncabezado;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\receta\recetaController.php;f8;39;2;50;;;;vpos;;v;;a;;r;;d35,39;;b1,0;;m0;;e">
+</treenode>
+<treenode node="grabarOperacion;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\receta_encabezado\receta_encabezadoController.php;f8;29;2;54;;;;vpos;;v;;a;;r;;d34,29;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\receta_encabezado\receta_encabezadoController.php;f8;13;2;27;;C:\www\proyectos\buo\application\modules\catalogos\receta\recetaController.php;f8;10;2;36;;;;vpos;;v;;a;;r;;d24,13;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Registry;PHP:Class Name;C:\www\proyectos\buo\system\registry.php;f0;5;1;29;;;;vpos;;v;;a;;r;;d14,5;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\system\registry.php;f9;9;33;9;;;;vpos;;v;;a;;r;;d31,9;;b3,0;;m0;;e">
+</treenode>
+<treenode node="__get;PHP:Function Name;C:\www\proyectos\buo\system\registry.php;f8;23;2;28;;;;vpos;;v;;a;;r;;d29,23;;b1,0;;m0;;ename;;p">
+</treenode>
+<treenode node="__set;PHP:Function Name;C:\www\proyectos\buo\system\registry.php;f8;19;2;21;;;;vpos;;v;;a;;r;;d36,19;;b1,0;;m0;;ename;;pvalue;;p">
+</treenode>
+<treenode node="getInstancia;PHP:Function Name;C:\www\proyectos\buo\system\registry.php;f15;12;2;17;;;;vpos;;v;;a;;r;;d38,12;;b1,5;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="RemoveColumn;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\RemoveColumn.php;f0;21;1;41;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class RemoveColumn extends Process&#10;&#10;Description&#10;     This file contains class to remove some of columns.;;d0,22;;b0,0;;m0;;e">
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\RemoveColumn.php;f11;32;2;40;;;;vpos;;v;;a;;r;;d1,33;;b2,0;;m0;;edata;;p">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\RemoveColumn.php;f11;23;2;30;;;;vpos;;v;;a;;r;;d1,24;;b2,0;;m0;;emetaData;;p">
+</treenode>
+</treenode>
+<treenode node="ReportDataSource;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\datasources\ReportDataSource.php;f0;14;1;73;;;;vpos;;v;;aDataSource;;c;;r&#10;Definition&#10;    class ReportDataSource extends DataSource&#10;&#10;Description&#10;     This file contains class to pull data from other reports.;;d0,15;;b0,0;;m0;;e">
+<treenode node="dataStore;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\ReportDataSource.php;f11;56;5;60;;;;vpos;;v;;a;;r;;d4,57;;b1,0;;m0;;ename;;p">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\ReportDataSource.php;f14;20;5;54;;;;vpos;;v;;a;;r;;d4,21;;b2,0;;m0;;e">
+</treenode>
+<treenode node="start;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\ReportDataSource.php;f11;62;5;72;;;;vpos;;v;;a;;r;;d4,63;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="reporteEntidad;PHP:Class Name;C:\www\proyectos\buo\application\modules\entidades\entidad\reporteEntidad.php;f0;2;1;28;;;;vpos;;v;;aKoolReport;;cBootstrap;;c;;r;;d0,3;;b0,0;;m0;;e">
+<treenode node="settings;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\reporteEntidad.php;f4;5;5;21;;;;vpos;;v;;a;;r;;d4,6;;b0,0;;m0;;e">
+</treenode>
+<treenode node="setup;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\reporteEntidad.php;f4;22;5;27;;;;vpos;;v;;a;;r;;d4,23;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="reporteEntidadController;PHP:Class Name;C:\www\proyectos\buo\application\modules\entidades\entidad\reporteEntidadController.php;f0;1;1;23;;;;vpos;;v;;aController;;c;;r;;d49,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\reporteEntidadController.php;f8;2;2;7;;;;vpos;;v;;a;;r;;d30,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\entidades\entidad\reporteEntidadController.php;f8;9;2;20;;;;vpos;;v;;a;;r;;d24,9;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Request;PHP:Class Name;C:\www\proyectos\buo\system\request.php;f0;5;1;108;;;;vpos;;v;;a;;r;;d13,5;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\system\request.php;f8;15;2;30;;;;vpos;;v;;a;;r;;d42,15;;b1,0;;m0;;eautenticado;;p">
+</treenode>
+<treenode node="getArgs;PHP:Function Name;C:\www\proyectos\buo\system\request.php;f8;105;2;107;;;;vpos;;v;;a;;r;;d26,105;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getController;PHP:Function Name;C:\www\proyectos\buo\system\request.php;f8;97;2;99;;;;vpos;;v;;a;;r;;d32,97;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getDirectorio;PHP:Function Name;C:\www\proyectos\buo\system\request.php;f8;89;2;91;;;;vpos;;v;;a;;r;;d32,89;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getMethod;PHP:Function Name;C:\www\proyectos\buo\system\request.php;f8;101;2;103;;;;vpos;;v;;a;;r;;d28,101;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getModule;PHP:Function Name;C:\www\proyectos\buo\system\request.php;f8;93;2;95;;;;vpos;;v;;a;;r;;d28,93;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getRequest;PHP:Function Name;C:\www\proyectos\buo\system\request.php;f8;32;2;83;;;;vpos;;v;;a;;r;;d42,32;;b1,0;;m0;;eurl_original;;p">
+</treenode>
+<treenode node="geturl;PHP:Function Name;C:\www\proyectos\buo\system\request.php;f8;85;2;87;;;;vpos;;v;;a;;r;;d25,85;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ResourceManager;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\core\ResourceManager.php;f0;13;1;168;;;;vpos;;v;;aBase;;c;;r&#10;Definition&#10;    class ResourceManager extends Base&#10;&#10;Description&#10;     This file contains foundation class to handle resource (css/js) in KoolReport;;d0,14;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ResourceManager.php;f11;18;5;22;;;;vpos;;v;;a;;r;;d4,19;;b1,0;;m0;;ereport;;p">
+</treenode>
+<treenode node="addCssFile;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ResourceManager.php;f11;88;5;101;;;;vpos;;v;;a;;r;;d4,89;;b1,0;;m0;;ehref;;poptions;;p">
+</treenode>
+<treenode node="addLinkTag;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ResourceManager.php;f11;103;5;117;;;;vpos;;v;;a;;r;;d4,104;;b1,0;;m0;;eoptions;;p">
+</treenode>
+<treenode node="addScript;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ResourceManager.php;f14;61;5;71;;;;vpos;;v;;a;;r;;d4,62;;b2,0;;m0;;escript;;poptions;;pat;;p">
+</treenode>
+<treenode node="addScriptFile;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ResourceManager.php;f14;39;5;50;;;;vpos;;v;;a;;r;;d4,40;;b2,0;;m0;;esrc;;poptions;;pat;;p">
+</treenode>
+<treenode node="addScriptFileOnBegin;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ResourceManager.php;f11;31;5;34;;;;vpos;;v;;a;;r;;d4,32;;b1,0;;m0;;esrc;;poptions;;p">
+</treenode>
+<treenode node="addScriptFileOnEnd;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ResourceManager.php;f11;35;5;38;;;;vpos;;v;;a;;r;;d4,36;;b1,0;;m0;;esrc;;poptions;;p">
+</treenode>
+<treenode node="addScriptOnBegin;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ResourceManager.php;f11;53;5;56;;;;vpos;;v;;a;;r;;d4,54;;b1,0;;m0;;escript;;poptions;;p">
+</treenode>
+<treenode node="addScriptOnEnd;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ResourceManager.php;f11;57;5;60;;;;vpos;;v;;a;;r;;d4,58;;b1,0;;m0;;escript;;poptions;;p">
+</treenode>
+<treenode node="addStyle;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ResourceManager.php;f11;75;5;86;;;;vpos;;v;;a;;r;;d4,76;;b1,0;;m0;;estyle;;poptions;;p">
+</treenode>
+<treenode node="init;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ResourceManager.php;f11;24;5;29;;;;vpos;;v;;a;;r;;d4,25;;b1,0;;m0;;e">
+</treenode>
+<treenode node="process;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ResourceManager.php;f11;130;5;167;;;;vpos;;v;;a;;r;;d4,131;;b1,0;;m0;;econtent;;p">
+</treenode>
+<treenode node="renderTag;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\ResourceManager.php;f11;119;5;128;;;;vpos;;v;;a;;r;;d4,120;;b1,0;;m0;;etag;;p">
+</treenode>
+</treenode>
+<treenode node="rol_entidadController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\rol_entidad\rol_entidadController.php;f0;1;1;21;;;;vpos;;v;;aController;;c;;r;;d46,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\rol_entidad\rol_entidadController.php;f8;3;2;6;;;;vpos;;v;;a;;r;;d30,3;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\rol_entidad\rol_entidadController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="rol_entidadModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\rol_entidad\rol_entidadModel.php;f0;1;1;15;;;;vpos;;v;;aModel;;c;;r;;d36,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\rol_entidad\rol_entidadModel.php;f8;3;2;13;;;;vpos;;v;;a;;r;;d31,3;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Router;PHP:Class Name;C:\www\proyectos\buo\system\router.php;f0;5;1;48;;;;vpos;;v;;a;;r;;d13,5;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\system\router.php;f8;10;2;36;;;;vpos;;v;;a;;r;;d31,10;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getRoute;PHP:Function Name;C:\www\proyectos\buo\system\router.php;f8;38;2;46;;;;vpos;;v;;a;;r;;d31,38;;b1,0;;m0;;eurl;;p">
+</treenode>
+</treenode>
+<treenode node="Sankey;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Sankey.php;f0;13;1;17;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class Sankey extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google Sankey;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="ScatterChart;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\ScatterChart.php;f0;13;1;16;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class ScatterChart extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google ScatterChart;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Session;PHP:Class Name;C:\www\proyectos\buo\system\session.php;f0;5;1;81;;;;vpos;;v;;a;;r;;d13,5;;b0,0;;m0;;e">
+<treenode node="destroy;PHP:Function Name;C:\www\proyectos\buo\system\session.php;f15;26;2;42;;;;vpos;;v;;a;;r;;d47,26;;b1,5;;m0;;eclave;;p">
+</treenode>
+<treenode node="existe;PHP:Function Name;C:\www\proyectos\buo\system\session.php;f15;56;2;62;;;;vpos;;v;;a;;r;;d38,56;;b1,5;;m0;;eclave;;p">
+</treenode>
+<treenode node="get;PHP:Function Name;C:\www\proyectos\buo\system\session.php;f15;49;2;54;;;;vpos;;v;;a;;r;;d35,49;;b1,5;;m0;;eclave;;p">
+</treenode>
+<treenode node="init;PHP:Function Name;C:\www\proyectos\buo\system\session.php;f15;10;2;24;;;;vpos;;v;;a;;r;;d30,10;;b1,5;;m0;;e">
+</treenode>
+<treenode node="set;PHP:Function Name;C:\www\proyectos\buo\system\session.php;f15;44;2;47;;;;vpos;;v;;a;;r;;d43,44;;b1,5;;m0;;eclave;;pvalor;;p">
+</treenode>
+<treenode node="tiempo;PHP:Function Name;C:\www\proyectos\buo\system\session.php;f15;64;2;80;;;;vpos;;v;;a;;r;;d32,64;;b1,5;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="smartyTemplate;PHP:Class Name;C:\www\proyectos\buo\layout\smartyTemplate.php;f0;4;1;154;;;;vpos;;v;;aMainClass;;c;;r;;d39,4;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\layout\smartyTemplate.php;f8;14;2;34;;;;vpos;;v;;a;;r;;d31,14;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getMainCss;PHP:Function Name;C:\www\proyectos\buo\layout\smartyTemplate.php;f8;48;2;62;;;;vpos;;v;;a;;r;;d29,48;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getMainJs;PHP:Function Name;C:\www\proyectos\buo\layout\smartyTemplate.php;f8;64;2;73;;;;vpos;;v;;a;;r;;d28,64;;b1,0;;m0;;e">
+</treenode>
+<treenode node="rutas;PHP:Function Name;C:\www\proyectos\buo\layout\smartyTemplate.php;f8;36;2;46;;;;vpos;;v;;a;;r;;d24,36;;b1,0;;m0;;e">
+</treenode>
+<treenode node="setMainMenu;PHP:Function Name;C:\www\proyectos\buo\layout\smartyTemplate.php;f8;75;2;153;;;;vpos;;v;;a;;r;;d35,75;;b1,0;;m0;;edata;;p">
+</treenode>
+</treenode>
+<treenode node="Sort;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\Sort.php;f0;20;1;66;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class Sort extends Process&#10;&#10;Description&#10;     This file contains class to handle data sorting;;d0,21;;b0,0;;m0;;e">
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Sort.php;f14;24;5;27;;;;vpos;;v;;a;;r;;d4,25;;b2,0;;m0;;erow;;p">
+</treenode>
+<treenode node="onInputEnd;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Sort.php;f11;58;5;65;;;;vpos;;v;;a;;r;;d4,59;;b1,0;;m0;;e">
+</treenode>
+<treenode node="sortProcess;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Sort.php;f4;29;5;56;;;;vpos;;v;;a;;r;;d4,30;;b0,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="SQLSRVDataSource;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\datasources\SQLSRVDataSource.php;f0;25;1;192;;;;vpos;;v;;aDataSource;;c;;r&#10;Definition&#10;    class SQLSRVDataSource extends DataSource&#10;&#10;Description&#10;     ;;d0,26;;b0,0;;m0;;e">
+<treenode node="bindParams;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\SQLSRVDataSource.php;f14;78;2;99;;;;vpos;;v;;a;;r;;d1,79;;b2,0;;m0;;equery;;psqlParams;;p">
+</treenode>
+<treenode node="escape;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\SQLSRVDataSource.php;f14;101;5;117;;;;vpos;;v;;a;;r;;d4,102;;b2,0;;m0;;estr;;p">
+</treenode>
+<treenode node="escape_str;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\SQLSRVDataSource.php;f14;119;5;122;;;;vpos;;v;;a;;r;;d4,120;;b2,0;;m0;;estr;;p">
+</treenode>
+<treenode node="map_field_type_to_bind_type;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\SQLSRVDataSource.php;f4;124;5;154;;;;vpos;;v;;a;;r;;d54,124;;b0,0;;m0;;efield_type;;p">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\SQLSRVDataSource.php;f11;31;2;60;;;;vpos;;v;;a;;r;;d1,32;;b2,0;;m0;;e">
+</treenode>
+<treenode node="params;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\SQLSRVDataSource.php;f11;72;2;76;;;;vpos;;v;;a;;r;;d1,73;;b1,0;;m0;;esqlParams;;p">
+</treenode>
+<treenode node="query;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\SQLSRVDataSource.php;f8;62;2;70;;;;vpos;;v;;a;;r;;d1,63;;b1,0;;m0;;equery;;psqlParams;;p">
+</treenode>
+<treenode node="start;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\datasources\SQLSRVDataSource.php;f8;156;2;191;;;;vpos;;v;;a;;r;;d1,157;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="SteppedAreaChart;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\SteppedAreaChart.php;f0;13;1;16;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class SteppedAreaChart extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google SeppedAreaChart;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="StringCase;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\StringCase.php;f0;23;1;73;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class StringCase extends Process&#10;&#10;Description&#10;     This file contains process to handle uppercase,lowercase for string column.;;d0,24;;b0,0;;m0;;e">
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\StringCase.php;f11;25;2;36;;;;vpos;;v;;a;;r;;d1,26;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\StringCase.php;f11;38;2;72;;;;vpos;;v;;a;;r;;d1,39;;b2,0;;m0;;edata;;p">
+</treenode>
+</treenode>
+<treenode node="StringTrim;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\StringTrim.php;f0;22;1;50;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class StringTrim extends Process&#10;&#10;Description&#10;     This file contains class that help to remove space or unwanted character at the beginning and end of data cell.;;d0,23;;b0,0;;m0;;e">
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\StringTrim.php;f11;25;2;32;;;;vpos;;v;;a;;r;;d1,26;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\StringTrim.php;f11;34;2;49;;;;vpos;;v;;a;;r;;d1,35;;b2,0;;m0;;edata;;p">
+</treenode>
+</treenode>
+<treenode node="SubReport;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\core\SubReport.php;f0;12;1;70;;;;vpos;;v;;a;;r&#10;Definition&#10;    trait SubReport&#10;&#10;Description&#10;     This file contains trait class to handle sub-report;;d0,13;;b0,0;;m0;;e">
+<treenode node="__constructSubReport;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\SubReport.php;f11;14;5;48;;;;vpos;;v;;a;;r;;d4,15;;b1,0;;m0;;e">
+</treenode>
+<treenode node="subReport;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\SubReport.php;f11;50;5;69;;;;vpos;;v;;a;;r;;d4,51;;b1,0;;m0;;ename;;pparams;;p">
+</treenode>
+</treenode>
+<treenode node="sucursalController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\sucursal\sucursalController.php;f0;1;1;22;;;;vpos;;v;;aController;;c;;r;;d44,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\sucursal\sucursalController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\sucursal\sucursalController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="sucursalModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\sucursal\sucursalModel.php;f0;1;1;14;;;;vpos;;v;;aModel;;c;;r;;d34,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\sucursal\sucursalModel.php;f8;2;2;12;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Table;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\koolphp\Table.php;f0;26;1;389;;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Table.php;f0;13;1;17;;;;vpos;;v;;aWidget;;c;;r&#10;Definition&#10;    class Table extends Widget&#10;&#10;Description&#10;     This file contains Table widget;;d0,27;;b0,0;;m0;;e">
+<treenode node="formatValue;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\widgets\koolphp\Table.php;f11;151;2;168;;;;vpos;;v;;a;;r;;d1,152;;b2,0;;m0;;evalue;;pformat;;prow;;p">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\widgets\koolphp\Table.php;f11;56;2;149;;;;vpos;;v;;a;;r;;d1,57;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onRender;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\widgets\koolphp\Table.php;f8;170;2;387;;;;vpos;;v;;a;;r;;d1,171;;b1,0;;m0;;e">
+</treenode>
+<treenode node="resourceSettings;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\widgets\koolphp\Table.php;f11;46;2;54;;;;vpos;;v;;a;;r;;d1,47;;b2,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="TimeBucket;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\TimeBucket.php;f0;37;1;111;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class TimeBucket extends Process&#10;&#10;Description&#10;     This file contains class to break the time series and put them in defined buckets.;;d0,38;;b0,0;;m0;;e">
+<treenode node="defaultFormatString;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\TimeBucket.php;f11;65;2;79;;;;vpos;;v;;a;;r;;d1,66;;b2,0;;m0;;ebucket;;p">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\TimeBucket.php;f11;40;2;63;;;;vpos;;v;;a;;r;;d1,41;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\TimeBucket.php;f11;92;2;110;;;;vpos;;v;;a;;r;;d1,93;;b2,0;;m0;;edata;;p">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\TimeBucket.php;f11;81;2;90;;;;vpos;;v;;a;;r;;d1,82;;b2,0;;m0;;emetaData;;p">
+</treenode>
+</treenode>
+<treenode node="Timeline;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Timeline.php;f0;14;1;72;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class Timeline extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google Timeline;;d0,15;;b0,0;;m0;;e">
+<treenode node="newClientDate;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Timeline.php;f11;25;2;49;;;;vpos;;v;;a;;r;;d1,26;;b2,0;;m0;;evalue;;pmeta;;p">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Timeline.php;f11;19;2;23;;;;vpos;;v;;a;;r;;d1,20;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onRender;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\Timeline.php;f11;51;2;71;;;;vpos;;v;;a;;r;;d1,52;;b2,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="tipo_documentoController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_documento\tipo_documentoController.php;f0;1;1;22;;;;vpos;;v;;aController;;c;;r;;d50,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_documento\tipo_documentoController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_documento\tipo_documentoController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="tipo_documentoModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_documento\tipo_documentoModel.php;f0;1;1;14;;;;vpos;;v;;aModel;;c;;r;;d40,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_documento\tipo_documentoModel.php;f8;2;2;12;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="tipo_menuController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_menu\tipo_menuController.php;f0;1;1;30;;;;vpos;;v;;aController;;c;;r;;d45,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_menu\tipo_menuController.php;f8;3;2;6;;;;vpos;;v;;a;;r;;d31,3;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_menu\tipo_menuController.php;f8;8;2;21;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+<treenode node="obtenerMetaData;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_menu\tipo_menuController.php;f8;23;2;26;;;;vpos;;v;;a;;r;;d34,23;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="tipo_menuModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_menu\tipo_menuModel.php;f0;1;1;35;;;;vpos;;v;;aModel;;c;;r;;d35,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_menu\tipo_menuModel.php;f8;2;2;12;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="validar_datos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_menu\tipo_menuModel.php;f8;14;2;34;;;;vpos;;v;;a;;r;;d50,14;;b1,0;;m0;;edatos;;poper;;p">
+</treenode>
+</treenode>
+<treenode node="tipo_parametroController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_parametro\tipo_parametroController.php;f0;1;1;28;;;;vpos;;v;;aController;;c;;r;;d50,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_parametro\tipo_parametroController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_parametro\tipo_parametroController.php;f8;8;2;27;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="tipo_parametroModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_parametro\tipo_parametroModel.php;f0;1;1;15;;;;vpos;;v;;aModel;;c;;r;;d40,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_parametro\tipo_parametroModel.php;f8;2;2;13;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="tipo_persona_entrevistaController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_persona_entrevista\tipo_persona_entrevistaController.php;f0;1;1;28;;;;vpos;;v;;aController;;c;;r;;d59,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_persona_entrevista\tipo_persona_entrevistaController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_persona_entrevista\tipo_persona_entrevistaController.php;f8;8;2;27;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="tipo_persona_entrevistaModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_persona_entrevista\tipo_persona_entrevistaModel.php;f0;1;1;15;;;;vpos;;v;;aModel;;c;;r;;d49,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_persona_entrevista\tipo_persona_entrevistaModel.php;f8;2;2;13;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="tipo_productoController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_producto\tipo_productoController.php;f0;1;1;22;;;;vpos;;v;;aController;;c;;r;;d49,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_producto\tipo_productoController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_producto\tipo_productoController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="tipo_productoModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_producto\tipo_productoModel.php;f0;1;1;13;;;;vpos;;v;;aModel;;c;;r;;d39,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_producto\tipo_productoModel.php;f8;2;2;11;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="tipo_unidad_medidaController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_unidad_medida\tipo_unidad_medidaController.php;f0;1;1;20;;;;vpos;;v;;aController;;c;;r;;d54,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_unidad_medida\tipo_unidad_medidaController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_unidad_medida\tipo_unidad_medidaController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="tipo_unidad_medidaModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_unidad_medida\tipo_unidad_medidaModel.php;f0;1;1;14;;;;vpos;;v;;aModel;;c;;r;;d44,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\tipo_unidad_medida\tipo_unidad_medidaModel.php;f8;2;2;12;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Transpose;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\Transpose.php;f0;20;1;76;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class Transpose extends Process&#10;&#10;Description&#10;     This file contains class to transpose column and row of table;;d0,21;;b0,0;;m0;;e">
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Transpose.php;f14;24;5;27;;;;vpos;;v;;a;;r;;d4,25;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Transpose.php;f14;35;5;38;;;;vpos;;v;;a;;r;;d4,36;;b2,0;;m0;;erow;;p">
+</treenode>
+<treenode node="onInputEnd;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Transpose.php;f14;40;5;75;;;;vpos;;v;;a;;r;;d4,41;;b2,0;;m0;;e">
+</treenode>
+<treenode node="receiveMeta;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\Transpose.php;f8;29;2;33;;;;vpos;;v;;a;;r;;d1,30;;b1,0;;m0;;emetaData;;psource;;p">
+</treenode>
+</treenode>
+<treenode node="traslados_entre_bodegasController;PHP:Class Name;C:\www\proyectos\buo\application\modules\inventario\traslados_entre_bodegas\traslados_entre_bodegasController.php;f0;1;1;109;;;;vpos;;v;;aController;;c;;r;;d59,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\traslados_entre_bodegas\traslados_entre_bodegasController.php;f1;2;2;11;;;;vpos;;v;;a;;r;;d24,2;;b0,0;;m0;;e">
+</treenode>
+<treenode node="grabarDetalle;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\traslados_entre_bodegas\traslados_entre_bodegasController.php;f8;83;2;106;;;;vpos;;v;;a;;r;;d32,83;;b1,0;;m0;;e">
+</treenode>
+<treenode node="grabarEncabezado;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\traslados_entre_bodegas\traslados_entre_bodegasController.php;f8;71;2;82;;;;vpos;;v;;a;;r;;d35,71;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\inventario\traslados_entre_bodegas\traslados_entre_bodegasController.php;f8;13;2;68;;;;vpos;;v;;a;;r;;d24,13;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="TreeMap;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\TreeMap.php;f0;13;1;17;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class TreeMap extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google Treemap;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="unidad_medidaController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\unidad_medida\unidad_medidaController.php;f0;1;1;27;;;;vpos;;v;;aController;;c;;r;;d49,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\unidad_medida\unidad_medidaController.php;f8;2;2;7;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\unidad_medida\unidad_medidaController.php;f8;9;2;20;;;;vpos;;v;;a;;r;;d24,9;;b1,0;;m0;;e">
+</treenode>
+<treenode node="obtenerCatalogos;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\unidad_medida\unidad_medidaController.php;f8;22;2;25;;;;vpos;;v;;a;;r;;d35,22;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="unidad_medidaModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\unidad_medida\unidad_medidaModel.php;f0;1;1;16;;;;vpos;;v;;aModel;;c;;r;;d39,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\unidad_medida\unidad_medidaModel.php;f8;2;2;14;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="uso_terrenoController;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\uso_terreno\uso_terrenoController.php;f0;1;1;20;;;;vpos;;v;;aController;;c;;r;;d47,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\uso_terreno\uso_terrenoController.php;f8;2;2;6;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\uso_terreno\uso_terrenoController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="uso_terrenoModel;PHP:Class Name;C:\www\proyectos\buo\application\modules\catalogos\uso_terreno\uso_terrenoModel.php;f0;1;1;14;;;;vpos;;v;;aModel;;c;;r;;d37,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\application\modules\catalogos\uso_terreno\uso_terrenoModel.php;f8;2;2;12;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="Utility;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f0;12;1;206;;;;vpos;;v;;a;;r&#10;Definition&#10;    class Utility&#10;&#10;Description&#10;     This file contains the most common used functions for KoolReport.;;d0,13;;b0,0;;m0;;e">
+<treenode node="filterIn;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f11;162;5;174;;;;vpos;;v;;a;;r;;d4,163;;b0,5;;m0;;earr;;pkeys;;p">
+</treenode>
+<treenode node="filterOut;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f11;175;5;187;;;;vpos;;v;;a;;r;;d4,176;;b0,5;;m0;;earr;;pkeys;;p">
+</treenode>
+<treenode node="format;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f11;61;5;93;;;;vpos;;v;;a;;r;;d4,62;;b0,5;;m0;;evalue;;pformat;;p">
+</treenode>
+<treenode node="get;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f11;144;5;151;;;;vpos;;v;;a;;r;;d4,145;;b0,5;;m0;;earr;;pkey;;pdefault;;p">
+</treenode>
+<treenode node="getArray;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f11;157;5;161;;;;vpos;;v;;a;;r;;d4,158;;b0,5;;m0;;earr;;pkey;;pdefault;;p">
+</treenode>
+<treenode node="getClassName;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f11;95;5;99;;;;vpos;;v;;a;;r;;d4,96;;b0,5;;m0;;eobj;;p">
+</treenode>
+<treenode node="getClassPath;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f11;196;5;200;;;;vpos;;v;;a;;r;;d4,197;;b0,5;;m0;;eobj;;p">
+</treenode>
+<treenode node="getUniqueId;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f11;16;5;20;;;;vpos;;v;;a;;r;;d4,17;;b0,5;;m0;;e">
+</treenode>
+<treenode node="guessType;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f11;22;2;43;;;;vpos;;v;;a;;r;;d1,23;;b0,5;;m0;;evalue;;p">
+</treenode>
+<treenode node="init;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f11;152;5;156;;;;vpos;;v;;a;;r;;d56,152;;b0,5;;m0;;earr;;pkey;;pdefault;;p">
+</treenode>
+<treenode node="isAssoc;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f11;134;5;143;;;;vpos;;v;;a;;r;;d4,135;;b0,5;;m0;;earr;;p">
+</treenode>
+<treenode node="jsonEncode;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f11;123;5;132;;;;vpos;;v;;a;;r;;d4,124;;b0,5;;m0;;eobject;;poption;;p">
+</treenode>
+<treenode node="mark_js_function;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f11;101;5;121;;;;vpos;;v;;a;;r;;d59,101;;b0,5;;m0;;eobj;;pmarks;;p">
+</treenode>
+<treenode node="prettyPrint;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f11;201;5;205;;;;vpos;;v;;a;;r;;d38,201;;b0,5;;m0;;earr;;p">
+</treenode>
+<treenode node="recurse_copy;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f11;46;5;60;;;;vpos;;v;;a;;r;;d44,46;;b0,5;;m0;;esrc;;pdst;;p">
+</treenode>
+<treenode node="strReplace;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Utility.php;f11;188;5;195;;;;vpos;;v;;a;;r;;d4,189;;b0,5;;m0;;estr;;pparams;;p">
+</treenode>
+</treenode>
+<treenode node="ValueMap;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\processes\ValueMap.php;f0;33;1;93;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class ValueMap extends Process&#10;&#10;Description&#10;     This file contains class to map data value to another.;;d0,34;;b0,0;;m0;;e">
+<treenode node="OnInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\ValueMap.php;f12;37;3;44;;;;vpos;;v;;a;;r;;d30,37;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onInput;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\ValueMap.php;f11;74;2;92;;;;vpos;;v;;a;;r;;d1,75;;b2,0;;m0;;erow;;p">
+</treenode>
+<treenode node="onMetaReceived;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\processes\ValueMap.php;f11;46;2;72;;;;vpos;;v;;a;;r;;d1,47;;b2,0;;m0;;emetaData;;p">
+</treenode>
+</treenode>
+<treenode node="View;PHP:Class Name;C:\www\proyectos\buo\system\view.php;f0;5;1;173;;;;vpos;;v;;aMainClass;;c;;r;;d29,5;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\system\view.php;f8;26;2;43;;;;vpos;;v;;a;;r;;d47,26;;b1,0;;m0;;erequest;;p">
+</treenode>
+<treenode node="getTemplate;PHP:Function Name;C:\www\proyectos\buo\system\view.php;f8;107;2;109;;;;vpos;;v;;a;;r;;d31,107;;b1,0;;m0;;e">
+</treenode>
+<treenode node="mostrar_vista;PHP:Function Name;C:\www\proyectos\buo\system\view.php;f8;94;2;97;;;;vpos;;v;;a;;r;;d38,94;;b1,0;;m0;;evista;;p">
+</treenode>
+<treenode node="rendering;PHP:Function Name;C:\www\proyectos\buo\system\view.php;f8;46;2;92;;;;vpos;;v;;a;;r;;d50,46;;b1,0;;m0;;evista;;pitem;;p">
+</treenode>
+<treenode node="setCss;PHP:Function Name;C:\www\proyectos\buo\system\view.php;f8;122;2;130;;;;vpos;;v;;a;;r;;d36,122;;b1,0;;m0;;ecss;;p">
+</treenode>
+<treenode node="setJs;PHP:Function Name;C:\www\proyectos\buo\system\view.php;f8;112;2;120;;;;vpos;;v;;a;;r;;d34,112;;b1,0;;m0;;ejs;;p">
+</treenode>
+<treenode node="setMainCss;PHP:Function Name;C:\www\proyectos\buo\system\view.php;f8;132;2;148;;;;vpos;;v;;a;;r;;d40,132;;b1,0;;m0;;ecss;;p">
+</treenode>
+<treenode node="setMainJs;PHP:Function Name;C:\www\proyectos\buo\system\view.php;f8;150;2;170;;;;vpos;;v;;a;;r;;d38,150;;b1,0;;m0;;ejs;;p">
+</treenode>
+<treenode node="setTemplate;PHP:Function Name;C:\www\proyectos\buo\system\view.php;f8;100;2;105;;;;vpos;;v;;a;;r;;d41,100;;b1,0;;m0;;eplantilla;;p">
+</treenode>
+</treenode>
+<treenode node="Widget;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f0;17;1;397;;;;vpos;;v;;aBase;;c;;r&#10;Definition&#10;    class Widget extends Base&#10;&#10;Description&#10;     This file contains foundation class for KoolReport&apos;s widget;;d0,18;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f8;31;2;43;;;;vpos;;v;;a;;r;;d1,32;;b1,0;;m0;;eparams;;p">
+</treenode>
+<treenode node="create;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f8;372;2;387;;;;vpos;;v;;a;;r;;d1,373;;b0,5;;m0;;eparams;;preturn;;p">
+</treenode>
+<treenode node="getAssetManager;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f8;306;2;313;;;;vpos;;v;;a;;r;;d1,307;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getName;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f8;167;2;170;;;;vpos;;v;;a;;r;;d1,168;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getReport;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f8;315;2;318;;;;vpos;;v;;a;;r;;d1,316;;b1,0;;m0;;e">
+</treenode>
+<treenode node="html;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f8;388;2;396;;;;vpos;;v;;a;;r;;d1,389;;b0,5;;m0;;eparams;;p">
+</treenode>
+<treenode node="onFurtherProcessRequest;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f11;265;2;269;;;;vpos;;v;;a;;r;;d1,266;;b2,0;;m0;;enode;;p">
+</treenode>
+<treenode node="onInit;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f11;301;2;304;;;;vpos;;v;;a;;r;;d1,302;;b2,0;;m0;;e">
+</treenode>
+<treenode node="onRender;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f11;330;2;333;;;;vpos;;v;;a;;r;;d1,331;;b2,0;;m0;;e">
+</treenode>
+<treenode node="registerResources;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f8;111;2;164;;;;vpos;;v;;a;;r;;d1,112;;b1,0;;m0;;esettings;;p">
+</treenode>
+<treenode node="render;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f8;321;2;328;;;;vpos;;v;;a;;r;;d1,322;;b1,0;;m0;;e">
+</treenode>
+<treenode node="renderResources;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f8;62;2;110;;;;vpos;;v;;a;;r;;d1,63;;b1,0;;m0;;esettings;;preturn;;p">
+</treenode>
+<treenode node="resourceSettings;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f11;50;2;60;;;;vpos;;v;;a;;r;;d1,51;;b2,0;;m0;;e">
+</treenode>
+<treenode node="template;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f11;335;2;370;;;;vpos;;v;;a;;r;;d1,336;;b2,0;;m0;;etemplate;;pvariables;;preturn;;p">
+</treenode>
+<treenode node="translate;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f11;296;2;299;;;;vpos;;v;;a;;r;;d1,297;;b2,0;;m0;;ekey;;p">
+</treenode>
+<treenode node="useAutoName;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f11;172;2;178;;;;vpos;;v;;a;;r;;d1,173;;b2,0;;m0;;eprefix;;p">
+</treenode>
+<treenode node="useDataSource;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f11;180;2;263;;;;vpos;;v;;a;;r;;d1,181;;b2,0;;m0;;escope;;p">
+</treenode>
+<treenode node="useLanguage;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f11;272;2;294;;;;vpos;;v;;a;;r;;d1,273;;b2,0;;m0;;e">
+</treenode>
+<treenode node="version;PHP:Function Name;C:\www\proyectos\buo\libraries\koolreport\core\Widget.php;f8;45;2;48;;;;vpos;;v;;a;;r;;d1,46;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="WordTree;PHP:Class Name;C:\www\proyectos\buo\libraries\koolreport\widgets\google\WordTree.php;f0;13;1;17;;;;vpos;;v;;aChart;;c;;r&#10;Definition&#10;    class WordTree extends Chart&#10;&#10;Description&#10;     This file is wrapper class for Google WordTree;;d0,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="autoloadCore;PHP:Function Name;C:\www\proyectos\buo\system\autoload.php;f1;6;2;10;;;;vpos;;v;;a;;r;;d30,6;;b0,0;;m0;;eclass;;p">
+</treenode>
+<treenode node="autoloadLayout;PHP:Function Name;C:\www\proyectos\buo\system\autoload.php;f1;18;2;22;;;;vpos;;v;;a;;r;;d32,18;;b0,0;;m0;;eclass;;p">
+</treenode>
+<treenode node="autoloadLibs;PHP:Function Name;C:\www\proyectos\buo\system\autoload.php;f1;12;2;16;;;;vpos;;v;;a;;r;;d30,12;;b0,0;;m0;;eclass;;p">
+</treenode>
+<treenode node="ErrorHandlerSystem;PHP:Function Name;C:\www\proyectos\buo\system\system.php;f0;1;1;29;;;;vpos;;v;;a;;r;;d64,1;;b0,0;;m0;;eerrno;;perrstr;;perrfile;;perrline;;p">
+</treenode>
+</phptree>
+</codestructure>

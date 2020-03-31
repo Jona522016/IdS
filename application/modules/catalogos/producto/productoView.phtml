@@ -1,0 +1,46 @@
+<?php 
+	require_once INC_PATH."jqgrid_template.php"; 
+?>
+
+<div class="modal fade" id="importarModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Importacion de Imagenes</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="file-loading">
+          <input id="archivo1" name="archivo1" type="file"'>
+        </div>
+        <div id="kartik-file-errors"></div>
+      </div>
+      <div class="modal-footer">
+        <button id="cerrar_upload1" type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+        <button id="upload_archivo1" type="button" class="btn btn-primary" title="Upload">Cargar Imagen</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade bs-example-modal-lg" id="myModal3" tabindex="-1" role="dialog" >
+	<div class="modal-dialog modal-lg" role="document">
+   	<div class="modal-content">
+      	<div class="modal-header">
+         	<button type="button" class="close" data-dismiss="modal" ><span>&times;</span></button>
+         	<h4 class="modal-title" id="myModalLabel">Ver Imágen...</h4>
+        	</div>
+        	<div class="modal-body">
+        		<div id="iframe-view"></div>
+        	</div>
+        	<div class="modal-footer">
+         	<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times-circle"></i> Cerrar</button>
+        	</div>
+    	</div>
+   </div>*
+</div>
+
+
+
