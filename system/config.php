@@ -11,16 +11,16 @@ if ($_SERVER['HTTP_HOST']=="localhost") {
 	define('DB_HOST', 'localhost');
 	define('DB_USER', 'root');
 	define('DB_PASS', '');
-	define('DB_NAME', 'db_buo');
+	define('DB_NAME', 'db_ids');
 	define('DB_CHAR', 'utf8');
-	define('BASE_URL', 'http://localhost/proyectos/buo/');
+	define('BASE_URL', 'http://localhost/Ids/IdS/');
 } else {
 	define('DB_HOST', 'localhost');
-	define('DB_USER', 'mibuonet_admin');
-	define('DB_PASS', 'adM1nP4s$word');
-	define('DB_NAME', 'mibuonet_dbmibuo');
+	define('DB_USER', '');
+	define('DB_PASS', '');
+	define('DB_NAME', '');
 	define('DB_CHAR', 'utf8');
-	define('BASE_URL', 'http://mibuo.net/');
+	define('BASE_URL', '');
 }
 define('LIBS_PATH', ROOT . 'libraries' . DS);
 define('LAYOUT_PATH', ROOT . 'layout' . DS);
@@ -45,16 +45,16 @@ define('PERFIL_EMPRESA', BASE_URL.'public/empresas/');
 define('LOGO_EMPRESA','logo_empresa.png');
 define('LOGO_ENCABEZADO','logo_encabezado.png');
 
-define('APP_NAME', 'sysTech+');
-define('APP_SLOGAN', 'Tecnologia a su Alcance');
-define('APP_COMPANY', 'Ideas y Sistemas');
-define('APP_AUTOR', 'Ideas y Sistemas');
-define('APP_TITLE', 'sysTech+');
-define('APP_DESCRIPTION', 'Sistema Base de Trabajo');
+define('APP_NAME', 'ProyectoInventario IDS');
+define('APP_SLOGAN', 'Una solución más');
+define('APP_COMPANY', 'USPG');
+define('APP_AUTOR', 'Jonatan, Bryan, Samuel, Jonathan');
+define('APP_TITLE', 'ProyectoInventario IDS');
+define('APP_DESCRIPTION', 'Sistema de Inventario');
 define('SESSION_TIME', 30);
 define('HASH_KEY', '4f6a6d8a2be79');
 
-define('MAIL_HOST','smtp.ideasysistemas.com');
-define('MAIL_USER','sistema@ideasysistemas.com');
-define('MAIL_PASS','sisT3m4!');
+define('MAIL_HOST','');
+define('MAIL_USER','');
+define('MAIL_PASS','');
 ?>
