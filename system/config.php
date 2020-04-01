@@ -11,7 +11,7 @@ if ($_SERVER['HTTP_HOST']=="localhost") {
 	define('DB_HOST', 'localhost');
 	define('DB_USER', 'root');
 	define('DB_PASS', '');
-	define('DB_NAME', 'db_ids');
+	define('DB_NAME', 'ids_db');
 	define('DB_CHAR', 'utf8');
 	define('BASE_URL', 'http://localhost/Ids/IdS/');
 } else {
