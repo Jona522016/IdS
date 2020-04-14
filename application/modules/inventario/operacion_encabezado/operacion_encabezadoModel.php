@@ -32,9 +32,9 @@ class operacion_encabezadoModel extends Model {
 								$this->campos[$key]=$value;
 							}
 						}
-		 			}
-		 			$campos=$this->campos;
-		 			if($parametros['operacion']=='add' || $parametros['operacion']=='edit'){
+					}
+					$campos=$this->campos;
+					if($parametros['operacion']=='add' || $parametros['operacion']=='edit'){
 						unset($campos[$this->id_tabla]);
 					}
 				}else{
@@ -42,7 +42,7 @@ class operacion_encabezadoModel extends Model {
 						if(array_key_exists($key,$this->campos)){
 							$campos[$key]=$value;
 						}
-		 			}
+					}
 				}	
 				foreach($campos as $key => $value){
 					if($response['status']=='error'){
@@ -50,11 +50,11 @@ class operacion_encabezadoModel extends Model {
 					}else{
 						switch($key){
 							case 'fecha':
-								$fecha = DateTime::createFromFormat('d/m/Y', $campos[$key]);
-								$campos[$key]=$fecha->format('Y-m-d');	
-								break;								
+							$fecha = DateTime::createFromFormat('d/m/Y', $campos[$key]);
+							$campos[$key]=$fecha->format('Y-m-d');	
+							break;								
 							default:
-								break;
+							break;
 						}
 
 					}
@@ -74,9 +74,29 @@ class operacion_encabezadoModel extends Model {
 		}
 		return $response;			
 	}	
-		
-	
-	
+
+	public function crearSqlQuery($parametros){
+		$response=array();
+		if ($parametros['operacion']=='generarCorrelativo'){
+			try{				
+				$sql  = "select count(id_categoria_operacion) as correlativo";
+				$sql .= " from $this->tabla ";
+				$condicion = $parametros['condicion'];
+				$sql .= " where estado_registro='A' and $condicion";	
+				$response['status']='ok';
+				$response['response']=$sql;
+				$response['data']=0;						
+			}catch(Exception $e){
+				$response['status']='error';
+				$response['message']='Ocurrio un Error en la clase '.get_class($e). ': '.$e->getMessage().'.  En el Archivo: '.$e->getFile().' en la línea: '.$e->getLine();
+				$response['data']=0;			
+			}
+		}else{
+			$response=parent::crearSqlQuery($parametros);
+			
+		}
+		return $response;	
+	}
 	
 
 }

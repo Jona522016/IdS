@@ -62,7 +62,6 @@ $(document).ready(function(){
 			datosCombo_id_tipo_producto = datos.tipo_producto.datos;
 			datosCombo_id_categoria = datos.categoria.datos;
 			datosCombo_id_clase = datos.clase.datos;
-			datosCombo_id_presentacion = datos.presentacion.datos;
 			datosCombo_id_medida = datos.medida.datos;
 			datosCombo_id_operador = datos.operador.datos;
 			generarGrid(grid);
@@ -337,33 +336,6 @@ $(document).ready(function(){
 							}
 						}					
 					}
-					,{	name:'id_presentacion'
-						,index:'id_presentacion'
-						,label:'Presentación'
-						,width: 150
-						,align:"center"
-						,formatter: formatCombo
-						,search:true					
-						,stype:'select'
-						,searchoptions:{
-							value: function(){
-								var datos=crearCombo('id_presentacion');
-								return datos;
-							}
-							,sopt:['eq','ne']
-						}
-						,searchrules:{
-							required:true
-						}					
-						,editable:true
-						,edittype:'select'
-						,editoptions:{
-							value: function(){
-								var datos= crearCombo('id_presentacion');
-								return datos;
-							}
-						}					
-					}
 					,{	name:'id_medida'
 						,index:'id_medida'
 						,label:'Medida'
@@ -458,7 +430,13 @@ $(document).ready(function(){
 						,hidden:true
 						,search:false
 						,editable:false
-					}					
+					}
+					,{	name:'existencia'
+						,index:'existencia'
+						,hidden:true
+						,search:false
+						,editable:false
+					}				
 					,{	name:'estado_registro'
 						,index:'estado_registro'
 						,label:'Estado'
@@ -506,7 +484,7 @@ $(document).ready(function(){
 						,align:'center'
 						,formatter: function(cellvalue, options, rowObject) {
 							let archivo=rowObject[10];
-							return '<input type="button" class="btn btn-primary" value="Ver Archivo" onclick="ver_archivo(\''+rowObject[17]+'\');"\>';
+							return '<input type="button" class="btn btn-primary" value="Ver Archivo" onclick="ver_archivo(\''+rowObject[16]+'\');"\>';
         				}
 					}
 				]

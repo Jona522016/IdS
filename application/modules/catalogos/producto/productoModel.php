@@ -18,15 +18,15 @@ class productoModel extends Model{
 		$this->campos['id_tipo_producto'] = 0;
 		$this->campos['id_categoria'] = 0;
 		$this->campos['id_clase'] = 0;
-		$this->campos['id_presentacion'] = 0;
 		$this->campos['id_medida'] = 0;
 		$this->campos['tipo_producto'] = '';
 		$this->campos['imagen'] = "";
 		$this->campos['observaciones'] = "";
 		$this->campos['descripcion_alternativa'] = "";
 		$this->campos['id_operador'] = Session::get('id_usuario');
+		$this->campos['existencia'] = 0;
 		$this->campos['estado_registro'] = 'A';					
-						
+
 	}
 
 	public function validar_datos($parametros){
@@ -43,9 +43,9 @@ class productoModel extends Model{
 								$this->campos[$key]=$value;
 							}
 						}
-		 			}
-		 			$campos=$this->campos;
-		 			if($parametros['operacion']=='add' || $parametros['operacion']=='edit'){
+					}
+					$campos=$this->campos;
+					if($parametros['operacion']=='add' || $parametros['operacion']=='edit'){
 						unset($campos[$this->id_tabla]);
 						unset($campos['select']);
 						unset($campos['fecha']);
@@ -57,7 +57,7 @@ class productoModel extends Model{
 						if(array_key_exists($key,$this->campos)){
 							$campos[$key]=$value;
 						}
-		 			}
+					}
 				}	
 				foreach($campos as $key => $value){
 					if($response['status']=='error'){
@@ -86,40 +86,77 @@ class productoModel extends Model{
 	
 	public function crearSqlQuery($parametros){
 		$response=array();
-		if ($parametros['operacion']=='actualizaArchivo'||isset($parametros['especial'])){
-		try{
-			if ($parametros['operacion']=='actualizaArchivo'){
-				$sql  = "update $this->tabla";
-				$sql .= " set imagen='".$parametros['archivo']."'";
-				$sql .= " where id_producto=".$parametros['id'];
-			}	
-			
-			if ($parametros['operacion']=='informacion_consulta_archivos'){
-				$sql  = "select * from vw_opr_consulta_archivo_adjunto";
-			}	
-			if ($parametros['especial']){
-				$sql  = "select ";
-				$sql .= "$this->id_tabla as id";
-				$sql .= ",descripcion ";
-				$sql .= ",codigo ";
-				$sql .= ",precio ";
-				$sql .= " from $this->tabla ";
-				if(isset($parametros['condicion'])){
-					$condicion = $parametros['condicion'];
-					$sql .= " where estado_registro='A' and $condicion";
-				}else{
-					$sql .= " where estado_registro='A'";
-				}					
-			}			
-			
-			$response['status']='ok';
-			$response['response']=$sql;
-			$response['data']=0;						
-		}catch(Exception $e){
-			$response['status']='error';
-			$response['message']='Ocurrio un Error en la clase '.get_class($e). ': '.$e->getMessage().'.  En el Archivo: '.$e->getFile().' en la línea: '.$e->getLine();
-			$response['data']=0;			
-		}
+		if ($parametros['operacion']=='actualizaArchivo'||$parametros['operacion']=='consultaInventario'||$parametros['operacion']=='consultaMovimiento'||$parametros['operacion']=='consultaVentasTotales'||$parametros['operacion']=='consultaExistencia'||isset($parametros['especial'])){
+			try{
+				if ($parametros['operacion']=='actualizaArchivo'){
+					$sql  = "update $this->tabla";
+					$sql .= " set imagen='".$parametros['archivo']."'";
+					$sql .= " where id_producto=".$parametros['id'];
+				}	
+				else if ($parametros['operacion']=='consultaVentasTotales'){
+					$sql  = "select ";
+					$sql .= "fecha_operacion";
+					$sql .= ",serie";
+					$sql .= ",numero";
+					$sql .= ",Total";
+					$sql .= " from vw_inventario_totales";
+					if(isset($parametros['condicion'])){
+						$condicion = $parametros['condicion'];
+						$sql .= " where $condicion";
+					}
+				}
+				else if ($parametros['operacion']=='consultaMovimiento'){
+					$sql  = "select *";
+					$sql .= " from vw_inventario_totales";
+					if(isset($parametros['condicion'])){
+						$condicion = $parametros['condicion'];
+						$sql .= " where $condicion";
+					}
+				}
+				else if ($parametros['operacion']=='consultaInventario'){
+					$sql  = "select *";
+					$sql .= " from vw_inventario_productos";
+					if(isset($parametros['condicion'])){
+						$condicion = $parametros['condicion'];
+						$sql .= " where $condicion";
+					}
+				}
+				else if ($parametros['operacion']=='consultaExistencia'){
+					$sql  = "select ";
+					$sql .= "$this->id_tabla as id";
+					$sql .= ",descripcion ";
+					$sql .= ",existencia ";
+					$sql .= " from $this->tabla ";
+					if(isset($parametros['condicion'])){
+						$condicion = $parametros['condicion'];
+						$sql .= " where estado_registro='A' and $condicion";
+					}else{
+						$sql .= " where estado_registro='A'";
+					}
+				}
+				else if ($parametros['especial']){
+					$sql  = "select ";
+					$sql .= "$this->id_tabla as id";
+					$sql .= ",descripcion ";
+					$sql .= ",codigo ";
+					$sql .= ",precio ";
+					$sql .= " from $this->tabla ";
+					if(isset($parametros['condicion'])){
+						$condicion = $parametros['condicion'];
+						$sql .= " where estado_registro='A' and $condicion";
+					}else{
+						$sql .= " where estado_registro='A'";
+					}					
+				}		
+
+				$response['status']='ok';
+				$response['response']=$sql;
+				$response['data']=0;						
+			}catch(Exception $e){
+				$response['status']='error';
+				$response['message']='Ocurrio un Error en la clase '.get_class($e). ': '.$e->getMessage().'.  En el Archivo: '.$e->getFile().' en la línea: '.$e->getLine();
+				$response['data']=0;			
+			}
 		}else{
 			$response=parent::crearSqlQuery($parametros);
 			

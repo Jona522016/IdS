@@ -77,7 +77,9 @@ class operacion_encabezadoModel extends Model {
 		return $response;			
 	}	
 		
-	
+	public function generar_reportes(){
+		
+	}
 	
 	
 

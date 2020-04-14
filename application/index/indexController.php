@@ -1,3 +1,4 @@
+
 <?php
 class indexController extends Controller {
 	public function __construct() {
@@ -7,10 +8,16 @@ class indexController extends Controller {
 	public function index() {
 		try {
 			if (Session::get('autenticado')) {
-				$this->view->titulo = 'Home';
-				$this->view->descripcion = 'Inicio de Sistema';
-				$this->view->setMainCss(array('JQUERY_CONFIRM'));
-				$this->view->setMainJs(array('JQUERY_CONFIRM'));
+				$this->view->titulo = 'Inicio de Sistema';
+				$this->view->descripcion = 'Bienvenido';
+				$this->view->setMainCss(array(
+					'JQUERY_CONFIRM'
+				));
+				$this->view->setMainJs(array(
+					'JQUERY_CONFIRM'
+					,'STAT_PIE_CHART'
+					,'BOOTSTRAP_TOUR'
+				));
 				$this->view->dataTemplate[$this->view->template]->Config('autenticado');
 				$this->view->setJs(array('index'));
 				$this->view->Rendering('index');

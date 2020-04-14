@@ -10,7 +10,6 @@ class productoController extends Controller{
 		$this->modeloTipoProducto=$this->loadModel('tipo_producto','catalogos');
 		$this->modeloCategoria=$this->loadModel('categoria','catalogos');
 		$this->modeloClase=$this->loadModel('clase','catalogos');
-		$this->modeloPresentacion=$this->loadModel('presentacion','catalogos');
 		$this->modeloMedida=$this->loadModel('medida','catalogos');
 		$this->modeloOperador = $this->loadModel('entidad','entidades');	
 	}
@@ -49,7 +48,6 @@ class productoController extends Controller{
 			$combos['tipo_producto']=$this->ObtenerDatosCombo($this->modeloTipoProducto);
 			$combos['categoria']=$this->ObtenerDatosCombo($this->modeloCategoria);
 			$combos['clase']=$this->ObtenerDatosCombo($this->modeloClase);
-			$combos['presentacion']=$this->ObtenerDatosCombo($this->modeloPresentacion);
 			$combos['medida']=$this->ObtenerDatosCombo($this->modeloMedida);
 			$combos['operador']=$this->ObtenerDatosCombo($this->modeloOperador);
 			echo json_encode($combos);
@@ -65,28 +63,52 @@ class productoController extends Controller{
 		$id=$_POST['id'];
 		$gestor=$_POST['gestor'];
 		if (!empty($_FILES)) {
-		   $tempFile = $_FILES[$fileobj]['tmp_name'];  
-		    $nombre_archivo1=$_FILES[$fileobj]['name']; 
-		    $nombre_archivo=str_replace(' ','_', $nombre_archivo1);
+			$tempFile = $_FILES[$fileobj]['tmp_name'];  
+			$nombre_archivo1=$_FILES[$fileobj]['name']; 
+			$nombre_archivo=str_replace(' ','_', $nombre_archivo1);
 			$carpeta = PHOTO_PATH.$gestor.DS;
 			if (!file_exists($carpeta)) {
-    			mkdir($carpeta, 0777, true);
+				mkdir($carpeta, 0777, true);
 			}
 			$targetFile = $carpeta . $nombre_archivo;		    
 
-		    move_uploaded_file($tempFile,$targetFile);
-		    $response=json_encode(array('uploaded' => 'OK', 'ruta_archivo' => $nombre_archivo ));
+			move_uploaded_file($tempFile,$targetFile);
+			$response=json_encode(array('uploaded' => 'OK', 'ruta_archivo' => $nombre_archivo ));
 		    //$response='{"ver":"1.0","ret":true,"errmsg":null,"errcode":0,"data":{"status":"upload success","originalFilename":"testFileName.txt","fileName":"excelFile","fileType":"text/plain","fileSize":1733}';
-		    if($id!=false){
+			if($id!=false){
 				$params=array('id'=>$id,'operacion'=>'actualizaArchivo','getData'=>'N','archivo'=>$nombre_archivo);
 				$resultado = $this->modelo->ejecutarQuery($params);
-			 }
-		    /*echo $response;*/
+			}
+			/*echo $response;*/
 		}
 	}	
 
-	 function DataTableEdit($idTable=false){
- 		try{
+	public function consultaExistencia($condicion){
+		if ($condicion == 'bajo') {
+			$params=array('operacion'=>'consultaExistencia','condicion'=>'existencia <= 5');
+			$resultado = $this->modelo->ejecutarQuery($params);
+		}
+		echo json_encode($resultado);
+	}
+
+	public function consultaVentasTotales(){
+		$params=array('operacion'=>'consultaVentasTotales','condicion'=>'categoria_operacion = \'Factura\';');
+		$resultado = $this->modelo->ejecutarQuery($params);
+		echo json_encode($resultado);
+	}
+	public function consultaMovimiento(){
+		$params=array('operacion'=>'consultaMovimiento','condicion'=>'estado = \'Alta\';');
+		$resultado = $this->modelo->ejecutarQuery($params);
+		echo json_encode($resultado);
+	}
+	public function consultaInventario(){
+		$params=array('operacion'=>'consultaInventario','condicion'=>'estado = \'Alta\';');
+		$resultado = $this->modelo->ejecutarQuery($params);
+		echo json_encode($resultado);
+	}
+
+	function DataTableEdit($idTable=false){
+		try{
 			$datos = $_POST;
 			$oper=$datos['oper'];
 			if(array_key_exists('id',$datos)){

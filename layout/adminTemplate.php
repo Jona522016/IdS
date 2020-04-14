@@ -24,7 +24,7 @@ class adminTemplate extends MainClass {
 			);		
 			$this->mainjs=array(
 				'JQUERY'
-	         ,'LISTENER_PASIVE'
+				,'LISTENER_PASIVE'
 				,'BOOTSTRAP' 
 				,'MODERNIZR'
 				,'SLIMSCROLL' 
@@ -63,22 +63,22 @@ class adminTemplate extends MainClass {
 	public function Config($opcion){
 		switch($opcion){
 			case 'autenticado':
-				$this->body_class ='class="sidebar-fixed topnav-fixed"';
-				$this->wrapper_class='class="wrapper"';
+			$this->body_class ='class="sidebar-fixed topnav-fixed"';
+			$this->wrapper_class='class="wrapper"';
 
-				break;
+			break;
 			case 'login';
-				$this->body_class ='';
-				$this->wrapper_class='class="wrapper full-page-wrapper page-auth page-login text-center"';
+			$this->body_class ='';
+			$this->wrapper_class='class="wrapper full-page-wrapper page-auth page-login text-center"';
 			default:
-				break;
+			break;
 		}
 	}
 	
 	public function getMainCss(){
 		$rutas=$this->rutas();
-      $css= array(
-         'BOOTSTRAP' => array('tipo'=>'CSS','nav'=>'ALL','ubicacion'=>'HEADER','ruta'=>$rutas['ruta_css'].'bootstrap.min.css')
+		$css= array(
+			'BOOTSTRAP' => array('tipo'=>'CSS','nav'=>'ALL','ubicacion'=>'HEADER','ruta'=>$rutas['ruta_css'].'bootstrap.min.css')
 			,'FONT_AWESOME' => array('tipo'=>'CSS','nav'=>'ALL','ubicacion'=>'HEADER','ruta'=>$rutas['ruta_css'].'font-awesome.min.css')
 			,'SELECT2' => array('tipo'=>'CSS','nav'=>'ALL','ubicacion'=>'HEADER','ruta'=>$rutas['ruta_my_plugins'].'select2/select2.min.css')
 			,'MAIN' => array('tipo'=>'CSS','nav'=>'ALL','ubicacion'=>'HEADER','ruta'=>$rutas['ruta_css'].'main.css')
@@ -97,12 +97,23 @@ class adminTemplate extends MainClass {
 		);	
 		return $css;
 	}	
-		
+
 	public function getMainJs(){
 		$rutas=$this->rutas();
 		$js=array(
 			'JQUERY' =>array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_js'].'jquery/jquery-2.1.0.js')
 			,'JQUERY_UI' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_js'].'jquery-ui/jquery-ui-1.10.4.custom.min.js')
+			,'BOOTSTRAP_TOUR' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'bootstrap-tour/bootstrap-tour.custom.js')
+			,'PRUEBA' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_js'].'king-chart-stat.js')
+			,'STAT_PIE_CHART' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'stat/jquery.easypiechart.min.js')
+			,'INTERFACE_BARRAS' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_my_plugins'].'my_codigo_barras/interface.js')
+			,'BARRAS' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_my_plugins'].'my_codigo_barras/bardecode-worker.js')
+			,'FLOT' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'stat/flot/jquery.flot.min.js')
+			,'FLOT_PIE' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'stat/flot/jquery.flot.pie.min.js')
+			,'FLOT_RESIZE' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'stat/flot/jquery.flot.resize.min.js')
+			,'FLOT_TOOLTIP' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'stat/flot/jquery.flot.tooltip.min.js')
+			,'FLOT_TIME' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'stat/flot/jquery.flot.time.min.js')
+			,'FLOT_SELECTION' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'stat/flot/jquery.flot.selection.min.js')
 			,'BOOTSTRAP' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_js'].'bootstrap/bootstrap.min.js')
 			,'MODERNIZR' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'modernizr/modernizr.js')
 			,'KING_COMMON' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_js'].'king-common.js')
@@ -154,14 +165,6 @@ class adminTemplate extends MainClass {
 			,'CHART_JS' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'Chart.js/dist/Chart.min.js')
 			,'I_CHECK' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'iCheck/icheck.min.js')
 			,'SKYCONS' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'skycons/skycons.js')
-			,'FLOT' =>array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'Flot/jquery.flot.js')
-			,'FLOT_PIE' =>array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'Flot/jquery.flot.pie.js')
-			,'FLOT_TIME' =>array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'Flot/jquery.flot.time.js')
-			,'FLOT_STACK' =>array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'Flot/jquery.flot.stack.js')
-			,'FLOT_RESIZE' =>array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'Flot/jquery.flot.resize.js')
-			,'FLOT_ORDERBARS' =>array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'flot.orderbars/js/jquery.flot.orderBars.js')
-			,'FLOT_SPLINE' =>array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'flot-spline/js/jquery.flot.spline.min.js')
-			,'FLOT_CURVEDLINES' =>array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'flot.curvedlines/curvedLines.js')
 			,'DATE_JS' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'DateJS/build/date.js')
 			,'JQVMAP' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=> $rutas['ruta_plugins'].'jqvmap/dist/jquery.vmap.js')
 			,'JQVMAP_MAPS' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_plugins'].'jqvmap/dist/maps/jquery.vmap.world.js')
@@ -173,98 +176,98 @@ class adminTemplate extends MainClass {
 			,'COLOR_PICKER_ES' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_my_plugins'].'spectrum/i18n/jquery.spectrum-es.js')		
 			,'BOOTSTRAP_DUAL_LISTBOX' => array('tipo'=>'JS','nav'=>'ALL','ubicacion'=>'FOOTER','ruta'=>$rutas['ruta_my_plugins'].'bootstrap-duallistbox/jquery.bootstrap-duallistbox.min.js')														
 		);
-		return $js;
-	}   
+return $js;
+}   
 
-	public function setMainMenu($data){
-		$html='';
-		$html.= '<nav class="main-nav"><ul class="main-menu">';
-		$data_menu = $data ;
-		$reg = 0;
-		$nivel3 = 0 ;
-		if (isset($data) && count($data)) : 
-			foreach ($data_menu as $key => $value) :
-				if($reg<count($data)-1){
-					++$reg ;
-				}
-				switch($value["nivel"]):
+public function setMainMenu($data){
+	$html='';
+	$html.= '<nav class="main-nav"><ul class="main-menu">';
+	$data_menu = $data ;
+	$reg = 0;
+	$nivel3 = 0 ;
+	if (isset($data) && count($data)) : 
+		foreach ($data_menu as $key => $value) :
+			if($reg<count($data)-1){
+				++$reg ;
+			}
+			switch($value["nivel"]):
 				case 1:
-					if ($value["patron"] == 'A') :
-						$html.= '<li id="opm'.$value['id_menu'].'" data-id="opm'.$value['id_menu'].'">';
-					else :
-						$html.= '<li id="opm'.$value['id_menu'].'" data-id="opm'.$value['id_menu'].'">';;
-					endif ;
-					if ($value["funcion"] == 'M' and $data_menu[$reg]["nivel"] == 2 and $key<=count($data)-1)  :
-						$html.= '<a href="'.BASE_URL.$value["link"].'" class="js-sub-menu-toggle">';
-							$html.= '<i class="fa fa-'.$value["imagen"].' fa-fw"></i>';
-							$html.= '<span class="text">'.$value["descripcion"].'</span>';
-							$html.= '<i class="toggle-icon fa fa-angle-left"></i>';
-						$html.= '</a>';
-						$html.= '<ul class="sub-menu">';
-					else :
-						$html.= '<a href="'.BASE_URL.$value["link"].'">';
-							$html.= '<i class="fa fa-'.$value["imagen"].' fa-fw"></i>';
-							$html.= '<span class="text">'.$value["descripcion"].'</span>';
-						$html.= '</a></li>';
-					endif ;								
-					break;
-				case 2:
-					$html.= '<li id="opm'.$value['id_menu'].'" data-id="opm'.$value['id_menu'].'">';;
-					if ($value["funcion"] == 'M' and $data_menu[$reg]["nivel"] == 3) : 
-						$html.= '<a href="'.BASE_URL.$value["link"].'" class="js-sub-menu-toggle">';
-							$html.= '<i class="fa fa-'.$value["imagen"].' fa-fw"></i>';
-							$html.= '<span class="text">'.$value["descripcion"].'</span>';
-							$html.= '<i class="toggle-icon fa fa-angle-left"></i>';
-						$html.= '</a>';
-						$html.= '<ul class="sub-menu">';
-					else :
-						$html.= '<a href="'.BASE_URL.$value["link"].'">';
-							$html.= '<i class="fa fa-'.$value["imagen"].' fa-fw"></i>';
-							$html.= '<span class="text">'.$value["descripcion"].'</span>';
-						$html.= '</a>';
-					endif ;	
-						
-					if ($reg<=count($data_menu)-1) :
-						switch($data_menu[$reg]["nivel"]){
-						case 1: 
-							$html.= '</li></ul>';
-							break;
-						case 2:
-							$html.= '</li>';
-							break;
-						case 3: 
-							$html.= '<!--</ul></li>-->';
-							break;									
-						}
-					endif;
-						
-					break;
-				case 3: 
+				if ($value["patron"] == 'A') :
 					$html.= '<li id="opm'.$value['id_menu'].'" data-id="opm'.$value['id_menu'].'">';
-					$html.= '<a href="'.BASE_URL.$value["link"].'">';
-						$html.= '<i class="fa fa-'.$value["imagen"].' fa-fw"></i>';
-						$html.= '<span class="text">'.$value["descripcion"].'</span>';
+				else :
+					$html.= '<li id="opm'.$value['id_menu'].'" data-id="opm'.$value['id_menu'].'">';;
+				endif ;
+				if ($value["funcion"] == 'M' and $data_menu[$reg]["nivel"] == 2 and $key<=count($data)-1)  :
+					$html.= '<a href="'.BASE_URL.$value["link"].'" class="js-sub-menu-toggle">';
+					$html.= '<i class="fa fa-'.$value["imagen"].' fa-fw"></i>';
+					$html.= '<span class="text">'.$value["descripcion"].'</span>';
+					$html.= '<i class="toggle-icon fa fa-angle-left"></i>';
 					$html.= '</a>';
-					
-					if ($reg<=count($data_menu)-1) :
-						switch($data_menu[$reg]["nivel"]){
-						case 1:
-							$html.= '</li></ul>';
-							break;
+					$html.= '<ul class="sub-menu">';
+				else :
+					$html.= '<a href="'.BASE_URL.$value["link"].'">';
+					$html.= '<i class="fa fa-'.$value["imagen"].' fa-fw"></i>';
+					$html.= '<span class="text">'.$value["descripcion"].'</span>';
+					$html.= '</a></li>';
+				endif ;								
+				break;
+				case 2:
+				$html.= '<li id="opm'.$value['id_menu'].'" data-id="opm'.$value['id_menu'].'">';;
+				if ($value["funcion"] == 'M' and $data_menu[$reg]["nivel"] == 3) : 
+					$html.= '<a href="'.BASE_URL.$value["link"].'" class="js-sub-menu-toggle">';
+					$html.= '<i class="fa fa-'.$value["imagen"].' fa-fw"></i>';
+					$html.= '<span class="text">'.$value["descripcion"].'</span>';
+					$html.= '<i class="toggle-icon fa fa-angle-left"></i>';
+					$html.= '</a>';
+					$html.= '<ul class="sub-menu">';
+				else :
+					$html.= '<a href="'.BASE_URL.$value["link"].'">';
+					$html.= '<i class="fa fa-'.$value["imagen"].' fa-fw"></i>';
+					$html.= '<span class="text">'.$value["descripcion"].'</span>';
+					$html.= '</a>';
+				endif ;	
+
+				if ($reg<=count($data_menu)-1) :
+					switch($data_menu[$reg]["nivel"]){
+						case 1: 
+						$html.= '</li></ul>';
+						break;
 						case 2:
-							$html.= '</li></ul>';
-							break;
+						$html.= '</li>';
+						break;
+						case 3: 
+						$html.= '<!--</ul></li>-->';
+						break;									
+					}
+				endif;
+
+				break;
+				case 3: 
+				$html.= '<li id="opm'.$value['id_menu'].'" data-id="opm'.$value['id_menu'].'">';
+				$html.= '<a href="'.BASE_URL.$value["link"].'">';
+				$html.= '<i class="fa fa-'.$value["imagen"].' fa-fw"></i>';
+				$html.= '<span class="text">'.$value["descripcion"].'</span>';
+				$html.= '</a>';
+
+				if ($reg<=count($data_menu)-1) :
+					switch($data_menu[$reg]["nivel"]){
+						case 1:
+						$html.= '</li></ul>';
+						break;
+						case 2:
+						$html.= '</li></ul>';
+						break;
 						case 3:
-							$html.= '</li>';
-							break;									
-						}
-					endif;	
-					break;
-				endswitch;
-			endforeach;
-		endif ; 
-		$html.= '</ul></ul></nav>';
-		echo $html;
-	}
+						$html.= '</li>';
+						break;									
+					}
+				endif;	
+				break;
+			endswitch;
+		endforeach;
+	endif ; 
+	$html.= '</ul></ul></nav>';
+	echo $html;
+}
 }	
 ?>
