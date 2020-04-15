@@ -94,7 +94,7 @@
 <treenode node="onMetaReceived;PHP:Function Name;C:\www\Ids\IdS\libraries\koolreport\processes\AccumulativeColumn.php;f11;23;5;31;;;;vpos;;v;;a;;r;;d1,24;;b2,0;;m0;;emetaData;;p">
 </treenode>
 </treenode>
-<treenode node="adminTemplate;PHP:Class Name;C:\www\Ids\IdS\layout\adminTemplate.php;f0;1;1;270;;;;vpos;;v;;aMainClass;;c;;r;;d38,1;;b0,0;;m0;;e">
+<treenode node="adminTemplate;PHP:Class Name;C:\www\Ids\IdS\layout\adminTemplate.php;f0;1;1;271;;;;vpos;;v;;aMainClass;;c;;r;;d38,1;;b0,0;;m0;;e">
 <treenode node="__construct;PHP:Function Name;C:\www\Ids\IdS\layout\adminTemplate.php;f8;12;2;40;;;;vpos;;v;;a;;r;;d31,12;;b1,0;;m0;;e">
 </treenode>
 <treenode node="Config;PHP:Function Name;C:\www\Ids\IdS\layout\adminTemplate.php;f8;62;2;75;;;;vpos;;v;;a;;r;;d32,62;;b1,0;;m0;;eopcion;;p">
@@ -103,11 +103,11 @@
 </treenode>
 <treenode node="getMainCss;PHP:Function Name;C:\www\Ids\IdS\layout\adminTemplate.php;f8;77;2;98;;;;vpos;;v;;a;;r;;d29,77;;b1,0;;m0;;e">
 </treenode>
-<treenode node="getMainJs;PHP:Function Name;C:\www\Ids\IdS\layout\adminTemplate.php;f8;100;1;178;;;;vpos;;v;;a;;r;;d28,100;;b1,0;;m0;;e">
+<treenode node="getMainJs;PHP:Function Name;C:\www\Ids\IdS\layout\adminTemplate.php;f8;100;1;179;;;;vpos;;v;;a;;r;;d28,100;;b1,0;;m0;;e">
 </treenode>
 <treenode node="rutas;PHP:Function Name;C:\www\Ids\IdS\layout\adminTemplate.php;f8;43;2;55;;;;vpos;;v;;a;;r;;d24,43;;b1,0;;m0;;e">
 </treenode>
-<treenode node="setMainMenu;PHP:Function Name;C:\www\Ids\IdS\layout\adminTemplate.php;f7;180;1;269;;;;vpos;;v;;a;;r;;d34,180;;b1,0;;m0;;edata;;p">
+<treenode node="setMainMenu;PHP:Function Name;C:\www\Ids\IdS\layout\adminTemplate.php;f7;181;1;270;;;;vpos;;v;;a;;r;;d34,181;;b1,0;;m0;;edata;;p">
 </treenode>
 </treenode>
 <treenode node="AggregatedColumn;PHP:Class Name;C:\www\Ids\IdS\libraries\koolreport\processes\AggregatedColumn.php;f0;23;1;129;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class AggregatedColumn extends Process&#10;&#10;Description&#10;     This file contains class to generate aggregate columns.;;d0,24;;b0,0;;m0;;e">
@@ -1186,6 +1186,12 @@
 <treenode node="__construct;PHP:Function Name;C:\www\Ids\IdS\application\modules\entidades\entidad\reporteEntidadController.php;f8;2;2;7;;;;vpos;;v;;a;;r;;d30,2;;b1,0;;m0;;e">
 </treenode>
 <treenode node="index;PHP:Function Name;C:\www\Ids\IdS\application\modules\entidades\entidad\reporteEntidadController.php;f8;9;2;20;;;;vpos;;v;;a;;r;;d24,9;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="reportesController;PHP:Class Name;C:\www\Ids\IdS\application\modules\inventario\reportes\reportesController.php;f0;1;1;30;;;;vpos;;v;;aController;;c;;r;;d44,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\Ids\IdS\application\modules\inventario\reportes\reportesController.php;f1;2;3;4;;;;vpos;;v;;a;;r;;d24,2;;b0,0;;m0;;e">
+</treenode>
+<treenode node="index;PHP:Function Name;C:\www\Ids\IdS\application\modules\inventario\reportes\reportesController.php;f8;6;2;28;;;;vpos;;v;;a;;r;;d24,6;;b1,0;;m0;;e">
 </treenode>
 </treenode>
 <treenode node="Request;PHP:Class Name;C:\www\Ids\IdS\system\request.php;f0;5;1;108;;;;vpos;;v;;a;;r;;d13,5;;b0,0;;m0;;e">

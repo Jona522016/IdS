@@ -710,6 +710,7 @@
 		<file name="C:\www\Ids\IdS\layout\admin\assets\js\king-common.js" crc="1561652583"/>
 		<file name="C:\www\Ids\IdS\layout\admin\assets\js\king-chart-stat.js" crc="1473839384"/>
 		<file name="C:\www\Ids\IdS\layout\admin\assets\js\king-chart-stat-transparent.js" crc="1473840310"/>
+		<file name="C:\www\Ids\IdS\layout\admin\assets\fonts\montserrat\OFL.txt" crc="1323756000"/>
 		<file name="C:\www\Ids\IdS\layout\admin\assets\css\skins\yellow.css" crc="1473845076"/>
 		<file name="C:\www\Ids\IdS\layout\admin\assets\css\skins\transparent.css" crc="1493371884"/>
 		<file name="C:\www\Ids\IdS\layout\admin\assets\css\skins\teal.css" crc="1473845076"/>
@@ -734,7 +735,7 @@
 		<file name="C:\www\Ids\IdS\layout\admin\assets\css\bootstrap.css" crc="1558756252"/>
 		<file name="C:\www\Ids\IdS\layout\admin\template.php" crc="1583256516"/>
 		<file name="C:\www\Ids\IdS\layout\smartyTemplate.php" crc="1549305393"/>
-		<file name="C:\www\Ids\IdS\layout\adminTemplate.php" crc="1586802217"/>
+		<file name="C:\www\Ids\IdS\layout\adminTemplate.php" crc="1586826030"/>
 		<file name="C:\www\Ids\IdS\include\reporte_template.php" crc="1575323316"/>
 		<file name="C:\www\Ids\IdS\include\reporte_filtros.php" crc="1576770454"/>
 		<file name="C:\www\Ids\IdS\include\jqgrid_template.php" crc="1574110947"/>
@@ -743,6 +744,12 @@
 		<file name="C:\www\Ids\IdS\application\modules\inventario\traslados_entre_bodegas\js\traslados_entre_bodegas-table.js" crc="1585522050"/>
 		<file name="C:\www\Ids\IdS\application\modules\inventario\traslados_entre_bodegas\traslados_entre_bodegasView.phtml" crc="1585534526"/>
 		<file name="C:\www\Ids\IdS\application\modules\inventario\traslados_entre_bodegas\traslados_entre_bodegasController.php" crc="1585529868"/>
+		<file name="C:\www\Ids\IdS\application\modules\inventario\reportes\js\reportes.js" crc="1586842320"/>
+		<file name="C:\www\Ids\IdS\application\modules\inventario\reportes\js\main.js" crc="1513714698"/>
+		<file name="C:\www\Ids\IdS\application\modules\inventario\reportes\css\util.css" crc="1513689072"/>
+		<file name="C:\www\Ids\IdS\application\modules\inventario\reportes\css\main.css" crc="1586831667"/>
+		<file name="C:\www\Ids\IdS\application\modules\inventario\reportes\reportesView.phtml" crc="1586841544"/>
+		<file name="C:\www\Ids\IdS\application\modules\inventario\reportes\reportesController.php" crc="1586827113"/>
 		<file name="C:\www\Ids\IdS\application\modules\inventario\operacion_encabezado\operacion_encabezadoModel.php" crc="1586762041"/>
 		<file name="C:\www\Ids\IdS\application\modules\inventario\operacion_encabezado\operacion_encabezadoController.php" crc="1583421509"/>
 		<file name="C:\www\Ids\IdS\application\modules\inventario\operacion_detalle\operacion_detalleModel.php" crc="1585346090"/>
@@ -763,7 +770,7 @@
 		<file name="C:\www\Ids\IdS\application\modules\inventario\compras\js\compras-table.js" crc="1585340507"/>
 		<file name="C:\www\Ids\IdS\application\modules\inventario\compras\comprasView.phtml" crc="1585531302"/>
 		<file name="C:\www\Ids\IdS\application\modules\inventario\compras\comprasController.php" crc="1586758083"/>
-		<file name="C:\www\Ids\IdS\application\modules\facturacion\tpv\js\tpv.js" crc="1586814295"/>
+		<file name="C:\www\Ids\IdS\application\modules\facturacion\tpv\js\tpv.js" crc="1586842726"/>
 		<file name="C:\www\Ids\IdS\application\modules\facturacion\tpv\js\tpv-table.js" crc="1585510117"/>
 		<file name="C:\www\Ids\IdS\application\modules\facturacion\tpv\js\barras.js" crc="1586801453"/>
 		<file name="C:\www\Ids\IdS\application\modules\facturacion\tpv\tpvView.phtml" crc="1586814318"/>
@@ -915,7 +922,7 @@
 		<file name="C:\www\Ids\IdS\application\modules\catalogos\archivo_adjunto\archivo_adjuntoController.php" crc="1583599495"/>
 		<file name="C:\www\Ids\IdS\application\layout\layoutController.php" crc="1584165510"/>
 		<file name="C:\www\Ids\IdS\application\index\js\login.js" crc="1573952468"/>
-		<file name="C:\www\Ids\IdS\application\index\js\index.js" crc="1586755303"/>
+		<file name="C:\www\Ids\IdS\application\index\js\index.js" crc="1586837569"/>
 		<file name="C:\www\Ids\IdS\application\index\css\index.css" crc="1573327892"/>
 		<file name="C:\www\Ids\IdS\application\index\loginView.phtml" crc="1586733857"/>
 		<file name="C:\www\Ids\IdS\application\index\indexView.phtml" crc="1586752166"/>
@@ -923,6 +930,7 @@
 		<file name="C:\www\Ids\IdS\application\index\indexController.php" crc="1586715507"/>
 		<file name="C:\www\Ids\IdS\application\index\defaultView.phtml" crc="1548979414"/>
 		<file name="C:\www\Ids\IdS\index.php" crc="1574600936"/>
+		<file name="C:\www\Ids\IdS\basededatosIDS.sql" crc="1586843690"/>
 		<file name="C:\www\Ids\IdS\.htaccess" crc="1539405996"/>
 	</filescache>
 </project>
