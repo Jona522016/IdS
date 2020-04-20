@@ -1,8 +1,8 @@
-CREATE DATABASE  IF NOT EXISTS `ids_db` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `ids_db`;
+/*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `id13314013_ids_db`;
 -- MySQL dump 10.13  Distrib 8.0.16, for Win64 (x86_64)
 --
--- Host: localhost    Database: ids_db
+-- Host: localhost    Database: id13314013_ids_db
 -- ------------------------------------------------------
 -- Server version	5.7.26
 
@@ -87,14 +87,22 @@ UNLOCK TABLES;
 /*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
 /*!50003 SET sql_mode              = 'STRICT_ALL_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER' */ ;
 DELIMITER ;;
-/*!50003 CREATE*/ /*!50017 DEFINER=`root`@`localhost`*/ /*!50003 TRIGGER `mantenimiento_existencia` BEFORE INSERT ON `inv_operacion_detalle` FOR EACH ROW IF NEW.tipo_movimiento = 'I' THEN
-	UPDATE opr_producto
-    SET opr_producto.existencia = opr_producto.existencia + NEW.unidades
-    WHERE  opr_producto.id_producto = NEW.id_producto;
-ELSE
-	UPDATE opr_producto
-    SET opr_producto.existencia = opr_producto.existencia - NEW.unidades
-    WHERE  opr_producto.id_producto = NEW.id_producto;
+/*!50003 CREATE*/ /*!50017 DEFINER=`root`@`localhost`*/ /*!50003 TRIGGER `mantenimiento_existencia` BEFORE INSERT ON `inv_operacion_detalle` FOR EACH ROW IF NEW.tipo_movimiento = 'I' THEN
+
+	UPDATE opr_producto
+
+    SET opr_producto.existencia = opr_producto.existencia + NEW.unidades
+
+    WHERE  opr_producto.id_producto = NEW.id_producto;
+
+ELSE
+
+	UPDATE opr_producto
+
+    SET opr_producto.existencia = opr_producto.existencia - NEW.unidades
+
+    WHERE  opr_producto.id_producto = NEW.id_producto;
+
 END IF */;;
 DELIMITER ;
 /*!50003 SET sql_mode              = @saved_sql_mode */ ;
@@ -607,7 +615,7 @@ CREATE TABLE `sys_empresa` (
 
 LOCK TABLES `sys_empresa` WRITE;
 /*!40000 ALTER TABLE `sys_empresa` DISABLE KEYS */;
-INSERT INTO `sys_empresa` VALUES (1,'IdS','IDS','logo_empresa.png','logo_encabezado.png','A');
+INSERT INTO `sys_empresa` VALUES (1,'id13314013_ids','id13314013_ids','logo_empresa.png','logo_encabezado.png','A');
 /*!40000 ALTER TABLE `sys_empresa` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -902,11 +910,11 @@ SET character_set_client = utf8mb4;
 SET character_set_client = @saved_cs_client;
 
 --
--- Dumping events for database 'ids_db'
+-- Dumping events for database 'id13314013_ids_db'
 --
 
 --
--- Dumping routines for database 'ids_db'
+-- Dumping routines for database 'id13314013_ids_db'
 --
 /*!50003 DROP PROCEDURE IF EXISTS `sp_usr_genera_menu` */;
 /*!50003 SET @saved_cs_client      = @@character_set_client */ ;

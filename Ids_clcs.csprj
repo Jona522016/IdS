@@ -44,6 +44,12 @@
 </treenode>
 <treenode node="HASH_KEY;PHP:PHP Word;C:\www\Ids\IdS\system\config.php;f8;54;16;54;;;;vpos;;v;;a;;r&apos;4f6a6d8a2be79&apos;;;d-1,-1;;b0,0;;m0;;e">
 </treenode>
+<treenode node="https://invsystechids.000webhostapp.com/;PHP:PHP Word;C:\www\Ids\IdS\system\config.php;f21;22;61;22;;;;vpos;;v;;a;;r&apos;https://invsystechids.000webhostapp.com/&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="id13314013_ids;PHP:PHP Word;C:\www\Ids\IdS\system\config.php;f20;20;34;20;;;;vpos;;v;;a;;r&apos;id13314013_ids&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="id13314013_idsys;PHP:PHP Word;C:\www\Ids\IdS\system\config.php;f20;18;36;18;;;;vpos;;v;;a;;r&apos;id13314013_idsys&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
 <treenode node="INC_LAYOUT_PATH;PHP:PHP Word;C:\www\Ids\IdS\system\config.php;f8;26;23;26;;;;vpos;;v;;a;;rROOT . &apos;layout&apos; . DS . &apos;&apos;;;d-1,-1;;b0,0;;m0;;e">
 </treenode>
 <treenode node="INC_PATH;PHP:PHP Word;C:\www\Ids\IdS\system\config.php;f8;27;16;27;;;;vpos;;v;;a;;rROOT . &apos;include&apos;. DS;;d-1,-1;;b0,0;;m0;;e">
@@ -85,6 +91,8 @@
 <treenode node="validarDatos;PHP:Interface Name;C:\www\Ids\IdS\system\model.php;f0;5;1;8;;;;vpos;;v;;a;;r;;d0,6;;b0,0;;m0;;e">
 <treenode node="validar_datos;PHP:Function Name;C:\www\Ids\IdS\system\model.php;f11;7;46;7;;;;vpos;;v;;a;;r;;d-1,-1;;b1,0;;m0;;eparametros;;p">
 </treenode>
+</treenode>
+<treenode node="W}8Tx]BvW@3qY#]G;PHP:PHP Word;C:\www\Ids\IdS\system\config.php;f20;19;36;19;;;;vpos;;v;;a;;r&apos;W}8Tx]BvW@3qY#]G&apos;;;d-1,-1;;b0,0;;m0;;e">
 </treenode>
 <treenode node="AccumulativeColumn;PHP:Class Name;C:\www\Ids\IdS\libraries\koolreport\processes\AccumulativeColumn.php;f0;20;1;48;;;;vpos;;v;;aProcess;;c;;r&#10;Definition&#10;    class AccumulativeColumn extends Process&#10;&#10;Description&#10;     This file contains process to create accumulative column from a column;;d0,21;;b0,0;;m0;;e">
 <treenode node="onInput;PHP:Function Name;C:\www\Ids\IdS\libraries\koolreport\processes\AccumulativeColumn.php;f8;38;2;47;;;;vpos;;v;;a;;r;;d1,39;;b1,0;;m0;;erow;;p">
@@ -1188,10 +1196,10 @@
 <treenode node="index;PHP:Function Name;C:\www\Ids\IdS\application\modules\entidades\entidad\reporteEntidadController.php;f8;9;2;20;;;;vpos;;v;;a;;r;;d24,9;;b1,0;;m0;;e">
 </treenode>
 </treenode>
-<treenode node="reportesController;PHP:Class Name;C:\www\Ids\IdS\application\modules\inventario\reportes\reportesController.php;f0;1;1;30;;;;vpos;;v;;aController;;c;;r;;d44,1;;b0,0;;m0;;e">
-<treenode node="__construct;PHP:Function Name;C:\www\Ids\IdS\application\modules\inventario\reportes\reportesController.php;f1;2;3;4;;;;vpos;;v;;a;;r;;d24,2;;b0,0;;m0;;e">
+<treenode node="reportesController;PHP:Class Name;C:\www\Ids\IdS\application\modules\reportes\reportes\reportesController.php;f0;1;1;30;;;;vpos;;v;;aController;;c;;r;;d44,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\Ids\IdS\application\modules\reportes\reportes\reportesController.php;f1;2;3;4;;;;vpos;;v;;a;;r;;d24,2;;b0,0;;m0;;e">
 </treenode>
-<treenode node="index;PHP:Function Name;C:\www\Ids\IdS\application\modules\inventario\reportes\reportesController.php;f8;6;2;28;;;;vpos;;v;;a;;r;;d24,6;;b1,0;;m0;;e">
+<treenode node="index;PHP:Function Name;C:\www\Ids\IdS\application\modules\reportes\reportes\reportesController.php;f8;6;2;28;;;;vpos;;v;;a;;r;;d24,6;;b1,0;;m0;;e">
 </treenode>
 </treenode>
 <treenode node="Request;PHP:Class Name;C:\www\Ids\IdS\system\request.php;f0;5;1;108;;;;vpos;;v;;a;;r;;d13,5;;b0,0;;m0;;e">
@@ -1400,8 +1408,8 @@
 <treenode node="index;PHP:Function Name;C:\www\Ids\IdS\application\modules\catalogos\tipo_producto\tipo_productoController.php;f8;8;2;19;;;;vpos;;v;;a;;r;;d24,8;;b1,0;;m0;;e">
 </treenode>
 </treenode>
-<treenode node="tipo_productoModel;PHP:Class Name;C:\www\Ids\IdS\application\modules\catalogos\tipo_producto\tipo_productoModel.php;f0;1;1;13;;;;vpos;;v;;aModel;;c;;r;;d39,1;;b0,0;;m0;;e">
-<treenode node="__construct;PHP:Function Name;C:\www\Ids\IdS\application\modules\catalogos\tipo_producto\tipo_productoModel.php;f8;2;2;11;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
+<treenode node="tipo_productoModel;PHP:Class Name;C:\www\Ids\IdS\application\modules\catalogos\tipo_producto\tipo_productoModel.php;f0;1;1;14;;;;vpos;;v;;aModel;;c;;r;;d39,1;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\www\Ids\IdS\application\modules\catalogos\tipo_producto\tipo_productoModel.php;f8;2;2;12;;;;vpos;;v;;a;;r;;d31,2;;b1,0;;m0;;e">
 </treenode>
 </treenode>
 <treenode node="tipo_unidad_medidaController;PHP:Class Name;C:\www\Ids\IdS\application\modules\catalogos\tipo_unidad_medida\tipo_unidad_medidaController.php;f0;1;1;20;;;;vpos;;v;;aController;;c;;r;;d54,1;;b0,0;;m0;;e">

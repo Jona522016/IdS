@@ -16,11 +16,11 @@ if ($_SERVER['HTTP_HOST']=="localhost") {
 	define('BASE_URL', 'http://localhost/Ids/IdS/');
 } else {
 	define('DB_HOST', 'localhost');
-	define('DB_USER', '');
-	define('DB_PASS', '');
-	define('DB_NAME', '');
+	define('DB_USER', 'id13314013_idsys');
+	define('DB_PASS', 'W}8Tx]BvW@3qY#]G');
+	define('DB_NAME', 'id13314013_ids');
 	define('DB_CHAR', 'utf8');
-	define('BASE_URL', '');
+	define('BASE_URL', 'https://invsystechids.000webhostapp.com/');
 }
 define('LIBS_PATH', ROOT . 'libraries' . DS);
 define('LAYOUT_PATH', ROOT . 'layout' . DS);

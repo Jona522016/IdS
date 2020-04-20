@@ -8,6 +8,9 @@
 		<file name="C:\www\Ids\IdS\system\mainclass.php"/>
 		<file name="C:\www\Ids\IdS\system\system.php"/>
 		<file name="C:\www\Ids\IdS\application\modules\inventario\compras\comprasController.php"/>
+		<file name="C:\www\Ids\IdS\application\modules\catalogos\tipo_producto\tipo_productoController.php"/>
+		<file name="C:\www\Ids\IdS\application\modules\catalogos\tipo_producto\tipo_productoModel.php"/>
+		<file name="C:\www\Ids\IdS\application\modules\catalogos\sucursal\sucursalModel.php"/>
 	</lastopfiles>
 	<errors version="5.11">
 	</errors>
@@ -21,6 +24,8 @@
 	</yiidata>
 	<todoblock>
 	</todoblock>
+	<dbgurls>
+	</dbgurls>
 	<filescache>
 		<file name="C:\www\Ids\IdS\system\view.php" crc="1574615355"/>
 		<file name="C:\www\Ids\IdS\system\system.php" crc="1573948319"/>
@@ -33,7 +38,7 @@
 		<file name="C:\www\Ids\IdS\system\hash.php" crc="1550952840"/>
 		<file name="C:\www\Ids\IdS\system\database.php" crc="1550952842"/>
 		<file name="C:\www\Ids\IdS\system\controller.php" crc="1575224940"/>
-		<file name="C:\www\Ids\IdS\system\config.php" crc="1585759701"/>
+		<file name="C:\www\Ids\IdS\system\config.php" crc="1587076960"/>
 		<file name="C:\www\Ids\IdS\system\bootstrap.php" crc="1550952777"/>
 		<file name="C:\www\Ids\IdS\system\autoload.php" crc="1550952735"/>
 		<file name="C:\www\Ids\IdS\libraries\koolreport\widgets\koolphp\table\table.js" crc="1531642118"/>
@@ -740,16 +745,16 @@
 		<file name="C:\www\Ids\IdS\include\reporte_filtros.php" crc="1576770454"/>
 		<file name="C:\www\Ids\IdS\include\jqgrid_template.php" crc="1574110947"/>
 		<file name="C:\www\Ids\IdS\include\jqgrid.php" crc="1574610450"/>
+		<file name="C:\www\Ids\IdS\application\modules\reportes\reportes\js\reportes.js" crc="1586842320"/>
+		<file name="C:\www\Ids\IdS\application\modules\reportes\reportes\js\main.js" crc="1513714698"/>
+		<file name="C:\www\Ids\IdS\application\modules\reportes\reportes\css\util.css" crc="1513689072"/>
+		<file name="C:\www\Ids\IdS\application\modules\reportes\reportes\css\main.css" crc="1586831667"/>
+		<file name="C:\www\Ids\IdS\application\modules\reportes\reportes\reportesView.phtml" crc="1586841544"/>
+		<file name="C:\www\Ids\IdS\application\modules\reportes\reportes\reportesController.php" crc="1586827113"/>
 		<file name="C:\www\Ids\IdS\application\modules\inventario\traslados_entre_bodegas\js\traslados_entre_bodegas.js" crc="1585525591"/>
 		<file name="C:\www\Ids\IdS\application\modules\inventario\traslados_entre_bodegas\js\traslados_entre_bodegas-table.js" crc="1585522050"/>
 		<file name="C:\www\Ids\IdS\application\modules\inventario\traslados_entre_bodegas\traslados_entre_bodegasView.phtml" crc="1585534526"/>
 		<file name="C:\www\Ids\IdS\application\modules\inventario\traslados_entre_bodegas\traslados_entre_bodegasController.php" crc="1585529868"/>
-		<file name="C:\www\Ids\IdS\application\modules\inventario\reportes\js\reportes.js" crc="1586842320"/>
-		<file name="C:\www\Ids\IdS\application\modules\inventario\reportes\js\main.js" crc="1513714698"/>
-		<file name="C:\www\Ids\IdS\application\modules\inventario\reportes\css\util.css" crc="1513689072"/>
-		<file name="C:\www\Ids\IdS\application\modules\inventario\reportes\css\main.css" crc="1586831667"/>
-		<file name="C:\www\Ids\IdS\application\modules\inventario\reportes\reportesView.phtml" crc="1586841544"/>
-		<file name="C:\www\Ids\IdS\application\modules\inventario\reportes\reportesController.php" crc="1586827113"/>
 		<file name="C:\www\Ids\IdS\application\modules\inventario\operacion_encabezado\operacion_encabezadoModel.php" crc="1586762041"/>
 		<file name="C:\www\Ids\IdS\application\modules\inventario\operacion_encabezado\operacion_encabezadoController.php" crc="1583421509"/>
 		<file name="C:\www\Ids\IdS\application\modules\inventario\operacion_detalle\operacion_detalleModel.php" crc="1585346090"/>
@@ -798,7 +803,7 @@
 		<file name="C:\www\Ids\IdS\application\modules\catalogos\tipo_unidad_medida\tipo_unidad_medidaController.php" crc="1574719029"/>
 		<file name="C:\www\Ids\IdS\application\modules\catalogos\tipo_producto\js\tipo_producto-table.js" crc="1581526934"/>
 		<file name="C:\www\Ids\IdS\application\modules\catalogos\tipo_producto\tipo_productoView.phtml" crc="1581449125"/>
-		<file name="C:\www\Ids\IdS\application\modules\catalogos\tipo_producto\tipo_productoModel.php" crc="1581526981"/>
+		<file name="C:\www\Ids\IdS\application\modules\catalogos\tipo_producto\tipo_productoModel.php" crc="1586983815"/>
 		<file name="C:\www\Ids\IdS\application\modules\catalogos\tipo_producto\tipo_productoController.php" crc="1581527039"/>
 		<file name="C:\www\Ids\IdS\application\modules\catalogos\tipo_menu\js\tipo_menu-table.js" crc="1562010962"/>
 		<file name="C:\www\Ids\IdS\application\modules\catalogos\tipo_menu\tipo_menuView.phtml" crc="1547829088"/>
@@ -930,7 +935,7 @@
 		<file name="C:\www\Ids\IdS\application\index\indexController.php" crc="1586715507"/>
 		<file name="C:\www\Ids\IdS\application\index\defaultView.phtml" crc="1548979414"/>
 		<file name="C:\www\Ids\IdS\index.php" crc="1574600936"/>
-		<file name="C:\www\Ids\IdS\basededatosIDS.sql" crc="1586843690"/>
+		<file name="C:\www\Ids\IdS\basededatosIDS.sql" crc="1587079262"/>
 		<file name="C:\www\Ids\IdS\.htaccess" crc="1539405996"/>
 	</filescache>
 </project>
