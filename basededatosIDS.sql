@@ -1,8 +1,8 @@
-/*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `id13314013_ids_db`;
+CREATE DATABASE  IF NOT EXISTS `ids_db` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `ids_db`;
 -- MySQL dump 10.13  Distrib 8.0.16, for Win64 (x86_64)
 --
--- Host: localhost    Database: id13314013_ids_db
+-- Host: localhost    Database: ids_db
 -- ------------------------------------------------------
 -- Server version	5.7.26
 
@@ -87,22 +87,14 @@ UNLOCK TABLES;
 /*!50003 SET @saved_sql_mode       = @@sql_mode */ ;
 /*!50003 SET sql_mode              = 'STRICT_ALL_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER' */ ;
 DELIMITER ;;
-/*!50003 CREATE*/ /*!50017 DEFINER=`root`@`localhost`*/ /*!50003 TRIGGER `mantenimiento_existencia` BEFORE INSERT ON `inv_operacion_detalle` FOR EACH ROW IF NEW.tipo_movimiento = 'I' THEN
-
-	UPDATE opr_producto
-
-    SET opr_producto.existencia = opr_producto.existencia + NEW.unidades
-
-    WHERE  opr_producto.id_producto = NEW.id_producto;
-
-ELSE
-
-	UPDATE opr_producto
-
-    SET opr_producto.existencia = opr_producto.existencia - NEW.unidades
-
-    WHERE  opr_producto.id_producto = NEW.id_producto;
-
+/*!50003 CREATE*/ /*!50017 DEFINER=`root`@`localhost`*/ /*!50003 TRIGGER `mantenimiento_existencia` BEFORE INSERT ON `inv_operacion_detalle` FOR EACH ROW IF NEW.tipo_movimiento = 'I' THEN
+	UPDATE opr_producto
+    SET opr_producto.existencia = opr_producto.existencia + NEW.unidades
+    WHERE  opr_producto.id_producto = NEW.id_producto;
+ELSE
+	UPDATE opr_producto
+    SET opr_producto.existencia = opr_producto.existencia - NEW.unidades
+    WHERE  opr_producto.id_producto = NEW.id_producto;
 END IF */;;
 DELIMITER ;
 /*!50003 SET sql_mode              = @saved_sql_mode */ ;
@@ -455,7 +447,7 @@ CREATE TABLE `opr_tipo_producto` (
   UNIQUE KEY `clave_UNIQUE` (`clave`),
   KEY `id_empresa` (`id_empresa`),
   CONSTRAINT `opr_tipo_producto_ibfk_1` FOREIGN KEY (`id_empresa`) REFERENCES `sys_empresa` (`id_empresa`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -464,6 +456,7 @@ CREATE TABLE `opr_tipo_producto` (
 
 LOCK TABLES `opr_tipo_producto` WRITE;
 /*!40000 ALTER TABLE `opr_tipo_producto` DISABLE KEYS */;
+INSERT INTO `opr_tipo_producto` VALUES (1,1,'prueba','PRUEBA','A');
 /*!40000 ALTER TABLE `opr_tipo_producto` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -548,7 +541,7 @@ CREATE TABLE `sys_asignacion_menu_grupo` (
   KEY `idx_asignacion_menu_grupo_id_grupo` (`id_grupo`) USING BTREE,
   CONSTRAINT `fk_asignacion_menu_grupo_id_grupo` FOREIGN KEY (`id_grupo`) REFERENCES `sys_grupo` (`id_grupo`) ON DELETE NO ACTION ON UPDATE NO ACTION,
   CONSTRAINT `fk_asignacion_menu_grupo_id_menu` FOREIGN KEY (`id_menu`) REFERENCES `sys_menu` (`id_menu`) ON DELETE NO ACTION ON UPDATE NO ACTION
-) ENGINE=InnoDB AUTO_INCREMENT=344 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=381 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -557,7 +550,7 @@ CREATE TABLE `sys_asignacion_menu_grupo` (
 
 LOCK TABLES `sys_asignacion_menu_grupo` WRITE;
 /*!40000 ALTER TABLE `sys_asignacion_menu_grupo` DISABLE KEYS */;
-INSERT INTO `sys_asignacion_menu_grupo` VALUES (98,1,2,19),(99,1,2,22),(307,1,1,1),(308,1,1,2),(309,1,1,3),(310,1,1,5),(311,1,1,6),(312,1,1,7),(313,1,1,10),(314,1,1,11),(315,1,1,12),(316,1,1,13),(317,1,1,17),(318,1,1,25),(319,1,1,26),(320,1,1,28),(321,1,1,29),(322,1,1,35),(323,1,1,36),(324,1,1,37),(325,1,1,39),(326,1,1,40),(327,1,1,41),(328,1,1,43),(329,1,1,44),(330,1,1,45),(331,1,1,46),(332,1,1,51),(333,1,1,52),(334,1,1,53),(335,1,1,54),(336,1,1,55),(337,1,1,56),(338,1,1,57),(339,1,1,58),(340,1,1,59),(341,1,1,60),(342,1,1,61),(343,1,1,62);
+INSERT INTO `sys_asignacion_menu_grupo` VALUES (98,1,2,19),(99,1,2,22),(344,1,1,1),(345,1,1,2),(346,1,1,3),(347,1,1,5),(348,1,1,6),(349,1,1,7),(350,1,1,10),(351,1,1,11),(352,1,1,12),(353,1,1,13),(354,1,1,17),(355,1,1,25),(356,1,1,26),(357,1,1,28),(358,1,1,29),(359,1,1,35),(360,1,1,36),(361,1,1,37),(362,1,1,39),(363,1,1,40),(364,1,1,41),(365,1,1,43),(366,1,1,44),(367,1,1,45),(368,1,1,46),(369,1,1,52),(370,1,1,53),(371,1,1,54),(372,1,1,55),(373,1,1,56),(374,1,1,57),(375,1,1,58),(376,1,1,59),(377,1,1,60),(378,1,1,61),(379,1,1,62),(380,1,1,63);
 /*!40000 ALTER TABLE `sys_asignacion_menu_grupo` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -615,7 +608,7 @@ CREATE TABLE `sys_empresa` (
 
 LOCK TABLES `sys_empresa` WRITE;
 /*!40000 ALTER TABLE `sys_empresa` DISABLE KEYS */;
-INSERT INTO `sys_empresa` VALUES (1,'id13314013_ids','id13314013_ids','logo_empresa.png','logo_encabezado.png','A');
+INSERT INTO `sys_empresa` VALUES (1,'IdS','IDS','logo_empresa.png','logo_encabezado.png','A');
 /*!40000 ALTER TABLE `sys_empresa` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -707,7 +700,7 @@ CREATE TABLE `sys_menu` (
   PRIMARY KEY (`id_menu`) USING BTREE,
   KEY `id_empresa` (`id_empresa`),
   CONSTRAINT `sys_menu_ibfk_1` FOREIGN KEY (`id_empresa`) REFERENCES `sys_empresa` (`id_empresa`)
-) ENGINE=InnoDB AUTO_INCREMENT=63 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=64 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -716,7 +709,7 @@ CREATE TABLE `sys_menu` (
 
 LOCK TABLES `sys_menu` WRITE;
 /*!40000 ALTER TABLE `sys_menu` DISABLE KEYS */;
-INSERT INTO `sys_menu` VALUES (1,1,'Inicio',1,'#','A','I','dashboard','#26a135',NULL,'C','A'),(2,1,'Catalogos',1,'#','B','I','table',NULL,NULL,'M','A'),(3,1,'Menu',2,'catalogos/menu','BA','I','table',NULL,NULL,'C','A'),(4,1,'Causa de Titularidad',2,'catalogos/causa_titularidad','BAA','I','table','',NULL,'C','B'),(5,1,'Empresas',2,'catalogos/empresa','BAA','I','table',NULL,NULL,'C','A'),(6,1,'Entidad',2,'entidades/entidad','BAA','I','table','','','C','A'),(7,1,'Grupos',2,'catalogos/grupo','BAA','I','table','','','C','A'),(8,1,'Tipo Unidad de Medida',2,'catalogos/tipo_unidad_medida','BAA','I','table','','','C','B'),(9,1,'Unidad de Medidas',2,'catalogos/unidad_medida','BAA','I','table','','','C','B'),(10,1,'Parametros',2,'catalogos/parametro','BAA','I','table','','','C','A'),(11,1,'Tipo de Parametro',2,'catalogos/tipo_parametro','BAA','I','table',NULL,NULL,'C','A'),(12,1,'Asignacion Menu a Entidad',2,'catalogos/asignacion_menu_entidad','BAA','I','table',NULL,NULL,'C','A'),(13,1,'Asignacion Menu a Grupo',2,'catalogos/asignacion_menu_grupo','BAA','I','table',NULL,NULL,'C','A'),(14,1,'Titularidad de Derechos',2,'proyectos/titularidad_derechos','BAA','I','table','','','C','B'),(15,1,'Documento de Titularidad',2,'catalogos/documento_titularidad','BAA','I','table','','','C','B'),(16,1,'Tipo Persona Entrevista',2,'catalogos/tipo_persona_entrevista','BAA','I','table','','','C','B'),(17,1,'Asignacion Entidad Grupo',2,'catalogos/asignacion_entidad_grupo','BAA','I','table',NULL,NULL,'C','A'),(18,1,'Proyectos',1,'#','D','I','table','','prueba','M','B'),(19,1,'Ingreso Ficha Técnica Predial',2,'proyectos/ficha_tecnica/ingreso_ficha_tecnica_predial','DA','I','table','','prueba','C','B'),(20,1,'Clientes',1,'clientes/cliente','C','I','users','','Prueba','M','B'),(21,1,'Proyectos',2,'proyectos/proyecto','DAA','I','table','','','C','B'),(22,1,'Expediente',2,'proyectos/expediente','DAA','I','table','','','C','B'),(23,1,'Equipo',2,'catalogos/equipo','BAA','I','table','','','C','B'),(24,1,'Uso de Terreno',2,'catalogos/uso_terreno','BAA','I','table','','','C','B'),(25,1,'Departamentos',2,'catalogos/departamento','BAA','I','table','','','C','A'),(26,1,'Municipios',2,'catalogos/municipio','BAA','I','table','','','C','A'),(27,1,'Identificador Dirección',2,'catalogos/identificador_direccion','BAA','I','table','','','C','B'),(28,1,'Rol Entidad',2,'catalogos/rol_entidad','BAA','I','table','','','C','A'),(29,1,'Asignacion Rol a Entidad',2,'catalogos/asignacion_rol_entidad','BAA','I','table','','','C','A'),(30,1,'Tomar Fotos',2,'proyectos/tomar_fotos','DAA','I','camera','','','C','B'),(31,1,'Consulta Fotografías',2,'proyectos/tomar_fotos/consulta_fotos','DAB','I','file-text-o','','','C','B'),(32,1,'Tipo de Reportes',2,'catalogos/tipo_reporte','BAD','I','table','','','C','B'),(33,1,'Reportes de Usuario',2,'catalogos/reporte_usuario','BAA','I','file-text-o','','','C','B'),(34,1,'Consulta de Ficha Tecnica Predial',2,'proyectos/consulta_ficha_tecnica_predial','DAC','I','file-text','','','C','B'),(35,1,'Mantenimientos BUO',1,'#','D','I','file-text-o',NULL,'pruebaD1','M','A'),(36,1,'Marcas',2,'catalogos/marca','DA','I','table',NULL,'pruebaD1','C','A'),(37,1,'Modelos',2,'catalogos/modelo','DA','I','table',NULL,'pruebaD1','C','A'),(38,1,'Presentacion',2,'catalogos/presentacion','DA','I','table',NULL,'pruebaD1','C','B'),(39,1,'Medidas',2,'catalogos/medida','DA','I','table',NULL,'pruebaC1','C','A'),(40,1,'Clases',2,'catalogos/clase','DA','I','table',NULL,'pruebaD1','C','A'),(41,1,'Categorias',2,'catalogos/categoria','DA','I','table',NULL,'pruebaD1','C','A'),(43,1,'Sucursales',2,'catalogos/sucursal','DA','I','table',NULL,'pruebaD1','C','A'),(44,1,'Tipo Producto',2,'catalogos/tipo_producto','DA','I','table',NULL,'pruebaD1','C','A'),(45,1,'Bodega',2,'catalogos/bodega','DA','I','table',NULL,'pruebaD1','C','A'),(46,1,'Receta',2,'catalogos/receta','DA','I','table','','pruebaD1','C','A'),(51,1,'Detalle Receta',2,'catalogos/detalle_receta','DA','I','table',NULL,'pruebaD1','C','A'),(52,1,'Producto',1,'catalogos/producto','E','I','table','','pruebaD1','C','A'),(53,1,'Tipo Documento',2,'catalogos/tipo_documento','BAA','I','table','','pruebaD1','C','A'),(54,1,'Categoría Operación',2,'catalogos/categoria_operacion','BAA','I','table','','pruebaD1','C','A'),(55,1,'Inventario',1,'#','F','I','table','','pruebaD1','M','A'),(56,1,'Compras',2,'inventario/compras','FA','I','fas fa-shopping-cart','','pruebaD1','C','A'),(57,1,'Devoluciones',2,'inventario/devoluciones','FB','I','fas fa-people-carry','','pruebaD1','C','A'),(58,1,'Egresos Varios',2,'inventario/egresos_varios','FC','I','fas fa-sign-out-alt','','pruebaD1','C','A'),(59,1,'Ingresos Varios',2,'inventario/ingresos_varios','FD','I','fas fa-sign-in-alt','','pruebaD1','C','A'),(60,1,'Traslados entre Bodegas',2,'inventario/traslados_entre_bodegas','FE','I','fas fa-dolly-flatbed','','preubaD1','C','A'),(61,1,'Reportes',2,'inventario/reportes','FF','I','fa fa-document','','prueba1','C','A'),(62,1,'TPV',1,'facturacion/tpv','G','I','fas fa-file-invoice-dollar','','','C','A');
+INSERT INTO `sys_menu` VALUES (1,1,'Inicio',1,'#','A','I','dashboard','#26a135',NULL,'C','A'),(2,1,'Catalogos',1,'#','B','I','table',NULL,NULL,'M','A'),(3,1,'Menu',2,'catalogos/menu','BA','I','table',NULL,NULL,'C','A'),(4,1,'Causa de Titularidad',2,'catalogos/causa_titularidad','BAA','I','table','',NULL,'C','B'),(5,1,'Empresas',2,'catalogos/empresa','BAA','I','table',NULL,NULL,'C','A'),(6,1,'Entidad',2,'entidades/entidad','BAA','I','table','','','C','A'),(7,1,'Grupos',2,'catalogos/grupo','BAA','I','table','','','C','A'),(8,1,'Tipo Unidad de Medida',2,'catalogos/tipo_unidad_medida','BAA','I','table','','','C','B'),(9,1,'Unidad de Medidas',2,'catalogos/unidad_medida','BAA','I','table','','','C','B'),(10,1,'Parametros',2,'catalogos/parametro','BAA','I','table','','','C','A'),(11,1,'Tipo de Parametro',2,'catalogos/tipo_parametro','BAA','I','table',NULL,NULL,'C','A'),(12,1,'Asignacion Menu a Entidad',2,'catalogos/asignacion_menu_entidad','BAA','I','table',NULL,NULL,'C','A'),(13,1,'Asignacion Menu a Grupo',2,'catalogos/asignacion_menu_grupo','BAA','I','table',NULL,NULL,'C','A'),(14,1,'Titularidad de Derechos',2,'proyectos/titularidad_derechos','BAA','I','table','','','C','B'),(15,1,'Documento de Titularidad',2,'catalogos/documento_titularidad','BAA','I','table','','','C','B'),(16,1,'Tipo Persona Entrevista',2,'catalogos/tipo_persona_entrevista','BAA','I','table','','','C','B'),(17,1,'Asignacion Entidad Grupo',2,'catalogos/asignacion_entidad_grupo','BAA','I','table',NULL,NULL,'C','A'),(18,1,'Proyectos',1,'#','D','I','table','','prueba','M','B'),(19,1,'Ingreso Ficha Técnica Predial',2,'proyectos/ficha_tecnica/ingreso_ficha_tecnica_predial','DA','I','table','','prueba','C','B'),(20,1,'Clientes',1,'clientes/cliente','C','I','users','','Prueba','M','B'),(21,1,'Proyectos',2,'proyectos/proyecto','DAA','I','table','','','C','B'),(22,1,'Expediente',2,'proyectos/expediente','DAA','I','table','','','C','B'),(23,1,'Equipo',2,'catalogos/equipo','BAA','I','table','','','C','B'),(24,1,'Uso de Terreno',2,'catalogos/uso_terreno','BAA','I','table','','','C','B'),(25,1,'Departamentos',2,'catalogos/departamento','BAA','I','table','','','C','A'),(26,1,'Municipios',2,'catalogos/municipio','BAA','I','table','','','C','A'),(27,1,'Identificador Dirección',2,'catalogos/identificador_direccion','BAA','I','table','','','C','B'),(28,1,'Rol Entidad',2,'catalogos/rol_entidad','BAA','I','table','','','C','A'),(29,1,'Asignacion Rol a Entidad',2,'catalogos/asignacion_rol_entidad','BAA','I','table','','','C','A'),(30,1,'Tomar Fotos',2,'proyectos/tomar_fotos','DAA','I','camera','','','C','B'),(31,1,'Consulta Fotografías',2,'proyectos/tomar_fotos/consulta_fotos','DAB','I','file-text-o','','','C','B'),(32,1,'Tipo de Reportes',2,'catalogos/tipo_reporte','BAD','I','table','','','C','B'),(33,1,'Reportes de Usuario',2,'catalogos/reporte_usuario','BAA','I','file-text-o','','','C','B'),(34,1,'Consulta de Ficha Tecnica Predial',2,'proyectos/consulta_ficha_tecnica_predial','DAC','I','file-text','','','C','B'),(35,1,'Mantenimientos BUO',1,'#','D','I','file-text-o',NULL,'pruebaD1','M','A'),(36,1,'Marcas',2,'catalogos/marca','DA','I','table',NULL,'pruebaD1','C','A'),(37,1,'Modelos',2,'catalogos/modelo','DA','I','table',NULL,'pruebaD1','C','A'),(38,1,'Presentacion',2,'catalogos/presentacion','DA','I','table',NULL,'pruebaD1','C','B'),(39,1,'Medidas',2,'catalogos/medida','DA','I','table',NULL,'pruebaC1','C','A'),(40,1,'Clases',2,'catalogos/clase','DA','I','table',NULL,'pruebaD1','C','A'),(41,1,'Categorias',2,'catalogos/categoria','DA','I','table',NULL,'pruebaD1','C','A'),(43,1,'Sucursales',2,'catalogos/sucursal','DA','I','table',NULL,'pruebaD1','C','A'),(44,1,'Tipo Producto',2,'catalogos/tipo_producto','DA','I','table',NULL,'pruebaD1','C','A'),(45,1,'Bodega',2,'catalogos/bodega','DA','I','table',NULL,'pruebaD1','C','A'),(46,1,'Receta',2,'catalogos/receta','DA','I','table','','pruebaD1','C','A'),(51,1,'Detalle Receta',2,'catalogos/detalle_receta','DA','I','table',NULL,'pruebaD1','C','B'),(52,1,'Producto',1,'catalogos/producto','E','I','table','','pruebaD1','C','A'),(53,1,'Tipo Documento',2,'catalogos/tipo_documento','BAA','I','table','','pruebaD1','C','A'),(54,1,'Categoría Operación',2,'catalogos/categoria_operacion','BAA','I','table','','pruebaD1','C','A'),(55,1,'Inventario',1,'#','F','I','table','','pruebaD1','M','A'),(56,1,'Compras',2,'inventario/compras','FA','I','fas fa-shopping-cart','','pruebaD1','C','A'),(57,1,'Devoluciones',2,'inventario/devoluciones','FB','I','fas fa-people-carry','','pruebaD1','C','A'),(58,1,'Egresos Varios',2,'inventario/egresos_varios','FC','I','fas fa-sign-out-alt','','pruebaD1','C','A'),(59,1,'Ingresos Varios',2,'inventario/ingresos_varios','FD','I','fas fa-sign-in-alt','','pruebaD1','C','A'),(60,1,'Traslados entre Bodegas',2,'inventario/traslados_entre_bodegas','FE','I','fas fa-dolly-flatbed','','preubaD1','C','A'),(61,1,'Reportes',2,'reportes/reportes','HA','I','fa fa-document','','prueba1','C','A'),(62,1,'TPV',1,'facturacion/tpv','G','I','fas fa-file-invoice-dollar','','','C','A'),(63,1,'Reportes',1,'#','H','I','fa file-o','','','M','A');
 /*!40000 ALTER TABLE `sys_menu` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -910,11 +903,11 @@ SET character_set_client = utf8mb4;
 SET character_set_client = @saved_cs_client;
 
 --
--- Dumping events for database 'id13314013_ids_db'
+-- Dumping events for database 'ids_db'
 --
 
 --
--- Dumping routines for database 'id13314013_ids_db'
+-- Dumping routines for database 'ids_db'
 --
 /*!50003 DROP PROCEDURE IF EXISTS `sp_usr_genera_menu` */;
 /*!50003 SET @saved_cs_client      = @@character_set_client */ ;
@@ -1019,4 +1012,4 @@ DELIMITER ;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2020-04-13 23:54:50
+-- Dump completed on 2020-04-20 14:07:13
